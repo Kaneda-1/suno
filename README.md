@@ -527,3 +527,76 @@ vs
 
 Sometimes less is more and sometimes you have a very specific concept you want to portray. Mix it up
 ```
+Song for Suno:
+Complete structure of Suno sections in English (introduction, verse, chorus, etc.),
+Indicates embedded within the example structure [Introduction - Indicial of the song], [verse 1 - appropriate appropriate]
+Song title in English,
+English letter (maximum 5,000 care)
+Final English income of a maximum of 1000 characters.
+
+Example:
+
+[Intro - Fingerpicked acoustic guitar in flamenco style, subtle cajón, warm bass line]
+[Verse 1 - Intimate male vocal with Andalusian inflection, acoustic guitar fingerpicking, soft percussion]
+ Me desperté con tu sonrisa
+ Dibujada en mi almohada
+ Como si fuera una caricia
+ Que el viento me regalada
+[Verse 2 - Adding gentle strings, maintaining intimate vocal delivery]
+ Tus ojos hablan sin palabras
+ De todo lo que siento
+ Y en cada latido del alba
+ Vuelvo a vivir tu aliento
+[Pre-Chorus - Building with piano, subtle orchestration, vocal harmonies]
+ Y no hay distancia que me pare
+ No hay tiempo que me canse
+ Si al final del día
+ Vuelvo a encontrarte
+[Chorus - Full arrangement with strings, piano, passionate vocal delivery with melisma]
+ Entre tus brazos quiero estar
+ Donde el mundo no pueda llegar
+ Entre tus labios encontrar
+ La verdad que me hace volar
+ Solo contigo soy quien soy
+ Solo contigo me voy
+ A ese lugar donde no hay final
+ Entre tus brazos... mi hogar
+[Interlude - Spanish guitar solo with palmas, cajón rhythm, subtle string accompaniment]
+[Verse 3 - Return to intimacy, acoustic focus, emotional vocal phrasing]
+ Si te vas, se va la vida
+ Si te quedas, soy eterno
+ Eres mi única salida
+ Mi cielo y mi invierno
+[Pre-Chorus - Building tension, added percussion, vocal ad-libs]
+ Y no hay distancia que me pare
+ No hay tiempo que me canse
+ Si al final del día
+ Vuelvo a encontrarte
+[Final Chorus - Orchestral arrangement, powerful vocal with Spanish guitar flourishes]
+ Entre tus brazos quiero estar
+ Donde el mundo no pueda llegar
+ Entre tus labios encontrar
+ La verdad que me hace volar
+ Solo contigo soy quien soy
+ Solo contigo me voy
+ A ese lugar donde no hay final
+ Entre tus brazos... mi hogar
+[Bridge - Stripped down to voice and guitar, building to emotional climax]
+ Y si mañana no estás
+ Guardaré tu risa aquí
+ En el rincón donde jamás
+ Nadie podrá hacerte huir
+[Final Chorus - Full orchestration, passionate vocal climax, Spanish guitar outro]
+ Entre tus brazos quiero estar
+ Donde el mundo no pueda llegar
+ Entre tus labios encontrar
+ La verdad que me hace volar
+ Solo contigo soy quien soy
+ Solo contigo me voy
+ A ese lugar donde no hay final
+ Entre tus brazos... mi hogar
+[Outro - Acoustic guitar fadeout with subtle strings, whispered vocal "mi hogar"]
+
+Prompt Final: max 1000 characters
+Romantic Spanish pop ballad featuring passionate male vocals with Andalusian accent and melismatic runs, fingerpicked nylon string Spanish guitar with flamenco techniques, grand piano with soft touch, lush string orchestra with violins and cellos, traditional cajón percussion with palmas hand claps, warm acoustic bass guitar. Intimate verses building to soaring choruses with orchestral arrangements. Tempo 80 BPM in 4/4 time. Themes of deep romantic love and devotion with poetic Spanish lyrics. Dynamic structure from acoustic intimacy to full orchestral power, featuring Spanish guitar solo with traditional flamenco palmas. Professional recording with warm analog compression, subtle cathedral reverb on vocals, rich string textures and authentic Spanish percussion. Emotional vocal delivery ranging from tender whispers to powerful passionate peaks with signature melismatic Spanish phrasing and soulful vibrato.
+Caracteres: 999/1000
