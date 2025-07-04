@@ -617,3 +617,152 @@ From now on, when I check any song I will always include:
 Technical analysis (structure, lyrics, instrumentation)
 Suggestions for improvement (if any)
 Resulting type of music with references of similar artists and styles
+
+--- Claude ----
+
+"Crea una canción para Suno Pro con:
+- Tema: [tu tema/historia]
+- Género: [género + subgéneros]
+- Mood: [3-4 emociones]
+- Idioma: [español/inglés/otro]
+- Duración: [corta/media/larga]
+- Elementos especiales: [instrumentos, efectos, voces específicas]"
+
+"Optimiza esta canción para Suno Pro: [pega tu canción]"
+
+# Plantilla para Canciones Suno Pro
+
+## PROMPT PARA SOLICITAR CANCIÓN NUEVA
+
+**Formato de solicitud:**
+```
+"Crea una canción para Suno Pro con:
+- Tema: [descripción del tema/historia]
+- Género: [género principal + subgéneros]
+- Mood: [3-4 emociones/atmosferas]
+- Idioma: [español/inglés/otro]
+- Duración aproximada: [corta/media/larga]
+- Elementos especiales: [instrumentos específicos, efectos, voces]"
+```
+
+## PLANTILLA DE OPTIMIZACIÓN PARA SUNO PRO
+
+### 1. ANÁLISIS INICIAL
+- ✅ **Estructura**: Identificar secciones actuales
+- ✅ **Tags**: Revisar compatibilidad con sintaxis Suno
+- ✅ **Flujo**: Evaluar transiciones y coherencia
+- ✅ **Longitud**: Ajustar para límites de Suno Pro
+
+### 2. OPTIMIZACIÓN DE TAGS
+```
+[Tag Original] → [Tag Optimizado + Modificadores]
+```
+**Modificadores prioritarios:**
+- Emociones: Angry, Melancholy, Ethereal, Groovy
+- Ritmo: Slow, Fast, Building, Intense
+- Instrumentos: Lead Guitar, Saxophone, Orchestral
+- Vocal: Whispered, Spoken Word, Ensemble, Opera
+
+### 3. ESTRUCTURA OPTIMIZADA
+```
+[Descriptive Intro] + *sound effects*
+[Modified Verse] + (vocal effects)
+[Energetic Chorus] + *instrumental cues*
+[Instrumental Break/Solo] + rhythm patterns (! . . !)
+[Bridge/Movement] + *atmospheric prompts*
+[Final Chorus/Outro] + *fade instructions*
+```
+
+### 4. PROMPTS EMBEBIDOS
+**Formato obligatorio:**
+- Efectos de sonido: `*descripción del efecto*`
+- Vocalizaciones: `(efecto vocal específico)`
+- Ritmo instrumental: `! . . ! . !` (exclamaciones y puntos)
+- Transiciones: `*instrucciones de transición*`
+
+### 5. ESTILO FINAL (MAX 120 CARACTERES)
+```
+[género principal], [subgéneros], [instrumentos clave], [emociones], [características vocales]
+```
+
+### 6. PROMPT FINAL (950-1000 CARACTERES)
+**Elementos obligatorios:**
+- Idioma y género
+- Mood y atmósfera
+- Instrumentación específica
+- Estilo vocal
+- Efectos sonoros
+- Estructura narrativa/temática
+
+## CHECKLIST DE CALIDAD SUNO PRO
+
+### Tags y Estructura:
+- [ ] Tags específicos con modificadores apropiados
+- [ ] Máximo 4 update calls si se requieren cambios
+- [ ] Transiciones claras entre secciones
+- [ ] Uso de [Build], [Break], [Interlude] estratégicamente
+
+### Prompts Embebidos:
+- [ ] Efectos de sonido específicos en *asteriscos*
+- [ ] Vocalizaciones en (paréntesis)
+- [ ] Patrones rítmicos con ! y . para instrumentales
+- [ ] Instrucciones atmosféricas claras
+
+### Contenido Lírico:
+- [ ] Evitar repetición excesiva
+- [ ] Vocalizaciones escritas (Oooohhh, ahhhh)
+- [ ] Uso de "..." para efectos de timing
+- [ ] Diálogos en comillas para personajes
+
+### Estilo y Prompt Final:
+- [ ] Estilo bajo 120 caracteres
+- [ ] Prompt final 950-1000 caracteres
+- [ ] Todos los elementos sonoros especificados
+- [ ] Género, mood e instrumentación clara
+
+## EJEMPLO DE OPTIMIZACIÓN COMPLETA
+
+**Original recibido:**
+```
+[Verse]
+Letra simple
+[Chorus]
+Letra simple
+```
+
+**Optimizado para Suno Pro:**
+```
+[Melancholy Intro]
+*ambient soundscape*
+
+[Whispered Verse]
+Letra mejorada con timing...
+y vocalizaciones (ahhhh)
+
+[Building Chorus]
+Letra con más energía
+(ensemble vocals) y emociones!
+
+[Saxophone Solo]
+*jazzy saxophone with rhythm*
+! . ! . ! !
+
+[Fade to End]
+*gentle atmospheric fade*
+```
+
+**Estilo:** `genre, subgenre, emotion, instruments, vocal style`
+
+**Prompt Final:** [950-1000 caracteres con todos los elementos]
+
+---
+
+## RECORDATORIO PARA SESIONES FUTURAS
+
+**Cuando recibas una canción para optimizar:**
+1. Analizar estructura actual
+2. Aplicar sintaxis Suno Pro
+3. Añadir prompts embebidos
+4. Crear estilo de 120 caracteres
+5. Generar prompt final de 950-1000 caracteres
+6. Presentar en artifact con formato código para fácil copia
