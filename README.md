@@ -608,6 +608,7 @@ Example:
 ##
 
 Prompt Final: max 1000 characters
+Example:
 Romantic Spanish pop ballad featuring passionate male vocals with Andalusian accent and melismatic runs, fingerpicked nylon string Spanish guitar with flamenco techniques, grand piano with soft touch, lush string orchestra with violins and cellos, traditional cajón percussion with palmas hand claps, warm acoustic bass guitar. Intimate verses building to soaring choruses with orchestral arrangements. Tempo 80 BPM in 4/4 time. Themes of deep romantic love and devotion with poetic Spanish lyrics. Dynamic structure from acoustic intimacy to full orchestral power, featuring Spanish guitar solo with traditional flamenco palmas. Professional recording with warm analog compression, subtle cathedral reverb on vocals, rich string textures and authentic Spanish percussion. Emotional vocal delivery ranging from tender whispers to powerful passionate peaks with signature melismatic Spanish phrasing and soulful vibrato.
 Caracteres: 999/1000
 
