@@ -745,12 +745,12 @@ Resulting type of music with references of similar artists and styles
 - Ritmo instrumental: `! . . ! . !` (exclamaciones y puntos)
 - Transiciones: `*instrucciones de transición*`
 
-### 5. ESTILO FINAL (MAX 120 CARACTERES)
+### 5. ESTILO FINAL (MAX 1000 CARACTERES)
 ```
 [género principal], [subgéneros], [instrumentos clave], [emociones], [características vocales]
 ```
 
-### 6. PROMPT FINAL (950-1000 CARACTERES)
+### 6. PROMPT FINAL (1000 CARACTERES)
 **Elementos obligatorios:**
 - Idioma y género
 - Mood y atmósfera
@@ -780,8 +780,8 @@ Resulting type of music with references of similar artists and styles
 - [ ] Diálogos en comillas para personajes
 
 ### Estilo y Prompt Final:
-- [ ] Estilo bajo 120 caracteres
-- [ ] Prompt final 950-1000 caracteres
+- [ ] Estilo bajo 1000 caracteres
+- [ ] Prompt final 1000 caracteres
 - [ ] Todos los elementos sonoros especificados
 - [ ] Género, mood e instrumentación clara
 
@@ -818,7 +818,7 @@ Letra con más energía
 
 **Estilo:** `genre, subgenre, emotion, instruments, vocal style`
 
-**Prompt Final:** [950-1000 caracteres con todos los elementos]
+**Prompt Final:** [1000 caracteres con todos los elementos]
 
 ---
 
@@ -828,6 +828,6 @@ Letra con más energía
 1. Analizar estructura actual
 2. Aplicar sintaxis Suno Pro
 3. Añadir prompts embebidos
-4. Crear estilo de 120 caracteres
-5. Generar prompt final de 950-1000 caracteres
+4. Crear estilo de 5000 caracteres
+5. Generar prompt final de 1000 caracteres
 6. Presentar en artifact con formato código para fácil copia
