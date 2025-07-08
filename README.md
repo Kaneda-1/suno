@@ -1,6 +1,70 @@
 ```markdown
 # Suno AI Song Syntax
 
+Example:
+
+[Intro – Muted Choir Loop + Static Crackle]
+(sample: “it’s falling apart…”) [whispered, looped softly in background]
+[Baby voice]  (“i had a dream but it bit me back”)
+(—click. click. click—) [footsteps in an empty hall]
+
+[Verse 1 – Broken Flow, Half-whispered]
+(I sleep on glass dreams) / (can’t turn over)
+Each shard a version of me I ain't over
+(Mama said fear’s just the devil in costume)
+But I saw his face / and it wore my perfume
+
+My trophies melt when I blink
+My goals stalk me in sync
+(If I fall / I fracture the throne)
+God ain’t pick up, I texted His clone
+
+(—it’s falling apart…) [sample grows louder, left channel]
+
+[Hook – Female Vocal, Echoed + Flattened]
+(Nightmares don’t scream)
+They whisper in rhythm
+(Goals too big?)
+Now you sleep with ‘em
+(Failure ain’t real)
+Till you dream you did it
+(—it’s falling apart…) [loop cuts sharply on beat]
+
+[Verse 2 - aggressive + fragmented delivery]
+Eyes wide in REM, I'm chokin’ on plans
+God said "be still" — I installed more RAM
+I can’t stop. Won’t stop. Broke clocks on my desk
+Sleepwalk to success, but my shadow’s depressed
+
+(What’s the price of a W?) — My spine?
+(What’s the cost of a crown?) — My mind?
+I prayed on the plane / and landed in doubt
+Heaven delayed / dreams got rerouted
+
+(—it’s falling apart…) [repeat, pitch-shifted down 3 semitones]
+
+[Bridge – No Percussion, Just Voice and Sample]
+(“dad, the monster in my closet was you”)
+[abrupt silence]
+It ain’t failure I fear — it’s the version of me that wins without feelin’
+The robot me.
+The one with plaques and no pulse.
+The one that never wakes up.
+
+[Hook – Reprise – Slower, more layered voices]
+(Nightmares don’t scream)
+They build you a bed
+(Made of mirrors)
+(Where you rest your head)
+(Goals too big?)
+Yeah, they bite when fed
+(—it’s falling apart…) [chopped like a broken record, repeated erratically]
+
+[Outro – Fading Loop + Child Voice]
+[Baby voice] “wake up. wake up. wake up.”)
+[fade out with final sample: “it’s falling apart…”]
+[heartbeat slows to silence]
+
 ## Overview
 
 Suno uses Chirp to generate songs, which is a generative model. We must create documents that prompt the model correctly. To do this, we use specific tags to break the songs up into sections that the model understands. 
