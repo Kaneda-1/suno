@@ -506,7 +506,8 @@ forever we endure...
 
 ## Styles
 
-Styles are limited to 120 characters total and should not be included in the song, this is crafted separately
+Styles (lyrics) are limited to 5000 characters total and should not be included in the song, this is crafted separately
+Prompt final are limited to 1000 characters total.
 
 The system accepts a separate STYLE tag that is a simple comma separate list of genres and modifiers. Interestingly, commas are not necessary and you can get some really interesting hybrid styles without them. Here's one of my most successful examples:
 
