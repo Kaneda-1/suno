@@ -506,7 +506,7 @@ forever we endure...
 
 ## Styles
 
-Styles (lyrics) are limited to 5000 characters total and should not be included in the song, this is crafted separately
+Styles (lyrics) are limited to 7000 characters total and should not be included in the song, this is crafted separately
 Prompt final are limited to 1000 characters total.
 
 The system accepts a separate STYLE tag that is a simple comma separate list of genres and modifiers. Interestingly, commas are not necessary and you can get some really interesting hybrid styles without them. Here's one of my most successful examples:
@@ -828,6 +828,6 @@ Letra con más energía
 1. Analizar estructura actual
 2. Aplicar sintaxis Suno Pro
 3. Añadir prompts embebidos
-4. Crear estilo de 5000 caracteres
+4. Crear estilo de 7000 caracteres
 5. Generar prompt final de 1000 caracteres
 6. Presentar en artifact con formato código para fácil copia
