@@ -831,3 +831,170 @@ Letra con más energía
 4. Crear estilo de 7500 caracteres
 5. Generar prompt final de 1000 caracteres
 6. Presentar en artifact con formato código para fácil copia
+
+   Here's a quick guide with suggested terms for use in your Suno prompts, categorized by musical style or genre. I've also included a small set of ready-to-use presets that you can copy and paste into your next Suno prompts based on the genre:
+
+Quick Guide to Terms by Genre
+Classic Rock
+
+Terms: Distorted guitars, powerful drums, strong bass, powerful vocals, guitar solos, heavy riffs.
+Emotions: Energetic, rebellious, passionate, intense.
+Instruments: Electric guitar, drums, bass, occasionally piano.
+Protest Folk
+
+Terms: Acoustic guitar, cajón percussion, street market ambiance, satirical vocals, sarcastic choruses.
+Emotions: Critical, satirical, melancholic, hopeful.
+Instruments: Acoustic guitar, cajón, occasionally flute or violin.
+Metal
+
+Terms: Heavy guitars, double bass drumming, guttural vocals, technical solos, complex riffs.
+Emotions: Aggressive, dark, epic, intense.
+Instruments: Electric guitar, drums, bass, synthesizers for modern sub-genres.
+Pop
+
+Terms: Catchy melodies, clear vocals, danceable rhythms, bright production, harmonious choruses.
+Emotions: Joyful, romantic, energetic, emotional.
+Instruments: Acoustic and electric guitar, drums, bass, synthesizers.
+Electronic
+
+Terms: Synthesizers, electronic beats, drops, processed vocals, futuristic atmosphere.
+Emotions: Energetic, futuristic, euphoric, relaxed.
+Instruments: Synthesizers, drum machine, occasionally electric guitar.
+Ready-to-Use Presets
+Classic Rock
+
+"High-energy rock anthem with distorted electric guitars, powerful drums, and strong bass lines. Aggressive and commanding vocals, featuring heavy guitar riffs and a fast-paced solo. Intense and electrifying mood, embodying the spirit of classic rock."
+Protest Folk
+
+"Spanish folk protest song with acoustic flamenco guitar, cajón percussion, and street market ambiance. Satirical and sardonic vocals, featuring a repetitive counting chorus with ensemble backing vocals. Criticizes political corruption through market metaphors."
+Metal
+
+"Heavy metal track with distorted electric guitars, double bass drumming, and aggressive vocals. Features complex riffs and technical guitar solos. Dark and intense atmosphere, capturing the essence of classic metal."
+Pop
+
+"Catchy pop song with bright melodies, clear vocals, and danceable rhythms. Features harmonious choruses and shiny production. Energetic and emotional, embodying the spirit of modern pop music."
+Electronic
+
+"Electronic track with synthesizers, electronic beats, and processed vocals. Features futuristic atmosphere and euphoric drops. Energetic and relaxing, capturing the essence of modern electronic music."
+These presets are designed to be easily copied and pasted into your Suno prompts, helping you quickly define the style and atmosphere of your songs.
+
+Aquí tienes una guía rápida con términos sugeridos para usar en tus prompts de Suno, clasificados por estilo o género musical. Puedes combinarlos según el mood y la producción que quieras lograr.
+
+🎸 ROCK / HARD ROCK / BLUES ROCK
+analog warmth
+
+raw noise texture
+
+vintage amp distortion
+
+perfect EQ balance
+
+raspy vocals
+
+live feel
+
+tape-saturated
+
+70s attitude
+
+(Opcional:) Dolby Atmos si quieres un sonido más grande y de estadio
+
+🌌 AMBIENT / ELECTRÓNICA SUAVE / DREAM POP
+Dolby Atmos
+
+spatial depth
+
+analog synth warmth
+
+reverb-rich textures
+
+ethereal vocals
+
+444Hz tuning (si buscas una sensación espiritual)
+
+binaural field recording (si quieres paisajes sonoros realistas)
+
+💔 BALADA / POP EMOCIONAL / INDIE
+perfect EQ balance
+
+warm analog tones
+
+emotional vocal delivery
+
+444Hz tuning (para sensibilidad emocional o vibración armónica)
+
+delicate acoustic layers
+
+natural reverb
+
+organic dynamics
+
+💿 POP COMERCIAL / EDM / URBANO MODERNO
+tight EQ balance
+
+clean mix
+
+modern stereo imaging
+
+808 bass
+
+crisp vocal tuning
+
+sidechain compression
+
+digital clarity
+
+(Usar Dolby Atmos si buscas algo envolvente)
+
+🎻 ORQUESTAL / CINEMÁTICO / ÉPICO
+Dolby Atmos
+
+orchestral depth
+
+emotive crescendos
+
+rich string layers
+
+perfect EQ balance
+
+wide stereo field
+
+high dynamic range
+
+(Puedes sumar analog warmth si buscas un sonido más clásico o humano)
+
+🧃 LO-FI / FOLK / ACOUSTIC INTIMATE
+tape hiss
+
+room tone
+
+fingerpicked texture
+
+soft compression
+
+raw performance
+
+vinyl crackle
+
+analog warmth
+
+close mic intimacy
+
+Cuándo usar estos términos (y por qué):
+Término	Estilos donde funciona bien	Por qué usarlo
+444Hz tuning	New Age, baladas, espiritual, acústico, pop emocional	Para sugerir brillo, emoción o armonía “natural”
+Dolby Atmos	Cinemático, épico, orquestal, ambient, pop moderno, trap	Da profundidad, espacialidad e inmersión sonora
+Analog warmth	Rock clásico, soul, jazz, lo-fi, indie, folk	Sugiere calidez, carácter vintage, realismo
+Perfect EQ balance	Casi cualquier género (pop, EDM, rock, R&B, etc.)	Hace que todo suene profesional y pulido
+Raw noise texture	Rock crudo, punk, lo-fi, blues, indie alternativo	Añade autenticidad, energía y una sensación orgánica
+
+❌ Cuándo evitarlos:
+444Hz tuning: No es útil en géneros muy duros o industriales (como metal extremo o techno pesado).
+
+Dolby Atmos: Podría ser innecesario en estilos muy minimalistas o lo-fi, donde se busca cercanía en lugar de amplitud.
+
+Analog warmth: No se alinea bien con géneros súper digitales o hiperproducidos, como hyperpop o synthwave moderno.
+
+Perfect EQ balance: Si quieres algo intencionalmente sucio o desequilibrado (punk, garage rock), mejor no pedir perfección.
+
+Raw noise texture: No recomendable en estilos limpios y pulidos, como pop comercial o baladas orquestadas.
