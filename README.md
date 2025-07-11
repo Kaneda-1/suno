@@ -1680,7 +1680,7 @@ Romantic Spanish pop ballad featuring passionate male vocals with Andalusian acc
 - [ ] Efectos de audio
 - [ ] Calidad de grabación
 - [ ] Técnicas específicas
-- [ ] **Total: 950-1000 caracteres**
+- [ ] **Total: 1000 caracteres**
 
 ## Protocolo de Sesiones Futuras
 
@@ -1712,7 +1712,7 @@ A partir de ahora, cuando analices cualquier canción, incluirás siempre:
 
 ### 5. **Prompt Final Optimizado**
 - **Estilo (120 caracteres)**: Géneros, instrumentos, mood
-- **Prompt completo (950-1000 caracteres)**: Todos los elementos técnicos
+- **Prompt completo (1000 caracteres)**: Todos los elementos técnicos
 - **Justificación**: Por qué estos elementos específicos
 
 ### Ejemplo de Análisis Completo:
