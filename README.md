@@ -507,7 +507,7 @@ forever we endure...
 ## Styles
 
 Styles (lyrics) are limited to 7500 characters total and should not be included in the song, this is crafted separately
-Prompt final are limited to 1000 characters total.
+The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English.
 
 The system accepts a separate STYLE tag that is a simple comma separate list of genres and modifiers. Interestingly, commas are not necessary and you can get some really interesting hybrid styles without them. Here's one of my most successful examples:
 
@@ -672,7 +672,7 @@ Example:
 
 ##
 
-Prompt Final: max 1000 characters
+Prompt Final: The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English.
 Example:
 Romantic Spanish pop ballad featuring passionate male vocals with Andalusian accent and melismatic runs, fingerpicked nylon string Spanish guitar with flamenco techniques, grand piano with soft touch, lush string orchestra with violins and cellos, traditional cajón percussion with palmas hand claps, warm acoustic bass guitar. Intimate verses building to soaring choruses with orchestral arrangements. Tempo 80 BPM in 4/4 time. Themes of deep romantic love and devotion with poetic Spanish lyrics. Dynamic structure from acoustic intimacy to full orchestral power, featuring Spanish guitar solo with traditional flamenco palmas. Professional recording with warm analog compression, subtle cathedral reverb on vocals, rich string textures and authentic Spanish percussion. Emotional vocal delivery ranging from tender whispers to powerful passionate peaks with signature melismatic Spanish phrasing and soulful vibrato.
 Caracteres: 999/1000
@@ -750,7 +750,7 @@ Resulting type of music with references of similar artists and styles
 [género principal], [subgéneros], [instrumentos clave], [emociones], [características vocales]
 ```
 
-### 6. PROMPT FINAL (1000 CARACTERES)
+### 6. PROMPT FINAL (1000 CARACTERES) - The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English.
 **Elementos obligatorios:**
 - Idioma y género
 - Mood y atmósfera
@@ -780,8 +780,8 @@ Resulting type of music with references of similar artists and styles
 - [ ] Diálogos en comillas para personajes
 
 ### Estilo y Prompt Final:
-- [ ] Estilo bajo 1000 caracteres
-- [ ] Prompt final 1000 caracteres
+- [ ] Estilo bajo 1000 caracteres. The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English.
+- [ ] Prompt final 1000 caracteres. The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English.
 - [ ] Todos los elementos sonoros especificados
 - [ ] Género, mood e instrumentación clara
 
@@ -819,7 +819,7 @@ Letra con más energía
 **Estilo:** `genre, subgenre, emotion, instruments, vocal style`
 
 **Prompt Final:** [1000 caracteres con todos los elementos]
-
+The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English. The vocals and instruments should be very detailed.
 ---
 
 ## RECORDATORIO PARA SESIONES FUTURAS
@@ -1635,6 +1635,7 @@ Cuando necesites generar prompts para album covers usando Sora, usa esta estruct
 ## Prompt Final para Suno Pro (Máximo 1000 caracteres)
 
 Este prompt debe incluir todos los elementos técnicos y estilísticos necesarios para que Suno Pro genere la canción con la máxima calidad posible.
+The final message is limited to a total of 1,000 characters. Always keep it as close to 1,000 characters as possible. Final and embedded prompts are always in English. The vocals and instruments should be very detailed.
 
 ### Estructura del Prompt Final:
 
@@ -1657,6 +1658,8 @@ Este prompt debe incluir todos los elementos técnicos y estilísticos necesario
 
 ```
 Romantic Spanish pop ballad featuring passionate male vocals with Andalusian accent and melismatic runs, fingerpicked nylon string Spanish guitar with flamenco techniques, grand piano with soft touch, lush string orchestra with violins and cellos, traditional cajón percussion with palmas hand claps, warm acoustic bass guitar. Intimate verses building to soaring choruses with orchestral arrangements. Tempo 80 BPM in 4/4 time. Themes of deep romantic love and devotion with poetic Spanish lyrics. Dynamic structure from acoustic intimacy to full orchestral power, featuring Spanish guitar solo with traditional flamenco palmas. Professional recording with warm analog compression, subtle cathedral reverb on vocals, rich string textures and authentic Spanish percussion. Emotional vocal delivery ranging from tender whispers to powerful passionate peaks with signature melismatic Spanish phrasing and soulful vibrato.
+
+Classic hard rock, driving power chords, steady four-on-the-floor drums, blues-based arena rock, raw analog production, vintage Marshall amp sound, 70s rock attitude, anthemic shout-along choruses, distorted electric guitars with punchy riffs, thunderous basslines, tight powerful drumming with cowbell accents, bluesy guitar solos in Angus Young style, raspy mid-range rock vocals with Australian accent hints, explosive energy, motorcycle-roadtrip spirit, freedom, rebellion, rock and roll lifestyle, breaking chains, headbanging mid-tempo groove, 444Hz tuning, Dolby Atmos analog warmth, perfect EQ balance, raw noise texture
 ```
 **Caracteres: 999/1000**
 
