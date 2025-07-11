@@ -1729,3 +1729,186 @@ A partir de ahora, cuando analices cualquier canción, incluirás siempre:
 - Temática: Amor perdido
 - Narrativa: Lineal, clara
 - Poética: Rimas
+
+
+# Mejoras Sugeridas para Suno AI Guide
+
+## 1. **Sección de Troubleshooting/Solución de Problemas**
+
+### Problemas Comunes y Soluciones:
+
+**Problema:** La canción no respeta los modificadores de tags
+- **Solución:** Usar modificadores más concretos y directos
+- **Ejemplo:** En lugar de `[Psychedelic Verse]` usar `[Slow Dreamy Verse]`
+
+**Problema:** Transiciones abruptas entre secciones
+- **Solución:** Usar tags intermedios como `[Build]` o `[Break]`
+- **Ejemplo:** 
+```
+[Verse]
+[Build]
+[Chorus]
+```
+
+**Problema:** Géneros híbridos no funcionan como esperado
+- **Solución:** Ordenar géneros por prioridad (el primero tiene más influencia)
+- **Ejemplo:** `space rock, psychedelic rock, stoner rock` vs `stoner rock, space rock, psychedelic rock`
+
+## 2. **Sección de Mejores Prácticas**
+
+### Do's ✅
+- Usar modificadores concretos: `Whispered`, `Angry`, `Slow`
+- Mantener el estilo bajo 120 caracteres
+- Usar puntos y exclamaciones para ritmos instrumentales
+- Especificar instrumentos en solos: `[Lead Guitar Solo]`
+- Usar paréntesis para efectos vocales: `(echoed)`
+
+### Don'ts ❌
+- Evitar modificadores abstractos: `[Cosmic Verse]`
+- No usar más de 3-4 modificadores por tag
+- No repetir información del estilo en los tags
+- No usar `[Bridge]` más de una vez por canción
+
+## 3. **Sección de Técnicas Avanzadas**
+
+### Manipulación de Tempo y Dynamics
+```
+[Slow Building Intro]
+. . . . . !
+. . . ! . !
+. . ! ! ! !
+
+[Intense Climax]
+!! !! !! !!
+!! ! !! ! 
+```
+
+### Técnicas de Storytelling
+- Usar `[Spoken Word Narration]` para diálogos
+- Combinar `[Whispered Verse]` con `[Shouted Chorus]` para contraste
+- Usar `*sound effects*` para ambientación
+
+### Construcción de Atmósferas
+```
+[Ethereal Intro]
+*wind sounds and distant bells*
+
+[Haunting Verse]
+(whispered background vocals)
+Main vocal line...
+(echoes: "echoes...")
+```
+
+## 4. **Sección de Prompts de Estilo Específicos**
+
+### Por Géneros:
+**Rock/Metal:**
+```
+heavy metal, thrash metal, powerful vocals, distorted guitars, driving drums, aggressive
+```
+
+**Electronic:**
+```
+synthwave, electronic, atmospheric, dreamy, analog synthesizers, drum machine, ethereal
+```
+
+**Folk/Acoustic:**
+```
+folk, acoustic, fingerpicked guitar, harmonica, storytelling vocals, organic, warm
+```
+
+**Hip-Hop:**
+```
+hip-hop, boom bap, conscious rap, jazz samples, vinyl crackle, deep bass, rhythmic
+```
+
+## 5. **Sección de Longitud y Estructura**
+
+### Guías de Duración:
+- **Canción corta (2-3 min):** Intro + 2 Verses + 2 Chorus + Outro
+- **Canción media (3-4 min):** Intro + 3 Verses + 3 Chorus + Bridge + Outro
+- **Canción larga (4-5 min):** Estructura completa + Solos + Interludes múltiples
+
+### Estructura Recomendada:
+```
+[Intro] (0-30 seg)
+[Verse 1] (30-60 seg)
+[Chorus] (60-90 seg)
+[Verse 2] (90-120 seg)
+[Chorus] (120-150 seg)
+[Bridge/Solo] (150-180 seg)
+[Final Chorus] (180-210 seg)
+[Outro] (210-240 seg)
+```
+
+## 6. **Sección de Efectos Sonoros y Ambientación**
+
+### Efectos Populares:
+- `*vinyl crackle*` - Para sonido vintage
+- `*crowd cheering*` - Para ambiente de concierto
+- `*rain and thunder*` - Para atmósfera dramática
+- `*phone ringing*` - Para narrativa
+- `*footsteps echoing*` - Para tensión
+
+### Técnicas de Layering:
+```
+[Verse]
+(distant choir humming)
+Main vocal line
+(whispered echoes)
+*subtle string swells*
+```
+
+## 7. **Sección de Colaboración y Feedback**
+
+### Cómo Iterar:
+1. Genera versión inicial
+2. Identifica elementos que no funcionan
+3. Ajusta modificadores específicos
+4. Regenera secciones problemáticas
+5. Combina mejores elementos
+
+### Documentación de Cambios:
+- Mantener registro de qué modificadores funcionan
+- Anotar combinaciones de géneros exitosas
+- Documentar efectos sonoros que resonaron
+
+## 8. **Sección de Recursos Adicionales**
+
+### Herramientas Complementarias:
+- **Rhyme schemes:** Para patrones de rima consistentes
+- **Syllable counters:** Para mantener métrica
+- **Chord progression generators:** Para armonías base
+
+### Inspiración de Referencia:
+- Analizar canciones exitosas en Suno
+- Estudiar estructuras de artistas del género objetivo
+- Experimentar con fusiones inusuales
+
+## 9. **Sección de Limitaciones y Workarounds**
+
+### Limitaciones Conocidas:
+- Máximo 120 caracteres para estilo
+- Algunos géneros nicho no son reconocidos
+- Modificadores muy específicos pueden ser ignorados
+
+### Workarounds:
+- Usar sinónimos más comunes para géneros obscuros
+- Describir el feeling en lugar del género específico
+- Usar instrumentación para lograr sonidos específicos
+
+## 10. **Checklist de Calidad Final**
+
+### Antes de Generar:
+- [ ] Estilo bajo 120 caracteres
+- [ ] Tags con modificadores apropiados
+- [ ] Estructura lógica y fluida
+- [ ] Efectos sonoros específicos
+- [ ] Letras con timing apropiado
+
+### Después de Generar:
+- [ ] Escuchar transiciones
+- [ ] Verificar que el mood sea consistente
+- [ ] Confirmar que instrumentos destacados aparezcan
+- [ ] Evaluar calidad vocal
+- [ ] Considerar variaciones si es necesario
