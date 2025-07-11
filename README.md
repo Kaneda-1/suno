@@ -2993,3 +2993,1781 @@ Here is another song created with similar techniques: Suno Song Example
 Conclusion
 By using these structured prompts and understanding Suno’s syntax, you can create more controlled and high-quality musical outputs. Experiment, be patient, and enjoy making music with Suno AI!
 
+- How to Prompt Suno AI to Use Animal Sounds and Noises
+Understanding the Problem
+Many users find it challenging to get Suno AI to generate animal sounds or other specific noises in their tracks. Despite various attempts with different prompts, the AI often fails to produce the desired effects.
+
+Solution Overview
+To successfully prompt Suno AI to use animal sounds and noises, you need to use specific techniques and prompt structures. Here are some effective strategies:
+
+Strategy 1: Use Bracketed Prompts
+Use bracketed prompts in all-caps to indicate the desired sounds. This helps the AI understand that you want these effects included.
+
+[GUNSHOTS FX, BIRDS CHIRPING FX, CRICKETS FX, THUNDERSTORM FX]
+
+Strategy 2: Limit the Number of Prompts
+Avoid overloading the prompt with too many effects at once. Instead, use a few prompts and repeat them if necessary.
+
+[GUNSHOTS FX], [BIRDS CHIRPING FX], [CRICKETS FX]
+
+Strategy 3: Experiment with Different Phrasing
+Try different wording and combinations to see which works best. Sometimes altering the phrasing slightly can make a big difference.
+
+[SCREAMING], [DINOSAUR ROAR], [CHAINSAW]
+
+Examples and Additional Tips
+Example 1: Combining Prompts
+Try using a combination of prompts in the “Style” section and the “Custom Editor” lyrics box. Use commas to separate them.
+
+STYLE: [TRIBAL VOCALS], [ANIMAL NOISES]
+CUSTOM EDITOR: [BIRD SONG], [JUNGLE SOUNDS]
+
+Example 2: Specific Sound Effects
+Experiment with very specific sound effects to see if Suno AI can generate them.
+
+[THUNDER CLAP], [WOLF HOWL], [OCEAN WAVES]
+
+Example 3: Uncommon Effects
+Test out less common effects to push the boundaries of what Suno AI can generate.
+
+[CHAINSAW], [LIAR BIRD IMITATING A CHAINSAW]
+
+Additional Tip: Dispute Incorrect Results
+If the AI produces something unexpected, keep trying with slight variations or dispute the claim if you believe it’s a mistake. This can sometimes lead to better results upon human review.
+
+You can listen to some examples here: Smoke sound in a stoner rap track
+
+By following these strategies and experimenting with different prompts, you can increase the likelihood of getting Suno AI to include the animal sounds and noises you want in your music.
+
+Fuente: https://howtopromptsuno.com/
+
+Combine prompts together to create unique sounds
+My favorite thing to do with suno is combine styles in prompts. Try generating the first 15 to 30 seconds of a song, then mixing up the prompt to create more dynamic songs.
+
+Example suno prompt technique: Start with a vibrant violin solo, then extend the song into ethereal lo-fi dubstep.
+
+Example suno prompts to try
+Gentle, tranquil acoustic, deep blues then change it up by extending with another prompt.
+
+Melancholic, introspective indie rock layered with bright pop elements then mix it up by clicking extend using another prompt.
+
+Mood and Atmosphere prompts for suno
+Atmospheric
+Ambient
+Ethereal
+Euphoric
+Mystical
+Dreamy
+Surreal
+Tranquil
+Serene
+Haunting
+Intoxicating
+Eerie
+Celestial
+Chilling
+Melancholic
+Apocalyptic
+Textural and Dynamic prompts for suno
+Airy
+Dense
+Fluid
+Smooth
+Rough
+Textured
+Layered
+Blurred
+Crisp
+Fuzzy
+Sparkling
+Glossy
+Transparent
+Luminous
+Vibrant
+Shimmering
+Rhythmic and Musical prompts for suno
+Rhythmic
+Percussive
+Melodic
+Harmonic
+Polyphonic
+Syncopated
+Dynamic
+Staccato
+Crescendoing
+Descending
+Ascending
+Cadenced
+Dotted
+Arhythmic
+Cross-rhythmic
+Emotional and Expressive prompts for suno
+Emotional
+Joyous
+Sad
+Angry
+Aggressive
+Gentle
+Warm
+Cold
+Festive
+Nostalgic
+Romantic
+Passionate
+Soothing
+Inspiring
+Soulful
+Technological and Synthetic prompts for suno
+Digital
+Analog
+Electronic
+Robotic
+Cybernetic
+Futuristic
+Synthetic
+Automated
+Virtual
+Algorithmic
+Biotechnological
+Style and Genre Influences prompts for suno
+Baroque
+Classical
+Jazz
+Funky
+Disco
+Punk
+Rock
+Pop
+Hip-hop
+Reggae
+Folk
+Country
+Blues
+Industrial
+Techno
+Movement and Energy prompts for suno
+Explosive
+Fast-paced
+Slow
+High-energy
+Lethargic
+Static
+Chaotic
+Controlled
+Spontaneous
+Cinematic
+Dramatic
+Climactic
+Bouncing
+Flowing
+Pulsating
+Nature and Environment prompts for suno
+Oceanic
+Forest-like
+Urban
+Desert
+Mountainous
+Space
+Underwater
+Atmospheric
+Geographical
+Seasonal
+Weather-related
+Sensory and Perception prompts for suno
+Visual
+Textural
+Sonic
+Tactile
+Olfactory
+Gustatory
+Intuitive
+Cognitive
+Psychological
+Emotional
+Quality and Craft prompts for suno
+Polished
+Refined
+Raw
+Crafted
+Artisanal
+Innovative
+Traditional
+Modern
+Retro
+Sophisticated
+Simple
+Complex
+Detailed
+Minimalist
+Experimental and Avant-Garde prompts for suno
+Avant-garde
+Experimental
+Abstract
+Non-conformist
+Unconventional
+Alternative
+Cutting-edge
+Novel
+Unique
+Innovative
+Pioneering
+Social and Cultural prompts for suno
+Cultural
+Social
+Political
+Community-focused
+Ancestral
+Heritage
+Patriotic
+Regional
+Global
+Historical
+Example combination suno prompts
+Atmospheric, ethereal jazz with vibrant, rhythmic synth pulses
+Dynamic, percussive rock fused with nostalgic, glossy disco vibes
+Urban, funky hip-hop blended with raw, expressive blues elements
+Eerie, haunting techno with complex, cross-rhythmic, cinematic layers
+Warm, soulful reggae rhythms paired with crisp, transparent pop melodies
+Chilling, surreal ambient sounds meet explosive, high-energy industrial beats
+Retro, polished funk combined with aggressive, analog punk energy
+Flowing, smooth classical elements intertwined with sharp, futuristic electronic
+Luminous, shimmering folk tunes enriched with deep, textured atmospheric pads
+Robotic, cybernetic country twangs fuse with serene, tranquil forest-like ambiences
+Melodic, harmonic metal with ethereal, celestial overtones
+Crunchy, gritty rock with pulsating, explosive techno undertones
+Cool, breezy jazz with rhythmic, syncopated reggae grooves
+Dense, layered electronic vibes with airy, ambient melodies
+Aggressive, raw punk fused with sophisticated, baroque classical
+Smooth, soulful R&B blends with eclectic, vibrant world beats
+Dreamy, surreal pop interlaced with hard, rhythmic techno
+Gentle, tranquil acoustic paired with deep, robust blues
+Fiery, passionate salsa rhythms underpinning subdued, minimalist techno
+Rough, textured industrial sounds paired with glossy, transparent disco grooves
+Nostalgic, retro synthwave with a touch of modern, dynamic trap
+Complex, polyphonic orchestral arrangements with simple, crisp electronic beats
+Dramatic, cinematic soundscapes combined with steady, pulsating drum and bass
+Energetic, high-energy funk mixed with serene, smooth ambient flows
+Fast-paced, chaotic punk energy with methodical, rhythmic jazz undertones
+Lush, vibrant tropical beats interwoven with cool, airy Nordic ambient
+Melancholic, introspective indie rock layered with bright, sparkling pop elements
+Dark, brooding gothic tones blended with uplifting, euphoric trance
+Slow, flowing reggae grooves contrasted with fast-paced, urgent techno
+Light, fluffy cloud rap vibes meeting deep, shadowy underground techno
+Sharp, metallic industrial clashes with warm, organic folk melodies
+Soothing, calming new age sounds with complex, aggressive
+Last updated on January 18, 2025
+
+Rock & Metal music genres list
+From classic rock to heavy metal, this section covers the full spectrum of rock-based music genres.
+
+Acid Rock
+Alternative Rock
+Art Rock
+Atmospheric Black Metal
+Avant-garde Metal
+Black Metal
+Blues Rock
+Classic Rock
+Comedy Rock
+Country Rock
+Death Metal
+Deathcore
+Desert Rock
+Doom Metal
+Electronic Rock
+Experimental Metal
+Experimental Rock
+Folk Metal
+Folk Rock
+Funk Metal
+Funk Rock
+Garage Rock
+Glam Rock
+Gothic Metal
+Gothic Rock
+Groove Metal
+Grunge
+Hard Rock
+Heavy Metal
+Heavy Metal Trap
+Industrial Metal
+Industrial Rock
+Instrumental Rock
+Kawaii Metal
+Math Rock
+Melodic Death Metal
+Melodic Metalcore
+Metal
+Metalcore
+New York Hardcore
+Noise Rock
+Nu Metal
+Oriental Metal
+Pagan Metal
+Piano Rock
+Post-Metal
+Post-Rock
+Power Metal
+Progressive Metal
+Progressive Rock
+Psychedelic Rock
+Punk Rock
+Rap Metal
+Rap Rock
+Rock
+Rock and Roll
+Rock Opera
+Rockabilly
+Scandinavian Metal
+Skate Rock
+Sludge Metal
+Southern Rock
+Space Rock
+Speed Metal
+Stadium Rock
+Stoner Rock
+Surf Rock
+Symphonic Black Metal
+Symphonic Metal
+Symphonic Rock
+Thrash Metal
+Viking Metal
+War Metal
+Electronic & Dance music genres list
+A diverse collection of electronic music genres, from ambient to dance-focused styles.
+
+Acid Jazz
+Ambient
+Bass House
+Brostep
+Chillwave
+Club
+Cyberpunk
+Dance
+Dance Pop
+Dark Ambient
+Dark Electro
+Deep House
+Deep Techno
+Downtempo
+Drone
+Dub
+Dub Techno
+Dubstep
+EDM
+Electro
+Electro Swing
+Electroacoustic
+Electronic
+Electropop
+Eurodance
+French House
+Future Bass
+Future Garage
+Future House
+Gabber
+Glitch
+Glitch Hop
+Glitch Pop
+Goa Trance
+Happy Hardcore
+Hardstyle
+House
+Hyperpop
+IDM (Intelligent Dance Music)
+Industrial
+Jungle
+Minimal Techno
+Moombahton
+Neurofunk
+Nu Disco
+Post-Disco
+Post-Dubstep
+Progressive House
+Psybient
+Psychedelic Trance
+Rave
+Space Disco
+Synthwave
+Tech House
+Techno
+Trance
+Trip Hop
+Tropical House
+UK Funky
+UK Garage
+Vaporwave
+Vocal House
+Vocal Trance
+Witch House
+Jazz & Blues music genres list
+Traditional and modern interpretations of jazz and blues music genres.
+
+Bebop
+Big Band
+Blues
+Cool Jazz
+Dark Jazz
+Delta Blues
+Gypsy Jazz
+Hard Bop
+Jazz
+Jazz Fusion
+Jazz Rap
+Latin Jazz
+Modal Jazz
+New Orleans Jazz
+Nu Jazz
+Piano Blues
+Piedmont Blues
+Post-Bop
+Punk Blues
+Smooth Jazz
+Soul Jazz
+Swing
+Hip Hop & Rap music genres list
+Contemporary urban music styles including various rap and hip-hop genres.
+
+Crunk
+Hip Hop
+Mumble Rap
+Pop Rap
+Rap
+Trap
+UK Drill
+West Coast Rap
+Folk & World music genres list
+Traditional and contemporary folk music from various cultures around the world.
+
+Afro-Cuban
+Afrobeat
+Arabian
+Arabian Ornamental
+Bangra
+Bluegrass
+Bolero
+Calypso
+Carnatic
+Celtic
+Chalga
+Chanson
+Country
+Country Blues
+Fado
+Flamenco
+Folk
+Folk Punk
+Forró
+Freak Folk
+Guajira
+Hawaiian
+Hindustani
+Honky Tonk
+Indian Classical
+Indie Folk
+Irish Folk
+Klezmer
+Latin
+Mambo
+Mariachi
+Neofolk
+Nordic Folk
+Outlaw Country
+Polka
+Psychedelic Folk
+Qawwali
+Quebecois Traditional
+Rai
+Ranchera
+Reggae
+Reggaeton
+Roots Reggae
+Rumba
+Russian Folk
+Salsa
+Samba
+Sea Shanties
+Sephardic
+Spanish Folk
+Sufi Music
+Taarab
+Tango
+Traditional
+Traditional Folk
+Tribal
+Truck Driving Country
+Urban Folk
+World
+World Beat
+World Fusion
+Zydeco
+Pop & Contemporary music genres list
+Modern popular music styles and contemporary interpretations.
+
+Adult Contemporary
+Avant-garde
+Bedroom
+Broadway
+Disco
+Disco Funk
+Dream Pop
+Emo
+Europop
+Funk
+Indie
+Indie Pop
+Indie Rock
+J-pop
+K-pop
+Latin Pop
+Lounge
+Motown
+Neon Pop
+Noise Pop
+Pop
+Pop Punk
+Pop Rock
+Power Pop
+Psychedelic Pop
+R&B
+Contemporary R&B
+Singer-Songwriter
+Soft Rock
+Soul
+Synth-pop
+Thai Pop
+Urban Contemporary
+Experimental & Avant-garde music genres list
+Cutting-edge and experimental music genres pushing traditional boundaries.
+
+Avant-garde Jazz
+Dark Cabaret
+Dungeon Synth
+Experimental
+Harsh Noise
+Martial Industrial
+Musique Concrète
+Noise
+No Wave
+Power Electronics
+Sound Art
+Sound Collage
+Tape Music
+Classical & Orchestral music genres list
+A collection of traditional and contemporary classical music genres, featuring orchestral and chamber music styles.
+
+Adagio
+Allegro
+Andante
+Chamber Music
+Classical Crossover
+Contemporary Classical
+Modern Classical
+Neoclassical
+Opera
+Operatic Pop
+Orchestral
+Organum
+Partita
+Requiem
+Rhapsody
+Romantic
+Schoenberg
+Serialism
+Sonata
+Spectralism
+String Quartet
+Symphonic
+Symphony
+Twelve-tone
+Vocal & Choral music genres list
+Genres focusing on vocal performances and choral arrangements.
+
+If these don’t work for you, try uploading your best attempt at creating the vocals you want, whether that is acapella, throat singing or beatboxing.
+
+Acapella
+Barbershop
+Beatboxing
+Choir
+Christmas Carol
+Doo Wop
+Gregorian Chant
+Islamic Call to Prayer
+Throat Singing
+Vocal
+Vocal Jazz
+Vocaloid
+Soundtrack & Theme music genres list
+Music genres specifically created for media and entertainment.
+
+Audiobook Background
+Background
+Cinematic
+Movie Soundtrack
+Score
+Spaghetti Western
+TV Themes
+Video Game Music
+Villain Theme
+Descriptive Styles
+Additional style modifiers to enhance and shape your musical creation.
+
+Aggressive
+Anthemic
+Atmospheric
+Calming
+Chaotic
+Dark
+Distorted
+Emotional
+Epic
+Ethereal
+Festive
+Groovy
+Haunted
+Intimate
+Love Song
+Melancholy
+Minimal
+Narrative
+Nostalgic
+Party
+Sensitive
+Uplifting
+Vintage
+
+Last updated on April 9, 2025
+
+Suno Voice Tags - Collection of vocal tags to try
+Backup vocals in your suno prompt
+Generate backup vocals with brackets in your suno lyric prompt.
+
+Example suno lyric prompt: sing me a song (sing me a song)
+
+Write out the melody in your suno lyrics prompt
+As well you can try specifying the melody by writing out the sound.
+
+ou ou la la la oot oot or dee dee doo doo
+
+Use all caps for shouting in your lyrics
+You can try using all caps in your lyric prompt to emphasize lyrics or creating a shouting effect.
+
+SHOUT THESE LYRICS
+
+Song Structure Metatags
+[Intro]: Marks the beginning of the song
+[Verse]: Indicates a verse section
+[Pre-Chorus]: Prepares for the chorus
+[Chorus]: Highlights the main chorus
+[Post-Chorus]: Adds a section after the chorus
+[Bridge]: Introduces a contrasting section
+[Outro]: Marks the end of the song
+[Hook]: Emphasizes a catchy part
+[Break]: Introduces a break in the song
+[Fade Out]: Gradually decreases volume to end the song
+[Fade In]: Gradually introduces a section
+Instrumental Metatags
+[Instrumental]: Adds an instrumental section
+[Guitar Solo]: Features a guitar solo
+[Piano Solo]: Features a piano solo
+[Drum Solo]: Features a drum solo
+[Bass Solo]: Features a bass solo
+[Instrumental Break]: Insert an instrumental section
+Vocals - Suno voice tags for lyric prompts
+You can try to change the voice of lyrics or spoken words in your lyric prompts, however this has a very low success rate if at all. I would suggest putting these prompts in the style section, either at the start of a new generation or within a regenerated section.
+
+Vocal Metatags
+[Male Vocal]: Specifies male vocals
+[Female Vocal]: Specifies female vocals
+[Duet]: Indicates a duet
+[Choir]: Adds choir vocals
+[Spoken Word]: Creates a section with spoken vocals
+[Harmonies]: Adds vocal harmonies
+[Vulnerable Vocals]: Generates raw, emotional vocal performances
+[Whisper]: Generates softer, whispered vocals
+Specific Elements Metatags
+[Catchy Hook]: Creates a memorable hook
+[Emotional Bridge]: Adds an emotionally intense bridge
+[Powerful Outro]: Ends the song with a strong outro
+[Soft Intro]: Starts the song softly
+[Melodic Interlude]: Adds a melodic break
+[Percussion Break]: Introduces a percussion-focused section
+Atmosphere and Mood Metatags
+[Eerie Whispers]: Adds faint, unsettling background vocals
+[Ghostly Echoes]: Creates reverb-heavy, ethereal sounds
+[Ominous Drone]: Introduces a low, continuous tone for tension
+[Spectral Melody]: Generates a haunting, otherworldly melody
+[Melancholic Atmosphere]: Creates a sad or reflective mood
+[Euphoric Build]: Builds towards a joyful climax
+[Tense Underscore]: Adds underlying tension to the music
+[Serene Ambience]: Creates a peaceful, calm atmosphere
+[Nostalgic Tones]: Evokes a sense of nostalgia
+Dynamic and Progression Metatags
+[Building Intensity]: Gradually increases musical intensity
+[Climactic]: Reaches a musical high point
+[Emotional Swell]: Creates a gradual build-up of emotional intensity
+[Layered Arrangement]: Creates complex, multi-instrumental arrangements
+[Orchestral Build]: Gradually introduces orchestral elements
+[Stripped Back]: Reduces instrumentation to bare essentials
+[Sudden Break]: Introduces an abrupt change
+[Crescendo]: Gradually increases volume/intensity
+[Decrescendo]: Gradually decreases volume/intensity
+Last updated on April 1, 2025
+
+Fusion prompt list
+1. Jazz-Hop:
+
+“Smooth swing rhythms with strong bass beats, soulful saxophone solos, rhythmic vocal flow, intricate piano melodies, catchy hooks.”
+2. Rocktronica:
+
+“Energetic guitar riffs with dynamic beats, powerful drum beats, engaging synthesizers, strong vocal presence, anthemic choruses.”
+3. Pop-Soul:
+
+“Catchy melodies with rich vocal harmonies, upbeat rhythms, deep bass lines, engaging vocals, emotional lyrics.”
+4. Country-Rock:
+
+“Twangy guitar riffs with powerful drum beats, storytelling lyrics, anthemic choruses, harmonious vocal arrangements, dynamic solos.”
+5. Reggae-Dubstep:
+
+“Laid-back rhythms with intense dubstep oscillations, offbeat guitar strums, profound musical drops, deep bass lines, relaxed vocal style.”
+6. Classical-Trance:
+
+“Orchestral arrangements with powerful trance synthesizers, rich harmonies, blissful ascents, dynamic crescendos, gigantic musical drops.”
+7. Blues-Funk:
+
+“Expressive guitar solos with syncopated rhythms, emotive vocal delivery, groovy bass lines, rhythmic shuffles, energetic vocals.”
+8. Metal-Hip Hop:
+
+“Heavy guitar riffs with strong bass beats, aggressive drum beats, rhythmic vocal flow, powerful vocals, impactful lyrics.”
+9. Folk-EDM:
+
+“Acoustic guitar melodies with vibrant basslines, storytelling lyrics, engaging synthesizers, harmonious vocals, ready-for-club mixes.”
+10. Latin-Indie:
+
+“Rhythmic percussion with unique vocal styles, vibrant brass, experimental arrangements, lively vocal performances, eclectic influences.”
+
+Style Prompts to Combine with Suno: Music Prompts for Suno Prompt Examples
+These music prompts for Suno can be combined with genres and other influences to create unique compositions. For example: Atmospheric future bass or crisp hip-hop. Use these Suno prompt examples to inspire your creativity and craft distinctive music with Suno AI.
+
+Extend Style samples from Splice
+Try using a style sample from Splice
+
+Mood and Atmosphere
+Suno prompt example: Atmospheric
+Music prompt for Suno: Ambient
+Suno prompt example: Ethereal
+Music prompt for Suno: Euphoric
+Suno prompt example: Mystical
+Music prompt for Suno: Dreamy
+Suno prompt example: Surreal
+Music prompt for Suno: Tranquil
+Suno prompt example: Serene
+Music prompt for Suno: Haunting
+Suno prompt example: Intoxicating
+Music prompt for Suno: Eerie
+Suno prompt example: Celestial
+Music prompt for Suno: Chilling
+Suno prompt example: Melancholic
+Music prompt for Suno: Apocalyptic
+Textural and Dynamic
+Suno prompt example: Airy
+Music prompt for Suno: Dense
+Suno prompt example: Fluid
+Music prompt for Suno: Smooth
+Suno prompt example: Rough
+Music prompt for Suno: Textured
+Suno prompt example: Layered
+Music prompt for Suno: Blurred
+Suno prompt example: Crisp
+Music prompt for Suno: Fuzzy
+Suno prompt example: Sparkling
+Music prompt for Suno: Glossy
+Suno prompt example: Transparent
+Music prompt for Suno: Luminous
+Suno prompt example: Vibrant
+Music prompt for Suno: Shimmering
+Rhythmic and Musical
+Suno prompt example: Rhythmic
+Music prompt for Suno: Percussive
+Suno prompt example: Melodic
+Music prompt for Suno: Harmonic
+Suno prompt example: Polyphonic
+Music prompt for Suno: Syncopated
+Suno prompt example: Dynamic
+Music prompt for Suno: Staccato
+Suno prompt example: Crescendoing
+Music prompt for Suno: Descending
+Suno prompt example: Ascending
+Music prompt for Suno: Cadenced
+Suno prompt example: Dotted
+Music prompt for Suno: Arhythmic
+Suno prompt example: Cross-rhythmic
+Emotional and Expressive
+Suno prompt example: Emotional
+Music prompt for Suno: Joyous
+Suno prompt example: Sad
+Music prompt for Suno: Angry
+Suno prompt example: Aggressive
+Music prompt for Suno: Gentle
+Suno prompt example: Warm
+Music prompt for Suno: Cold
+Suno prompt example: Festive
+Music prompt for Suno: Nostalgic
+Suno prompt example: Romantic
+Music prompt for Suno: Passionate
+Suno prompt example: Soothing
+Music prompt for Suno: Inspiring
+Suno prompt example: Soulful
+Technological and Synthetic
+Suno prompt example: Digital
+Music prompt for Suno: Analog
+Suno prompt example: Electronic
+Music prompt for Suno: Robotic
+Suno prompt example: Cybernetic
+Music prompt for Suno: Futuristic
+Suno prompt example: Synthetic
+Music prompt for Suno: Automated
+Suno prompt example: Virtual
+Music prompt for Suno: Algorithmic
+Suno prompt example: Biotechnological
+Style and Genre Influences
+Suno prompt example: Baroque
+Music prompt for Suno: Classical
+Suno prompt example: Jazz
+Music prompt for Suno: Funky
+Suno prompt example: Disco
+Music prompt for Suno: Punk
+Suno prompt example: Rock
+Music prompt for Suno: Pop
+Suno prompt example: Hip-hop
+Music prompt for Suno: Reggae
+Suno prompt example: Folk
+Music prompt for Suno: Country
+Suno prompt example: Blues
+Music prompt for Suno: Industrial
+Suno prompt example: Techno
+Movement and Energy
+Suno prompt example: Explosive
+Music prompt for Suno: Fast-paced
+Suno prompt example: Slow
+Music prompt for Suno: High-energy
+Suno prompt example: Lethargic
+Music prompt for Suno: Static
+Suno prompt example: Chaotic
+Music prompt for Suno: Controlled
+Suno prompt example: Spontaneous
+Music prompt for Suno: Cinematic
+Suno prompt example: Dramatic
+Music prompt for Suno: Climactic
+Suno prompt example: Bouncing
+Music prompt for Suno: Flowing
+Suno prompt example: Pulsating
+Nature and Environment
+Suno prompt example: Oceanic
+Music prompt for Suno: Forest-like
+Suno prompt example: Urban
+Music prompt for Suno: Desert
+Suno prompt example: Mountainous
+Music prompt for Suno: Space
+Suno prompt example: Underwater
+Music prompt for Suno: Atmospheric
+Suno prompt example: Geographical
+Music prompt for Suno: Seasonal
+Suno prompt example: Weather-related
+Sensory and Perception
+Suno prompt example: Visual
+Music prompt for Suno: Textural
+Suno prompt example: Sonic
+Music prompt for Suno: Tactile
+Suno prompt example: Olfactory (Suggestive)
+Music prompt for Suno: Gustatory (Suggestive)
+Suno prompt example: Intuitive
+Music prompt for Suno: Cognitive
+Suno prompt example: Psychological
+Music prompt for Suno: Emotional
+Quality and Craft
+Suno prompt example: Polished
+Music prompt for Suno: Refined
+Suno prompt example: Raw
+Music prompt for Suno: Crafted
+Suno prompt example: Artisanal
+Music prompt for Suno: Innovative
+Suno prompt example: Traditional
+Music prompt for Suno: Modern
+Suno prompt example: Retro
+Music prompt for Suno: Sophisticated
+Suno prompt example: Simple
+Music prompt for Suno: Complex
+Suno prompt example: Detailed
+Music prompt for Suno: Minimalist
+Experimental and Avant-Garde
+Suno prompt example: Avant-garde
+Music prompt for Suno: Experimental
+Suno prompt example: Abstract
+Music prompt for Suno: Non-conformist
+Suno prompt example: Unconventional
+Music prompt for Suno: Alternative
+Suno prompt example: Cutting-edge
+Music prompt for Suno: Novel
+Suno prompt example: Unique
+Music prompt for Suno: Innovative
+Suno prompt example: Pioneering
+Social and Cultural
+Suno prompt example: Cultural
+Music prompt for Suno: Social
+Suno prompt example: Political
+Music prompt for Suno: Community-focused
+Suno prompt example: Ancestral
+Music prompt for Suno: Heritage
+Suno prompt example: Patriotic
+Music prompt for Suno: Regional
+Suno prompt example: Global
+Music prompt for Suno: Historical
+Example Combinations
+Suno prompt example: Atmospheric, ethereal jazz with vibrant, rhythmic synth pulses.
+Music prompt for Suno: Dynamic, percussive rock fused with nostalgic, glossy disco vibes.
+Suno prompt example: Urban, funky hip-hop blended with raw, expressive blues elements.
+Music prompt for Suno: Eerie, haunting techno with complex, cross-rhythmic, cinematic layers.
+Suno prompt example: Warm, soulful reggae rhythms paired with crisp, transparent pop melodies.
+Music prompt for Suno: Chilling, surreal ambient sounds meet explosive, high-energy industrial beats.
+Suno prompt example: Retro, polished funk combined with aggressive, analog punk energy.
+Music prompt for Suno: Flowing, smooth classical elements intertwined with sharp, futuristic electronic.
+Suno prompt example: Luminous, shimmering folk tunes enriched with deep, textured atmospheric pads.
+Music prompt for Suno: Robotic, cybernetic country twangs fuse with serene, tranquil forest-like ambiences.
+Suno prompt example: Melodic, harmonic metal with ethereal, celestial overtones.
+Music prompt for Suno: Crunchy, gritty rock with pulsating, explosive techno undertones.
+Suno prompt example: Cool, breezy jazz with rhythmic, syncopated reggae grooves.
+Music prompt for Suno: Dense, layered electronic vibes with airy, ambient melodies.
+Suno prompt example: Aggressive, raw punk fused with sophisticated, baroque classical.
+Music prompt for Suno: Smooth, soulful R&B blends with eclectic, vibrant world beats.
+Suno prompt example: Dreamy, surreal pop interlaced with hard, rhythmic techno.
+Music prompt for Suno: Gentle, tranquil acoustic paired with deep, robust blues.
+Suno prompt example: Fiery, passionate salsa rhythms underpinning subdued, minimalist techno.
+Music prompt for Suno: Rough, textured industrial sounds paired with glossy, transparent disco grooves.
+Maximize Creativity with Suno Prompt Examples
+By combining these style prompts with genres and other influences, you can create unique and inspiring music prompts for Suno. These Suno prompt examples are designed to stimulate your creativity and help you craft distinctive music using Suno AI. Here’s how to make the most of these prompts:
+
+Why Use Custom Music Prompts for Suno
+Custom prompts are invaluable tools for musicians looking to spark creativity and generate fresh ideas. Suno AI offers personalized prompts that cater to your specific needs, making the music creation process smoother and more enjoyable. Here’s why using music prompts for Suno can be a game-changer:
+
+Overcome Creative Blocks: Custom Suno prompt examples provide a starting point, helping you break through creative barriers and kickstart your music production.
+Tailored Inspiration: Suno AI customizes prompts based on your preferences, ensuring that the ideas generated align with your style and musical goals.
+Versatility: With music prompts for Suno that can be adjusted for different moods, styles, and genres, you have a versatile tool to explore new musical territories.
+Benefits of Using Suno Prompt Examples
+Using Suno prompt examples offers numerous benefits that can enhance your creative process:
+
+Boost Creativity: Music prompts for Suno stimulate your imagination and encourage you to think outside the box, leading to innovative musical ideas.
+Efficient Workflow: By providing a clear starting point, Suno prompt examples help streamline the music creation process, saving you time and effort.
+Expand Your Repertoire: Exploring different music prompts for Suno can help you discover new styles and sounds, broadening your musical horizons.
+Improve Skills: Regularly using Suno prompt examples as a creative exercise can help you hone your music production and songwriting skills.
+Combining Music Prompts for Suno for Unique Results
+One of the most exciting aspects of using Suno AI’s custom prompts is the ability to combine different elements to create unique music. Here are a few tips:
+
+Experiment with Contrasts: Pair contrasting elements, like aggressive rhythms with gentle melodies, to create dynamic and engaging compositions using Suno prompt examples.
+Blend Genres: Incorporate elements from different genres to produce a fresh and innovative sound with music prompts for Suno.
+Layer Elements: Use layered textures, intricate rhythms, and complex harmonies from various Suno prompt examples to add depth to your music.
+Adapting the Prompts to Your Music
+As you use these custom music prompts for Suno, it’s essential to adapt and refine the ideas to suit your artistic vision:
+
+Personalize the Style: Modify the prompts to better fit your unique style, ensuring the music feels authentic.
+Adjust the Elements: Experiment with different combinations from the Suno prompt examples to find what resonates with you.
+Evolve the Composition: Don’t hesitate to tweak the structure or elements to enhance the flow and impact of your music.
+By leveraging Suno AI’s style prompts and adapting the ideas generated, you can overcome creative blocks, boost your creativity, and craft music that captivates your audience. Embrace the process and enjoy the journey of creating music that truly reflects your artistic essence with these music prompts for Suno.
+
+Last updated on January 18, 2025
+
+Prompting Suno with Song Structure Tags for Better Composition
+When prompting Suno, you can use metatags to influence the song structure beyond the basic verse/chorus pattern. While the AI tends to have a mind of its own and may follow its own pattern, these tags can help guide the composition. Here’s how to use song structure tags effectively when prompting Suno.
+
+[Intro]
+...optional lyrics...
+[Verse]
+...lyrics...
+[Chorus]
+...lyrics...
+[Bass Drop]
+...lyrics...
+[Interlude]
+[Bass Drop]
+[End]
+Prompting Suno for Intros
+The [Intro] tag is notoriously unreliable. Instead, try describing it as an instrumental break:
+
+[Short Instrumental Intro]
+
+Creating Hooks with Suno Prompts
+A hook is a repetitive phrase or instrumental. To create a hook, try repeating a short line 2-4 times with or without the label:
+
+[Catchy Hook]
+
+Using Breaks in Suno Prompts
+A break is a few bars where the lead instruments or singer go silent, and the accompanying instruments play. Use the [Break] tag strategically to interrupt the current pattern:
+
+[Break] or [Percussion Break]
+
+Prompting Suno for Interludes
+The [Interlude] tag is useful for creating an instrumental section within the lyrics:
+
+[melodic interlude]
+
+Crafting Outros with Suno Prompts
+An Outro can help prime the song to end and may create a loop to fade out in post-edit. Use these tags to wrap up the song:
+
+[Outro] or [Refrain] or [Big Finish]
+
+“Refrain” tends to get more ‘creative’ when wrapping up the end of the song, while “Big Finish” may change the melody or tempo to create a climax.
+
+Prompting Suno to End the Song
+An [End] tag in the lyrics may work best alone as its own clip. Clear the Style Prompt or add ‘End’ to the style description:
+
+[End] or [Fade Out] or [Fade to End]
+
+See How do I end the song? for more suno tips.
+
+Remember, prompting an AI is not like paying someone to edit your music on Fiverr. The reliability of these tags can be influenced by the lyrics, the song cycle, and the AI’s randomness. Experiment with different combinations and placements of song structure tags when prompting Suno to achieve the desired composition.
+
+Last updated on January 18, 2025
+
+1. Vocal Tone Tags
+These suno voice tags help define the tonal quality of the voice, giving it a distinct feel that fits the overall mood of your music.
+
+Airy
+Breathy
+Crisp
+Deep
+Gritty
+Smooth
+Soft
+Warm
+Raw
+Sharp
+Muffled
+Bright
+Mellow
+Raspy
+Clear
+Thin
+Dense
+2. Vocal Effects Tags
+Use these suno voice tags to apply different effects to the singer’s voice, altering the texture and sonic profile to fit genres like EDM, pop, or experimental music.
+
+Auto-tuned
+Distorted
+Reverbed
+Echoed
+Layered
+Chopped
+Pitch-shifted (up/down)
+Filtered
+Vocoder
+Robotized
+Phased
+Flanged
+Time-stretched
+Lo-fi
+Bit-crushed
+Glitched
+Stuttered
+Modulated
+Panned (left/right for stereo effects)
+Granular
+Doubled
+Auto-harmonized
+Saturated
+Ring-modulated
+Detuned
+Reverse (creates eerie, backward-sounding vocals)
+These suno voice tags are essential for giving your vocal performance an otherworldly or futuristic quality, perfect for electronic, psychedelic, or experimental music genres.
+
+3. Pitch & Range Manipulation Tags
+Modifying the pitch and vocal range can dramatically change how a voice is perceived. These suno voice tags allow you to shift the voice up or down the scale, expanding its expressive range.
+
+Low-pitched
+High-pitched
+Mid-range
+Sub-bass vocals
+Falsetto
+Baritone
+Soprano
+Tenor
+Contralto
+Whispered falsetto
+Harmonized layers
+Dissonant harmonies
+Octave shift (up/down)
+Pitch-bent
+Modulated pitch
+Subtle detune
+Formant-shifted (changing the vocal characteristics without altering pitch)
+Pitch shifting and range effects, enhanced by suno voice tags, can add depth to your song, whether you’re aiming for high-energy or more ethereal, dream-like vocals.
+
+4. Vocal Texture Tags
+Adding texture to a voice can emphasize mood and emotion, making a song feel intimate or intense. These suno voice tags help you control how the vocal texture interacts with the rest of the mix.
+
+Whispered
+Gravelly
+Velvety
+Dreamy
+Resonant
+Nasal
+Brassy
+Metallic
+Saturated
+Smoky
+Chilled
+Rough-edged
+Shimmery
+Glassy
+Crunchy
+Liquid-like
+Breathy exhale
+These suno voice tags are ideal for adding nuanced character to the voice, matching the specific atmosphere of the track you’re working on.
+
+5. Vocal Style Tags
+Vocal style defines how the singer performs each note or phrase. These suno voice tags give you control over the expressive delivery of the vocal, impacting the entire flow of the song.
+
+Staccato
+Legato
+Vibrato-heavy
+Monotone
+Melismatic
+Syncopated
+Operatic
+Chanting
+Spoken-word
+Growling
+Belting
+Yodeling
+Humming
+Rapping
+Scatting
+Falsetto runs
+Yelping
+Grunting
+Call-and-response
+By incorporating these vocal styles into your suno voice tags, you can design a performance that shifts dynamically throughout the track, adding variety and complexity.
+
+6. Dynamics & Volume Tags
+Dynamics can change the energy level of a song. These suno voice tags focus on the intensity and volume of the voice, helping shape the emotional peaks and valleys in your production.
+
+Soft-spoken
+Shouted
+Crescendo
+Decrescendo
+Sudden stop
+Building intensity
+Explosive
+Subtle
+Whispered vocals
+Breathy build-up
+Intense climax
+Dynamic shifts
+Fading vocals
+Echoing softly
+Reverb swell
+Silent break (a pause for dramatic effect)
+These suno voice tags will help you manipulate the dynamics of the performance, making your song more impactful by playing with loud and soft contrasts.
+
+7. Emotional & Mood Tags
+Emotional tone is key to delivering the right feeling in a song. These suno voice tags let you control how the singer conveys different moods and emotions.
+
+Sultry
+Ethereal
+Melancholic
+Playful
+Aggressive
+Haunting
+Euphoric
+Mysterious
+Hypnotic
+Dreamy
+Confident
+Desperate
+Tranquil
+Emotive
+Longing
+Angsty
+Triumphant
+Introspective
+Detached
+These suno voice tags help guide the emotional storytelling of the vocals, ensuring the mood aligns with the overall theme of your track.
+
+8. Vocal Timing & Rhythm Tags
+The rhythm and timing of vocals can significantly impact the groove of a song. These suno voice tags allow you to modify the vocal performance to fit different beats and time signatures.
+
+Off-beat
+Syncopated
+On-beat
+Fast-paced
+Laid-back
+Polyrhythmic
+Triplets
+Slow-drawled
+Quick stabs
+Rolling
+Freeform
+Rapid-fire
+Loose phrasing
+Tight rhythm
+Using these suno voice tags ensures that the vocal delivery complements the rhythm and timing of your instrumental track.
+
+By combining these various suno voice tags, you’ll be able to craft unique, tailored vocal performances for each of your Suno-generated tracks. Whether you’re after a futuristic, otherworldly voice or a grounded, intimate vocal texture, using the right tags will allow you to push the boundaries of creativity and experiment with vocal styles, dynamics, and emotional tone.
+
+Last updated on April 9, 2025
+
+Artist prompt list of different styles
+Here is a prompt list of famous artists and their associated music styles. Use this as a guide to help inspire your own music-related prompt based on artists you enjoy.
+
+You can search to see if an artist you know is in this prompt list.
+
+Bruno Mars
+Funk, Dance Pop, Groovy, male vocals
+
+Fleetwood Mac
+Classic Rock, Mellifluous
+
+Ed Sheeran
+Folk, Acoustic Guitar, male vocals
+
+Tim McGraw
+Country, Americana, male vocals
+
+Elton John
+Piano Pop Rock, Theatrical, male vocals
+
+Dolly Parton
+Country, Storytelling, female vocals
+
+Red Hot Chili Peppers
+Funk Rock, Stadium, heavy drums
+
+Coldplay
+Alternative Rock, Atmospheric
+
+Taylor Swift
+Pop, Alternative Folk, Emotional, female vocals
+
+Elvis Presley
+50s Rock, Hero Theme, male vocals
+
+Adele
+Soul, Emotional, Torch-Lounge, female vocals
+
+Ariana Grande
+Pop, Dance Pop, Ethereal, female vocals
+
+Billie Eilish
+Pop, Dark, Minimal, female vocals
+
+The Weeknd
+RnB, Dark, Cinematic, male vocals
+
+Beyoncé
+RnB, Anthemic, Danceable, female vocals
+
+Kendrick Lamar
+HipHop, Lyrical, Storytelling, male vocals
+
+Lady Gaga
+Pop, Theatrical, Dance, female vocals
+
+Jay-Z
+HipHop, Aggressive, Storytelling, male vocals
+
+Rihanna
+RnB, Dance Pop, Festive, female vocals
+
+Kanye West
+HipHop, Progressive, Eclectic, male vocals
+
+Justin Bieber
+Pop, Danceable, Chillwave, male vocals
+
+Katy Perry
+Pop, Glitter, Festive, female vocals
+
+Snoop Dogg
+Rap, Funk, Chill, male vocals
+
+Metallica
+Heavy Metal, Power
+
+AC/DC
+Hard Rock, Stomp
+
+Madonna
+Dance Pop, High-NRG, female vocals
+
+David Bowie
+70s British Rock, Art, Eclectic, male vocals
+
+Bob Dylan
+Folk, Storytelling, Acoustic Guitar, male vocals
+
+Post Malone
+Rap, Ethereal, Ambient, male vocals
+
+Maroon 5
+Pop Rock, Danceable, male vocals
+
+Shakira
+Latin, Dance Pop, Festive, female vocals
+
+Dua Lipa
+Disco, Dance Pop, Groovy, female vocals
+
+Michael Jackson
+80s Pop, Dance, Iconic, male vocals
+
+Prince
+Funk, Eclectic, Glam, male vocals
+
+Miley Cyrus
+Pop, Rock, Party, female vocals
+
+Cardi B
+Rap, Aggressive, Party, female vocals
+
+Imagine Dragons
+Rock, Anthemic, Emotion
+
+Camila Cabello
+Pop, Latin Jazz, Festive, female vocals
+
+Harry Styles
+Pop, Rock, Groovy, male vocals
+
+Sam Smith
+Soul, Emotional, Lounge, male vocals
+
+Lizzo
+Pop, Funk, Empowering, female vocals
+
+Daft Punk
+Electronic, Dance, Futuristic
+
+Gorillaz
+Alternative Rock, Electronic, Unusual
+
+The Beatles
+60s British Pop, Classic, Rock
+
+Queen
+Rock, Operatic, Theatrical, Male Vocals
+
+Led Zeppelin
+Hard Rock, Blues Rock, Epic
+
+Pink Floyd
+Rock, Progressive, Atmospheric
+
+The Rolling Stones
+Rock, Blues Rock, Classic
+
+Bob Marley
+Reggae, Peaceful, Soulful, male vocals
+
+Frank Sinatra
+1940s big band, Lounge Singer, male vocals
+
+Aretha Franklin
+Soul, Gospel, Powerful, female vocals
+
+Whitney Houston
+Pop, RnB, Emotional, female vocals
+
+Stevie Wonder
+Soul, Funk, Joyful, male vocals
+
+The Chainsmokers
+EDM, Dance, Party
+
+Nicki Minaj
+Rap, Danceable, Bold, female vocals
+
+Green Day
+Punk Rock, Aggressive, Youthful
+
+Nirvana
+Grunge, Dark, Raw, Male Vocals
+
+Amy Winehouse
+Soul, Jazz, Torch-Lounge, female vocals
+
+Linkin Park
+Rock, Nu Metal, Emotional
+
+Aerosmith
+Rock, Hard Rock, Classic
+
+Bon Jovi
+Rock, Anthem, Stadium
+
+Billy Joel
+Pop, Rock, Storytelling, male vocals
+
+Phil Collins
+Pop, Rock, Emotional, soundtrack, male vocals
+
+Genesis
+Rock, Progressive, Art
+
+The Eagles
+Rock, Country Rock, Harmonious
+
+The Doors
+Rock, Psychedelic, Mysterious
+
+Janis Joplin
+Rock, Blues Rock, Raw Emotion, female vocals
+
+Jimi Hendrix
+Rock, Psychedelic, Guitar Virtuoso, male vocals
+
+The Who
+Rock, Hard Rock, Theatrical
+
+Black Sabbath
+Heavy Metal, Doom
+
+Iron Maiden
+Heavy Metal, Epic, Theatrical
+
+Judas Priest
+Heavy Metal, Power, Leather
+
+Motorhead
+Heavy Metal, Rock’n’Roll, Aggressive
+
+Slayer
+Thrash Metal, Aggressive, Dark
+
+Ozzy Osbourne
+Heavy Metal, Dark, Theatrical, male vocals
+
+Skrillex
+Dubstep, Electronic, Intense, male vocals
+
+Calvin Harris
+EDM, Dance, Festive, male vocals
+
+Avicii
+EDM, Melodic, Euphoric, male vocals
+
+Arctic Monkeys
+Indie Rock, Garage, Cool
+
+Tame Impala
+Psychedelic Rock, Dreamy, Mellifluous
+
+The Strokes
+Indie Rock, Cool, Raw
+
+Vampire Weekend
+Indie Rock, Eclectic, Upbeat
+
+Kings of Leon
+Rock, Emotional, Raw
+
+The Killers
+Rock, Synthpop, Anthemic, male vocals
+
+System of a Down
+Metal, Political, Eccentric
+
+Radiohead
+Alternative Rock, Experimental, Atmospheric
+
+Foo Fighters
+Rock, Alternative, Energetic
+
+Muse
+Rock, Progressive, Theatrical
+
+Tool
+Progressive Metal, Dark, Complex
+
+Rage Against the Machine
+Rap Metal, Political, Aggressive
+
+Pearl Jam
+Grunge, Rock, Emotional
+
+Soundgarden
+90s Grunge, Heavy, Dark
+
+Alice in Chains
+Grunge, Dark, Melodic
+
+Sigur Rós
+Post-Rock, Ethereal, Atmospheric, Icelandic
+
+Björk
+Alternative, Experimental, Unusual, female vocals
+
+Enya
+New Age, Ethereal, Calm, female vocals
+
+Deadmau5
+Electronic, House, Progressive
+
+Marshmello
+EDM, Dance, Happy
+
+Zedd
+EDM, Dance Pop, Energetic, male vocals
+
+The XX
+Indie Pop, Minimal, Atmospheric
+
+Lana Del Rey
+Pop, Sadcore, Cinematic, female vocals
+
+Kacey Musgraves
+Country, Pop, Mellifluous, female vocals
+
+St. Vincent
+Art Rock, Eclectic, Unusual, female vocals
+
+Childish Gambino
+HipHop, Funk, Thoughtful, male vocals
+
+SZA
+RnB, Neo Soul, Emotional, female vocals
+
+Frank Ocean
+RnB, Soulful, Introspective, male vocals
+
+Tyler, The Creator
+HipHop, Eclectic, Unusual, male vocals
+
+Solange
+RnB, Soul, Artistic, female vocals
+
+Brockhampton
+HipHop, Alternative, Collective
+
+Janelle Monáe
+Funk, RnB, Sci-Fi, female vocals
+
+Mac DeMarco
+Indie Pop, Slacker Rock, Chill, male vocals
+
+Rufus Du Sol
+Electronic, Dance, Atmospheric
+
+Bon Iver
+Indie Folk, Ethereal, Intimate, male vocals
+
+Florence + The Machine
+Indie Rock, Dramatic, Ethereal
+
+Jack White
+Rock, Blues, Raw, male vocals
+
+Gary Clark Jr.
+Blues Rock, Soulful, Gritty, male vocals
+
+Leon Bridges
+Soul, RnB, Retro, male vocals
+
+Brittany Howard
+Rock, Soul, Powerful, female vocals
+
+Alabama Shakes
+Rock, Blues Rock, Soulful
+
+Glass Animals
+Psychedelic Pop, Groovy, Eclectic
+
+Portugal, The Man
+Alternative Rock, Psychedelic, Catchy
+
+FKA Twigs
+RnB, Electronic, Avant-Garde, female vocals
+
+The National:
+Indie Rock, Melancholy, Introspective
+
+MGMT:
+Psychedelic Pop, Electronic, Playful
+
+Empire of the Sun
+Electronic, Pop, Theatrical
+
+Grimes
+Art Pop, Electronic, Experimental, female vocals
+
+James Blake
+Electronic, Soul, Minimalist, male vocals
+
+The War on Drugs
+Indie Rock, Heartland Rock, Melodic
+
+Sufjan Stevens
+Indie Folk, Baroque Pop, Intimate, male vocals
+
+Bonobo:
+Downtempo, Electronic, Ambient
+
+Caribou
+Electronic, Psychedelic, Dance
+
+Four Tet
+Electronic, Ambient, Textural
+
+Jamie xx
+Electronic, House, Minimal
+
+Nicolas Jaar
+Electronic, Experimental, Atmospheric, male vocals
+
+Flying Lotus
+Electronic, Experimental HipHop, Fusion, male vocals
+
+Thundercat
+Funk, Jazz, Experimental, male vocals
+
+Kamasi Washington
+Jazz, Fusion, Epic, male vocals
+
+Massive Attack
+Trip Hop, Dark, Atmospheric
+
+Portishead
+Trip Hop, Dark, Cinematic
+
+Aphex Twin
+IDM, Electronic, Experimental, male vocals
+
+Boards of Canada
+IDM, Downtempo, Nostalgic
+
+Burial
+Dubstep, Ambient, Mysterious
+
+J Dilla
+HipHop, Soulful, Experimental, male vocals
+
+MF DOOM
+HipHop, Abstract, Lyrical, male vocals
+
+Kendrick Lamar
+HipHop, Conscious, Lyrical, male vocals
+
+Blink-182
+emo pop rock, male vocals
+
+Green Day
+Punk Rock, Aggressive, Youthful
+
+Phoebe Bridgers
+Bedroom, grungegaze, catchy, psychedelic, acoustic tape recording, female vocals
+
+Drake
+HipHop, Trap, male vocals
+
+Example song styles
+Dance and Electronic
+Energetic tropical house, vibrant melodies, calypso percussions, relaxed vocal styles, and a chill tempo
+Dynamic Balkan electro swing, spirited brass sounds, syncopated beats, ethnic tunes, and dance-inviting tempo
+Underground minimal techno, looped beats, slow evolutions, trance-inducing rhythms, and a deep bass presence
+Drum and bass with rapid breakbeats, heavy bass, and complex, choppy drum tracks
+Synthwave, evoking 1980s nostalgia with lush synthesizer melodies and retro-futuristic vibes
+Pop and Synth
+Dreamy synth pop, floating soundscapes, slowed rhythms, deep echoic vocals, and a mystical aura
+Angelic dream pop, glowing guitar tones, rich synthesizers, and a touch of melancholy
+Retro 80s vibes, slow beats, punk energy, nostalgic synth melodies, and an eerie undertone
+Synth-heavy 80s pop, spooky undertones, and a captivating melodic hook
+Bubblegum pop, characterized by catchy melodies, upbeat rhythms, and an accessible appeal
+Rock and Metal
+Revived glam rock, bold stage presence, glittering outfits, infectious melodies, and dynamic solos
+Energetic metal concerts, shredding guitars, orchestral overtones, and robust vocal performances
+Intense trap metal, heavy bass, shouting lyrics, frenzied soundscapes, and intense musical breaks
+Metal-themed anime opening tracks, dominated by intense male vocals and robust musical arrangements
+Progressive rock, known for its complex structures, extended musical compositions, and eclectic influences
+Punk and Indie
+Fusion of punk rock, ska vibes, rock energy, rap beats, and indie pop nuances
+Gritty hardcore punk, high-speed beats, rebellious lyrics, raw vocals, and a grassroots ethos
+Breezy indie surf rock, metallic guitar twangs, beachfront themes, breezy singing, and radiant melodies
+DIY grungegaze, ear-catching, psychedelic flair, raw acoustic recordings, and a vintage vibe
+Post-rock, emphasizing texture over traditional rock rhythms and melodies
+Hip Hop and Urban
+Fast-paced hip hop, heavy bass, rapid lyrical attack, minor tonality, and an aura of suspense
+Trap music, characterized by hi-hat rolls, heavy bass, and layered synths
+Old school hip hop, focusing on rhythmic beats and an emphasis on lyrical wordplay
+Rhythm and Blues (R&B)
+Smooth RnB, creamy rhythms, captivating vocals, nighttime moods, and sophisticated production
+Soul music with deep emotional delivery, vibrant brass accompaniments, and powerful vocal performances
+Neo-soul, blending classic soul influences with modern sounds, intricate rhythms, and poetic lyrics
+World and Ethnic
+Vibrant gypsy jazz, swift fingerstyle guitars, swinging beats, joyful fiddles, and a party-like feel
+Funk with a psychedelic twist, rhythmic bass, distorted guitars, vibrant effects, and punchy horn sections
+Afrobeat, combining African musical styles with jazz, funk, and complex rhythms
+Latin pop, fusing upbeat rhythms, catchy hooks, and a blend of English and Spanish lyrics
+Ambient and Experimental
+Deep dark ambient, ominous tones, slow-changing layers, and a chillingly obscure aura
+Cosmic ambient music, galactic themes, slowly unfolding sounds, exploring the vastness of space
+Complex math rock mixed with J-pop’s catchy melodies, funky rhythms, electronic dubstep, and fast EDM
+Noise music, utilizing unconventional sounds and distortion to create an immersive auditory experience
+Electroacoustic music, blending live traditional instruments with electronic processing
+Classical and Orchestral
+Expressive piano compositions, classical yet modern, with dynamic expressions and intricate performances
+Grand film scores, majestic orchestral arrangements, bold narratives, and emotional crescendos
+Elaborate baroque pop, complex tunes, grand orchestral support, refined harpsichord details, and lyrical depth
+Majestic Gregorian chants, ecclesiastical vocals, serene ambience, and spiritual resonance
+Chamber music with intricate string quartets, precise articulation, and classical harmony
+Opera performances featuring dramatic vocal expressions, elaborate stage designs, and rich orchestration
+Folk and Spiritual
+Traditional folk music, narrative-driven, soothing harmonies, acoustic strumming, and subtle drumming
+Empowering gospel music, robust choirs, hopeful lyrics, deep organ backgrounds, and enthusiastic claps
+Heavenly worship hymns, divine vocals, majestic orchestras, and spiritually lifting arrangements
+Appalachian folk, featuring banjo-driven melodies, authentic storytelling, and rustic harmonies
+Spiritual chants with meditative qualities, repetitive phrases, and a deep focus on inner peace
+Jazz and Lounge
+Time-honored jazz lounge, classic melodies, silky trumpet solos, acoustic bass, and enchanting vocals
+Smooth jazz with mellow saxophone tones, laid-back rhythms, and a relaxing atmosphere
+Bebop jazz featuring complex improvisations, rapid changes, and a focus on instrumental virtuosity
+Last updated on January 18, 2025
+
+Fuente: https://howtopromptsuno.com/making-music/instrumental-tags
+
+Customizing Instruments for Unique Songs
+When prompting Suno, you can create unique instrumental sections that add depth and variety to your songs. By customizing instruments in Suno, you can create distinct musical breaks that complement your verses and choruses. This guide will show you how to prompt Suno effectively to tailor instruments to your desired sound.
+
+Prompting Suno for Instrumental Sections
+To create instrumental sections when prompting Suno, use tags similar to [Verse] and [Chorus], but without lyrics. These sections might not be as clearly defined, but they can serve as standalone sections or brief transitions in the music. For best results when prompting Suno, use only one instrumental tag at a time, but feel free to experiment with adding commas within the prompt to combine them.
+
+Examples of Instrument Prompts for Suno
+When prompting Suno, try these instrument tags to customize your song:
+
+[Haunting Piano Interlude]
+[Funky Saxophone Break]
+[Pulsing Synth Bass]
+[Tribal Drum Break]
+[Slap Bass Groove]
+[Soaring Electric Guitar Solo]
+[Orchestral Buildup]
+[Dubstep Bass Drop]
+Tailoring Instruments to the Genre in Suno Prompts
+The genre is crucial when prompting Suno to customize instruments. To effectively manipulate an instrument using metatags, you may need to describe it within the Style Prompt.
+
+For example, a [Dubstep Bass Drop] would fit perfectly in an EDM-inspired track but might sound out of place in a folk song driven by acoustic guitar.
+
+Similarly, a [Bluegrass Fiddle Break] will likely work better within a Country-genre song than in a Hip Hop beat. However, adding a ‘fiddle’ to the style prompt when prompting Suno might make it work in unexpected genres. Experiment to find unique combinations!
+
+Using ‘Instrumental Lyrics’ in Suno Prompts
+When prompting Suno, you can sometimes use non-singable text to create instrumental sounds. Try using a few lines of punctuation to force a short instrumental solo.
+
+Though less reliable and sometimes humorous, you can also try using onomatopoeic words that imitate the sounds of the instruments when prompting Suno. While they might be sung as lyrics, they can occasionally trigger the desired instrument.
+
+[Jazzy Trumpet Break] . .! .. .! !! … ! ! !
+
+[wailing electric guitar] wah-Wah-WAH-SCREECH
+
+[funky slap bass] bowm-bowm-b-b-bowm-bowm
+
+By understanding how to prompt Suno effectively to customize instruments, you’ll be able to create unique, genre-bending songs that showcase your creativity. Don’t be afraid to experiment with different prompts and combinations to find the perfect sound for your track.
+
+Last updated on January 18, 2025
+
