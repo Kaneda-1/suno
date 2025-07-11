@@ -1912,3 +1912,1084 @@ Main vocal line
 - [ ] Confirmar que instrumentos destacados aparezcan
 - [ ] Evaluar calidad vocal
 - [ ] Considerar variaciones si es necesario
+
+
+Fuente:  https://sunoaiwiki.com/
+
+List of Music Genres and Styles
+Here’s a categorized selection of music genres and styles, featuring a few hundred popular and common genres:
+
+Avant-garde & Experimental
+Electroacoustic
+Industrial music
+Noise music
+Progressive music
+Psychedelic music
+Blues
+Chicago blues
+Delta blues
+Electric blues
+Gospel blues
+Rhythm and blues
+Country
+Bluegrass
+Country blues
+Country pop
+Country rock
+Nashville sound
+Easy Listening
+Adult contemporary music
+Elevator music (muzak)
+Lounge music
+Soft rock
+Electronic
+Ambient
+Breakbeat
+Disco
+Drum and bass
+Dub
+Electro
+House music
+Techno
+Trance music
+Folk
+Americana
+Celtic music
+Folk rock
+Indie folk
+Singer-songwriter
+Hip Hop
+Alternative hip hop
+Gangsta rap
+Trap
+UK drill
+Jazz
+Bebop
+Big band
+Cool jazz
+Jazz fusion
+Smooth jazz
+Pop
+Dance-pop
+Electropop
+Indie pop
+K-pop
+Synth-pop
+R&B & Soul
+Contemporary R&B
+Funk
+Gospel music
+Neo soul
+Quiet storm
+Rock
+Alternative rock
+Classic rock
+Hard rock
+Indie rock
+Punk rock
+Metal
+Black metal
+Death metal
+Heavy metal
+Industrial metal
+Power metal
+Punk
+Anarcho punk
+Hardcore punk
+Pop punk
+Punk rock
+Skate punk
+Regional Music
+Brazilian music (e.g., Samba, Bossa nova)
+Caribbean music (e.g., Reggae, Dancehall)
+African music (e.g., Afrobeat, Highlife)
+Asian music (e.g., J-pop, K-pop)
+This list includes some of the most influential and widespread genres across the main categories of music. Each category represents a broad spectrum of styles, capturing both traditional and modern sounds.
+
+What are Meta Tags?
+Meta tags in music AI are directives that guide the AI in structuring songs, dictating styles, and integrating dynamics, thus allowing for detailed creative control and expression in generating music and lyrics. Think of meta tags as instructions or hints you give to the AI to help it understand exactly what kind of song you want to create.
+
+How to Use Meta Tags in Suno AI
+Using meta tags can significantly enhance the quality and precision of your AI-generated songs. Here’s how you can apply meta tags effectively:
+
+Structuring Songs: Meta tags can help in defining the structure of your song. For example, you can use meta tags to specify the sections like intro, verse, chorus, and outro. This ensures that the AI understands the flow and progression of your song. Read more
+
+Dictating Styles: Want your song to have a specific style or genre? Meta tags can guide the AI to produce music in the style of pop, rock, jazz, etc. You can even mix and match styles for a unique sound using meta tags. Learn how
+
+Integrating Dynamics: Dynamics like volume, tempo, and emotion can be controlled using meta tags. You can tell the AI to make certain parts of the song softer or more energetic, adding a professional touch to your music with meta tags. Explore more
+
+Creating Detailed Lyrics: Meta tags can also be used to fine-tune the lyrics. You can specify themes, rhyme schemes, and even the mood of the lyrics. This helps in generating coherent and meaningful lyrics that fit well with the music through the use of meta tags. Find out how
+
+By mastering the use of meta tags, you can take full control of your music creation process, making sure the AI produces exactly what you envision. So, whether you’re a beginner or a seasoned musician, incorporating meta tags into your workflow can elevate your Suno AI experience to the next level.
+
+Environment and Sound Effects
+Sound Effects Meta Tags
+Barking : Sound of a dog barking.
+Beeping : Beeping sound.
+Bell dings : Sound of a bell dinging.
+Birds chirping : Sound of birds chirping.
+Bleep : A short, high-pitched sound.
+Cheering : Sound of people cheering.
+Cheers and applause : Sound of people cheering and clapping.
+Chuckles : Sound of light laughter.
+Clapping : Sound of clapping.
+Cough : Sound of coughing.
+Groaning : Sound of groaning.
+Phone ringing : Sound of a phone ringing.
+Ringing : General ringing sound.
+Screams : Sound of screaming.
+Sighs : Sound of sighing.
+Squawking : Sound of squawking.
+Whispers : Sound of whispering.
+Whistling : Sound of whistling.
+Vocal Expressions Meta Tags
+Announcer : Voice of an announcer.
+Audience laughing : Sound of an audience laughing.
+Female narrator : Voice of a female narrator.
+Giggling : Sound of giggling.
+Man : Voice of a man.
+Reporter : Voice of a reporter.
+Woman : Voice of a woman.
+Boy : Voice of a boy.
+Girl : Voice of a girl.
+Static and Other Effects
+Applause : Sound of applause.
+Clears throat : Sound of someone clearing their throat.
+Censored : Silenced part that is censored.
+Silence : Complete silence, no sound.
+Music Structure and Styles
+Structural Tags
+Chorus : The chorus part of the song.
+Intro : Introduction part of the song.
+Outro : Ending part of the song.
+Verse : The verse sections of the song.
+Styles and Genres Meta Tags
+Acoustic : Acoustic style.
+African : African music style.
+Alternative metal : Alternative metal genre.
+Alternative pop : Alternative pop music.
+Ambient : Ambient music.
+Atlanta rap : Rap style from Atlanta.
+Ballad : Style of narrative song.
+Baroque : Baroque music.
+Blues : Blues genre.
+Boom bap : A style of hip hop.
+Cello : Music featuring the cello.
+Chill : Chill music for relaxing.
+Christian & Gospel : Christian and gospel music.
+Christmas : Christmas-themed music.
+Country & Americana : Country and Americana music.
+Dance & Electronic : Dance and electronic music.
+Drums : Music focusing on drum sounds.
+EDM : Electronic dance music.
+Girl group : Music by girl groups.
+Gospel : Gospel music.
+Hardcore rap : Aggressive style of rap.
+Heavy metal : Heavy metal music.
+Hip hop : Hip hop music.
+Indie : Independent music style.
+Indie rock : Indie rock genre.
+J-pop : Japanese pop music.
+Jazz : Jazz music.
+K-pop : Korean pop music.
+Lo-fi : Low-fidelity music.
+Orchestra : Orchestral music.
+Party : Party music.
+Piano : Music featuring the piano.
+Pop : Pop music.
+Pop-Rock : Pop rock music.
+Post-Hardcore : Post-hardcore genre.
+Punk Rock : Punk rock music.
+R&B : Rhythm and blues music.
+R&B & Soul : Rhythm and blues and soul music.
+Rap : Rap music.
+Reggae : Reggae music.
+Rock : Rock music.
+Romantic : Romantic music style.
+Soul : Soul music.
+Synth : Music featuring synthesizers.
+Synth pop : Synthesizer-based pop music.
+Techno : Techno music.
+
+How to Make Suno AI Sing with Spoken Word
+Solution: To have an AI perform spoken word sections instead of singing at the beginning of a song, you can use specific annotations like [Spoken word], [Narration], [Spoken verse], or [Sprechgesang]. This should guide the AI to recognize the intended speech format.
+
+Examples:
+
+If you input:
+
+[Spoken word] Hey there! Welcome to our show tonight!
+
+The AI might begin the song with a spoken introduction rather than singing, helping to set a distinct tone before the music starts.
+
+Another effective method is using parentheses to indicate spoken content. For example:
+
+(This is the story of a night unlike any other.)
+
+This has been reported to occasionally trigger the AI to speak the text instead of singing it, as observed in some songs on Suno.com.
+
+Additional Tips:
+It might take several attempts for the AI to properly interpret these cues as spoken word. Persistence is key.
+Mixing different types of annotations (like using both [Narration] and parentheses) might improve your chances of success.
+
+How to Enhance Your Suno AI Songs with Advanced Formatting Tips
+Solution: For creators looking to elevate their Suno AI-generated songs, employing advanced formatting and annotations like asterisks, brackets, and capitalization can significantly alter the dynamics and style of music. These techniques can change vocal delivery, add effects, and sequence different parts of your song.
+
+Examples:
+
+Using Asterisks for Effects: You can add sound effects by enclosing them in asterisks. For example:
+
+*gunshots*
+
+This might make the AI incorporate the sound of gunshots into the song.
+
+Capitalization for Vocal Emphasis: Placing a line of lyrics in ALL CAPS with a punctuation like ”!” or ”?” can modify the voice tone, making it louder or distinct from the main vocals.
+
+Brackets for Song Structure: Utilizing brackets to define different song sections (e.g., [Intro], [Verse], [Chorus]) helps in managing the flow and sequencing. More creative uses include:
+
+[Flute solo intro]
+[Increase intensity]
+[Crescendo]
+[Starts out quietly]
+[Whispering vocals]
+[Screaming vocals]
+
+These directives inform the AI about the intended musical direction and intensity of each section.
+
+Workarounds for Language Restrictions: To bypass content filters on restricted words, substituting letters or words allows the use of similar sounds without triggering censorship, enhancing creative freedom. For instance:
+
+Replace “die” with “dye”
+Use “ill” instead of “kill”
+Creative Naming for Music Styles: Describing unique music styles like “Haunting g-funk horror doom trap r&b” can lead to innovative genre fusions, pushing the boundaries of traditional music classification.
+
+Effective URLs demonstrating these techniques:
+
+Sample Song with Effect
+Gunshots Effect
+Bird Sounds
+Additional Tips:
+Experimentation is key; not all annotations will work consistently, so testing different combinations can yield the best results.
+Keep trying different phrasings and annotations as the AI might take a few attempts to accurately interpret these cues.
+
+How to Reuse a Song Seed in Suno AI
+Solution: To reuse a song seed in Suno AI for generating new songs with similar instrumental and vocal characteristics but varied lyrics and melodies, start the new song generation from a specific timestamp of the original song. This approach can help maintain certain elements like voice and instrumental setup while allowing for new musical variations.
+
+Examples:
+
+Using a Fixed Timestamp: Start a song from a particular moment (e.g., 2 seconds into the track) to ensure the continuation retains the original voice and band setup. This method has shown varied success with the melody but can maintain the song’s general style and tempo.
+
+Example of this approach: Suno Song Link
+
+Adding Lyrics to Instrumentals: Convert an instrumental piece into a full song by starting the generation process after an introductory segment (e.g., 10-20 seconds), and adding lyrics. This can transform an instrumental into a complete song while preserving the original tune’s essence.
+
+Original and modified versions:
+
+Original Instrumental: Original Song
+With Lyrics Added: Song with Lyrics
+Creating Variants from a Single Seed: Generate multiple song variants from a single successful intro or theme to explore different musical directions or to develop a cohesive album. This method focuses on consistent sound while varying other song elements.
+
+Additional Tips:
+The effectiveness of reusing seeds may vary, so experimentation and multiple attempts might be necessary.
+Utilize precise timestamps for starting points to control how much of the original song’s characteristics are retained.
+Consider the potential for creating thematic albums or collections using a consistent voice or instrumental setup across multiple tracks.
+
+How to Structure Prompts for Suno AI
+Solution: To achieve consistent outcomes when prompting Suno AI for music generation, understanding and effectively structuring prompts is crucial. This ensures that the AI interprets your intentions accurately and the music aligns with your desired characteristics.
+
+Examples:
+
+Use Custom Mode and Detailed Descriptors: Instead of relying on the general input fields, switch to custom mode where you can specify each aspect of your music:
+
+Genre: Heavy Metal, Mood: Dark, Key: B minor
+
+This format helps prevent the AI from misinterpreting parts of your prompt as lyrics.
+
+Separating Elements with Commas: When you want to combine multiple attributes like genre, voice, and instrumental emphasis, separating them with commas can clarify your intentions:
+
+Gothic, Alternative Metal, Ethereal Voice
+
+This method helps the AI differentiate between various stylistic elements.
+
+Using Brackets for Specific Instructions: To ensure that specific instructions are followed, use brackets to define song sections or vocal styles:
+
+[Verse1] [Female Ethereal Voice]
+
+This helps in guiding the AI more precisely, especially when trying to emulate certain band styles or unique vocal characteristics.
+
+Additional Tips:
+Experiment with different structuring formats to see which provides the best results for your specific style.
+Incorporate mood, tempo, and “ear candy” elements to enhance the overall appeal of the music.
+Remember, the more specific your prompt, the more likely the AI will produce the desired outcome.
+Understanding how to effectively structure your prompts can significantly improve the consistency and quality of the music generated by Suno AI, turning your creative visions into reality.
+
+How to Use Meta Tags in Suno AI for Song Creation
+Solution: Utilizing meta tags effectively in Suno AI can significantly influence the structure and style of your AI-generated songs. Meta tags act as directives that help the AI understand the desired composition of the music, from the type of vocals to the placement of instrumental breaks.
+
+Examples:
+
+Structural Tags:
+
+To structure a song with clear parts, use tags like [Intro], [Verse], [Chorus], and [Outro]. For instance:
+[Intro] Slow guitar strumming
+[Verse] Whispered lyrics here
+[Chorus] Powerful vocal rise
+[Outro] Fading piano melody
+
+These tags guide the AI to maintain a coherent song structure, ensuring each part is distinct.
+Instrumental and Vocal Tags:
+
+Specific tags can dictate the type of instruments and vocals used. Tags like [Guitar solo] or [Female Vocal] instruct the AI on what elements to introduce at certain points in the song.
+Example usage:
+[Verse] Lost in the rhythm
+[Guitar solo] A mesmerizing guitar piece
+[Chorus] [Female Vocal] Echoing the main theme
+
+Dynamic Elements:
+
+Use tags like [Catchy Hook], [Emotional Bridge], and [Powerful Outro] to emphasize certain parts of the song that should stand out.
+For example:
+[Verse] The story begins here
+[Emotional Bridge] A heartfelt solo
+[Catchy Hook] This line repeats
+[Powerful Outro] Climactic finish
+
+Additional Tips:
+Experiment with combining different tags to see how they influence the AI’s output. The AI’s interpretation can vary, so multiple attempts might be needed to achieve the desired result.
+Pay attention to how specific elements like [Pre-Chorus] and [Bridge] can be used to build anticipation and add complexity to the song.
+Understanding and leveraging these meta tags effectively can greatly enhance your creative process when working with Suno AI, allowing for more precise control over the musical composition.
+
+Advanced Song Production Techniques for Suno AI
+Solution: To maximize the effectiveness of song production with Suno AI, utilize specific annotation techniques that guide the AI in generating songs with diverse vocal styles, instrumental breaks, and coherent transitions.
+
+Examples:
+
+Using the vowel-vowel-vowel technique for creating longer, melodious words in the chorus:
+
+goo-o-o-odbye
+
+This technique extends vocal sounds, adding a melodic quality ideal for choruses.
+
+Applying parentheses to add a second or third vocal layer automatically:
+
+E la cha-cha-cha (cha)
+
+This can introduce a background vocal or an instrumental sound, enhancing the song’s depth.
+
+Using brackets to direct the AI’s focus on song parts:
+
+[Verse 1] [Chorus] [Pre-chorus] [Drop]
+
+This method helps in structuring the song, ensuring each part transitions smoothly and fulfills its intended purpose.
+
+Additional Tips:
+
+Combine different types of annotations to trigger specific AI responses, such as [Angelic voice] or [Instrumental] for varied vocal effects and solo instruments.
+Experiment with the arrangement of parts within the song to maintain freshness and uniqueness in each section.
+Multiple attempts may be necessary to achieve the desired effect, as AI interpretation can vary.
+Generating Multi-Part Songs:
+Enhance uniqueness by varying the rhythm, vocal styles, and instruments throughout the song.
+Consider generating the song in parts and carefully reviewing each segment to ensure they fit together seamlessly.
+Editing and Finalizing:
+Use audio editing tools like Audacity to refine the final product, such as trimming excessive instrumental parts or correcting any mismatches in song sections.
+By adopting these techniques, you can effectively manipulate Suno AI to produce high-quality, creative musical pieces.
+
+Mastering Song Extensions with Suno AI
+Problem:
+
+One of the main challenges faced by musicians using Suno AI involves managing the quality of music as they extend or render songs multiple times. This often results in disjointed lyrics and a deterioration in vocal performance, affecting the overall quality of the music.
+
+Solution: Utilize strategic practices for song extensions in Suno to ensure high-quality music production.
+
+Examples:
+
+Create multiple iterations of song sections and select the most effective:
+
+Extend verse 1, chorus 1; Extend verse 2, chorus 2; Extend verse 3, bridge 1, chorus 3, end.
+
+Evaluating multiple versions helps identify and resolve issues early, enhancing the song’s overall quality.
+
+Use AI feedback to refine lyrics and composition before final adjustments:
+
+Discard less successful attempts and allow the AI time to refresh.
+
+Allowing the AI to refresh can lead to better outcomes when adjustments are made.
+
+Limit the number of extensions to prevent quality reduction:
+
+Limit to one start and two or three extensions to complete the song.
+
+This method helps maintain sound quality and prevents the degradation often seen with multiple extensions.
+
+Additional Tips:
+Save any generation that meets your standards using the “get whole song” option for consistency.
+Experiment with segment durations and adjust EQ settings to suit your style.
+Engage with the community for fresh tips and continuously refine your technique for using AI in music production.
+
+How to Get Specific Vocal Styles in Suno AI
+Problem:
+
+When using Suno AI for music creation, you might find it challenging to achieve the specific vocal style you desire, especially if you’re aiming for unique vocal characteristics like a deep or gritty male voice in genres such as electronic or techno. The AI often defaults to a generic style, which can make the tool feel more like a novelty rather than a professional tool capable of producing hit tracks.
+
+Solution: Employ detailed style prompts to specify the desired vocal characteristics.
+
+Examples:
+
+Use detailed descriptors in your prompts to guide the AI, such as:
+
+[masculine low gospel vocal]
+
+This can help the AI better understand and produce the specific vocal tone you’re looking for.
+
+Experiment with combining different descriptors to enhance specificity, for example:
+
+[feminine high airy vocal]
+
+Such combinations can yield more precise vocal outputs, fitting your desired style more closely.
+
+Adding geographic distinctions to your vocal style prompts can also influence the AI’s output significantly:
+
+[UK rock male vocal]
+
+This technique can help tailor the vocal style to match regional variations, offering a broader palette of vocal textures.
+
+Additional Tips:
+Repeated trials might be necessary as the AI learns to better interpret these detailed prompts.
+Mixing several descriptive terms (like using both genre and vocal characteristics) may improve success rates.
+Keep track of successful prompts for future reference to streamline your creative process.
+Using these strategies, you can push the boundaries of AI in music production, achieving more professional and satisfying results.
+
+How to Prevent Inappropriate Lyrics in Suno AI Songs
+Problem:
+
+When experimenting with converting classic hymns into rap music using Suno AI, users have reported unexpected and inappropriate insertions of the N-word. This issue seems to be particularly pronounced with Christian-themed songs. Such occurrences can disrupt the artistic intention and are offensive regardless of context.
+
+For example, while transforming a hymn into a rap, one might expect lyrics that respect the original’s dignity, but instead, the AI unexpectedly includes offensive language, altering the intended vibe of the song.
+
+Solution: Introduce content moderation features in Suno AI. This can involve setting explicit and implicit content filters that users can customize according to their preferences for clean or explicit lyrics.
+
+Examples:
+
+Implement a user-controlled filter setting where creators specify banned words:
+
+[Settings] -> [Content Preferences] -> [Banned Words]: Add "N-word"
+
+This would prevent the AI from including specific offensive terms in the lyrics.
+
+Utilize a toggle for explicit content:
+
+[Settings] -> [General] -> [Allow Explicit Content]: Off
+
+Turning off explicit content could help maintain the integrity of certain genres like hymns.
+
+Encourage the use of specific prompts that guide the AI away from potentially offensive content:
+
+[Lyric Generator] -> [Prompt]: "Generate family-friendly rap lyrics for a hymn"
+
+Clear instructions can steer the AI towards generating appropriate content.
+
+Additional Tips:
+Repeated trials might be necessary as the AI learns from continuous feedback and adjustments to settings.
+Combining multiple moderation techniques (like explicit content toggles and banned words lists) could enhance effectiveness.
+Maintaining the artistic quality of AI-generated music without compromising on respect and sensitivity to all audiences is crucial. By implementing robust content moderation features, creators can better align the output with their artistic visions and audience expectations.
+
+How to Specify Chord Progressions in Suno AI
+Problem:
+
+Musicians often want to create songs with specific chord progressions, like an instrumental trance song in A minor using a specific sequence (Am, F, G, Em). However, challenges arise when the AI misinterprets this input and creates lyrics about the chord names instead of following the intended musical pattern. This issue reflects the AI’s current limitations in distinguishing between lyrical content and musical instructions.
+
+Solution:
+
+To address this, use targeted strategies to better specify your musical requirements to the AI:
+
+Examples:
+
+Use the “custom mode” to separate lyrics and style inputs:
+
+Style: instrumental trance in A minor
+Lyrics: [Am] [F] [G] [Em]
+
+This helps the AI focus on the musical style without confusing it with the lyrics.
+
+Clearly label your musical elements in the prompt:
+
+Chord progression: [Am] [F] [G] [Em]
+
+Including the term “chord progression” might help the AI to recognize and apply these details more accurately.
+
+Experiment with mood descriptors linked to scales:
+
+Mood: sad (for minor scales)
+
+Sometimes, describing the mood can indirectly influence the AI to select the appropriate scale, such as using “sad” for minor keys.
+
+Additional Tips:
+While the AI might not always follow complex musical instructions perfectly, using clear, distinct commands can increase your chances of getting closer to your desired outcome.
+Be prepared for some trial and error. The AI’s understanding of musical nuances is still developing, and it may take several attempts to achieve the intended effect.
+Linking mood descriptors with musical scales can be an indirect but effective way to guide the AI in your desired musical direction.
+By implementing these strategies, you can enhance your ability to create specific musical compositions using Suno AI, even within the current technological limitations.
+
+How to Bypass Explicit Lyric Restrictions
+Problem:
+
+While using AI music generators like Suno, users often encounter restrictions on explicit lyrics, which limits creative expression. For example, trying to include certain swear words or provocative content often results in the lyrics being filtered out or modified by the system. This can be frustrating for artists seeking to maintain the authenticity of their lyrical content.
+
+Solution: To overcome these restrictions, you can employ several workarounds to trick the AI’s filtering system:
+
+Examples:
+
+Use phonetic spelling or homophones to bypass content filters. For instance:
+
+Replace "shit" with "sh*t" or "ship".
+
+This alteration can sometimes fool the filtering algorithm, allowing the inclusion of the intended word without direct recognition.
+
+Example: https://suno.com/song/2133e340-3944-4b4b-ac6b-acebcdcdfa4f
+
+Experiment with creative language substitutions that sound similar to the desired explicit words. For example:
+
+Instead of "fuck", use "fuhk" or "phuck".
+
+Such substitutions can maintain the sound of the original word while evading automatic censorship.
+
+If specific words are blocked, try modifying the context or using less direct language. For instance:
+
+Change "I hope you choke" to "Hope you choke".
+
+Sometimes, removing pronouns or slightly altering the sentence structure can help avoid filters.
+
+Additional Tips:
+Persistence is key. The effectiveness of these methods can vary, and it may take multiple attempts to find a successful workaround.
+Combine different methods, like phonetic spelling and creative substitutions, to increase your chances of success.
+Be mindful of the broader context of your lyrics, as AI systems often consider the overall theme or explicitness of the content.
+By exploring these strategies, you can enhance your creative freedom and produce AI-generated music that aligns more closely with your artistic vision.
+
+How to End a Song Naturally
+Problem:
+
+When using Suno AI to create music, some users encounter an issue where the song ends abruptly instead of fading out or concluding smoothly. For example, despite trying to guide the AI with specific extensions like specifying that the next extension be the final part of the song or to gradually fade until the song is over, the music often just cuts off unexpectedly. This results in a song that feels unfinished and disrupts the listening experience.
+
+Solution: To ensure a natural ending for your songs created with Suno AI, you can use certain annotations in your lyrics box such as [end], [fade out], or [outro]. These commands can help signal to the AI that the song should conclude in a smoother manner.
+
+Examples:
+
+For a clear cut ending:
+
+[end]
+
+This command can direct the AI to stop the music clearly and neatly.
+
+For a fading conclusion:
+
+[fade out]
+
+This has mixed results but is intended to gradually lower the volume until the song is completely faded out.
+
+To introduce a concluding instrumental:
+
+[outro] [Instrumental Fade out] [End]
+
+This combination can create a more elaborate ending sequence, blending the fading of instruments with the official end of the song.
+
+Additional Tips:
+Experiment with various combinations of these annotations to see which ones work best for your specific song.
+It might take a few attempts to get the desired effect, as AI interpretations can vary.
+If all else fails, consider manually editing the track using audio software like Audacity to add a fade-out effect. This can be a reliable way to ensure your song ends just the way you want it.
+
+How to Replace or Modify Lyrics
+Problem:
+
+Sometimes, when creating music with AI, we find ourselves wanting to change specific lyrics in a song to make them more suitable or to better match our artistic vision. For example, imagine you’ve created a track with the lyrics:
+
+[Verse] I need the stars to align tonight.
+
+But you want to change the word “need” to “greed” to alter the tone of the song.
+
+Solution: To replace lyrics in songs generated by Suno AI, consider using lyric infilling techniques, where you can specify parts of the lyrics to be changed while retaining the rest of the song’s structure.
+
+Examples:
+
+Using the “Extend” Feature: After generating your song, use the Extend feature to add new lyrics. Here’s how you might do it:
+
+Extend your song and paste new lyrics here.
+
+Remember, you may need to use external software to trim unwanted parts of the original song.
+
+Separation and Regeneration: Separate the song into individual stems, mute the vocal stem you wish to change, and then regenerate that portion. Tools like Moises and Splice can assist with this process.
+
+Utilizing External Software: If you need to completely remove or replace the singer, use software as shown in this tutorial: Creating an instrumental version of your song This allows you to then add new vocals without the original lyrics.
+
+Additional Tips:
+Keep experimenting with different seeds and settings to get closer to your desired outcome.
+Utilize AI music platforms like Udio that already have features like backward generation for more precise control over lyrical content.
+Patience is key, as generating the perfect lyric might take several attempts.
+By employing these methods, you can effectively alter the lyrics in your AI-generated songs, ensuring they fully convey your intended message and style.
+
+How to Optimize Prompts in Suno AI with Letter Case
+Problem:
+
+In Suno AI, the letter case (upper, lower, or title case) used in prompts can significantly impact the quality and style of the generated song. Different parts of the prompt react differently to letter case styles, affecting the output’s coherence and alignment with user expectations.
+
+Solution: To get the best results from Suno AI, use different letter cases for different parts of your prompt. Here’s a recommended approach:
+
+ALL CAPS for genres: This gives genres the highest priority.
+Title Case for descriptors: This gives descriptors a middle priority.
+lower case for instruments: This ensures instruments are included prominently in the song.
+Examples:
+All Title Case
+
+Funky Bassline, Operatic New Jack Swing, Rhythmic Power Metal, High Female Vocals, G-Funk
+
+Example: https://suno.com/song/caa98821-c4ff-49ce-b71a-833dfc9a879a
+
+GENRES IN ALL CAPS, Descriptors in Title Case
+
+FUNKY BASSLINE, Operatic NEW JACK SWING, Rhythmic POWER METAL, High Female Vocals, G-FUNK
+
+Example: https://suno.com/song/507bda5c-44d9-439b-995d-67823c5c2890
+
+ALL CAPS for Descriptors, Title Case for Genres
+
+HIGH ENERGY Big Band, SEXY Psychobilly, UNCOMMON TIME SIGNATURES
+
+Example: https://suno.com/song/7fc7a2bf-2736-42f5-9533-aca85d8244fa
+
+Title Case for Everything
+
+High Energy Big Band, Sexy Anthemic Psychobilly, Uncommon Time Signatures
+
+Example: https://suno.com/song/d0eb9cfe-9889-48f5-81e6-295d82625c36
+
+Additional Tips:
+Use ALL CAPS for the genres, Title Case for descriptors, and lower case for instruments to get the best quality.
+Combining all three letter case types in your prompt improves the overall quality.
+Experiment with different combinations to find the best fit for your specific needs.
+By following these letter case strategies, you can significantly enhance the quality and accuracy of the songs generated by Suno AI.
+
+ow to Prompt Suno AI to Use Animal Sounds and Noises
+Understanding the Problem
+Many users find it challenging to get Suno AI to generate animal sounds or other specific noises in their tracks. Despite various attempts with different prompts, the AI often fails to produce the desired effects.
+
+Solution Overview
+To successfully prompt Suno AI to use animal sounds and noises, you need to use specific techniques and prompt structures. Here are some effective strategies:
+
+Strategy 1: Use Bracketed Prompts
+Use bracketed prompts in all-caps to indicate the desired sounds. This helps the AI understand that you want these effects included.
+
+[GUNSHOTS FX, BIRDS CHIRPING FX, CRICKETS FX, THUNDERSTORM FX]
+
+Strategy 2: Limit the Number of Prompts
+Avoid overloading the prompt with too many effects at once. Instead, use a few prompts and repeat them if necessary.
+
+[GUNSHOTS FX], [BIRDS CHIRPING FX], [CRICKETS FX]
+
+Strategy 3: Experiment with Different Phrasing
+Try different wording and combinations to see which works best. Sometimes altering the phrasing slightly can make a big difference.
+
+[SCREAMING], [DINOSAUR ROAR], [CHAINSAW]
+
+Examples and Additional Tips
+Example 1: Combining Prompts
+Try using a combination of prompts in the “Style” section and the “Custom Editor” lyrics box. Use commas to separate them.
+
+STYLE: [TRIBAL VOCALS], [ANIMAL NOISES]
+CUSTOM EDITOR: [BIRD SONG], [JUNGLE SOUNDS]
+
+Example 2: Specific Sound Effects
+Experiment with very specific sound effects to see if Suno AI can generate them.
+
+[THUNDER CLAP], [WOLF HOWL], [OCEAN WAVES]
+
+Example 3: Uncommon Effects
+Test out less common effects to push the boundaries of what Suno AI can generate.
+
+[CHAINSAW], [LIAR BIRD IMITATING A CHAINSAW]
+
+Additional Tip: Dispute Incorrect Results
+If the AI produces something unexpected, keep trying with slight variations or dispute the claim if you believe it’s a mistake. This can sometimes lead to better results upon human review.
+
+You can listen to some examples here: Smoke sound in a stoner rap track
+
+By following these strategies and experimenting with different prompts, you can increase the likelihood of getting Suno AI to include the animal sounds and noises you want in your music.
+
+How to Solve Suno AI Sampling Detection Issues
+Understanding the Problem
+Many users have reported issues with their songs generated using Suno AI being flagged as sampling by platforms like Tunecore. This leads to songs being blocked and potential legal and financial problems.
+
+Solution Overview
+To avoid these issues, it’s crucial to understand the reasons behind these detections and take steps to prevent them. Here are some strategies:
+
+Strategy 1: Use Original Content
+Always use original lyrics and compositions. Avoid using any pre-existing material directly, as this can be detected as sampling.
+
+Original lyrics throughout. It’s what they are saying. "Your release has been temporarily blocked in our front end review process. It appears that you are using the mastered instrumentals for these tracks (i.e., from the original artists' versions). Any time you sample any part of a recording you did not record yourself, you MUST have a license from the owner of that original recording. You cannot distribute any content that you do not hold 100% distribution rights for."
+
+Strategy 2: Modify Prompts and Outputs
+Slightly alter the prompts and the AI-generated outputs to ensure they do not closely resemble existing songs.
+
+This song was detected as sampling:
+https://www.youtube.com/watch?v=Jku-v48xpBU&feature=youtu.be
+
+Strategy 3: Dispute Incorrect Claims
+If you believe the detection is incorrect, dispute the claim. Many times, these detections are automated and can be resolved by human review.
+
+I’ve never had a Suno track get flagged but I’ve made original music where a tiny section that sounded similar to some obscure song got flagged. Nothing a quick dispute didn’t fix. Should be the exact same situation for you. Let me know the outcome though, would hate to see them fight this as it could set a precedent.
+
+Additional Tips
+Tip 1: Be Persistent
+Sometimes it may take several attempts to get the AI to produce completely original content.
+
+Tip 2: Understand Licensing
+Ensure you have the proper licenses for any content you are using that is not originally yours.
+
+Tip 3: Stay Updated
+Keep an eye on updates from Suno AI regarding their licensing and content usage policies.
+
+By following these strategies, you can minimize the risk of your songs being flagged as sampling and ensure a smoother experience with platforms like Tunecore.
+
+Using Detailed Prompts in Suno v3.5 Lyrics
+The Breakthrough
+Using Suno AI v3.5, you can achieve better audio quality and more control over your music. This guide will show you how to optimize prompts for improved results.
+
+The Main Issue
+The “Style of Music” field in Suno AI has a limited character count, making it difficult to provide detailed prompts. This method uses the Lyrics field to include more information.
+
+Step-by-Step Solution
+Step 1: Entering the Style of Music
+In the “Style of Music” field, enter a high-level description and reference the Lyrics field for details.
+
+Lofi, Chilled, Ambient, Downtempo, Female Vocals
+SEE <SONG_DETAILS> IN THE LYRICS FIELD FOR DETAILED INFORMATION
+
+Step 2: Filling Out the Lyrics Field
+In the Lyrics field, include a detailed prompt as follows:
+
+<SONG_DETAILS>
+[GENRES: Chilled Lofi, Ambient, Downtempo]
+[SOUNDS LIKE: Tycho, Bonobo, Nujabes]
+[STYLE: Relaxing, Atmospheric, Lush, Clean]
+[MOOD: Calm, Serene, Reflective, Dreamy]
+[VOCALS: Female, Ethereal, Background]
+[ARRANGEMENT: Slow tempo, Laid-back groove, Ethereal textures, Clean guitar melodies]
+[INSTRUMENTATION: Clean electric guitar, Synthesizers, Ambient pads, Subtle percussion]
+[TEMPO: Slow, 70-90 BPM]
+[PRODUCTION: Lo-fi aesthetic, Warm tones, Soft compression, Analog warmth, Masterpiece, Perfectly Recorded, Produced by Emancipator]
+[STRUCTURE: Intro, Verse, Chorus, Verse, Chorus, Bridge, Outro]
+[DYNAMICS: Gentle throughout, Gradual builds and releases, Smooth transitions]
+[EMOTIONS: Peacefulness, Contemplation, Tranquillity, Nostalgia]
+</SONG_DETAILS>
+
+[Intro]
+
+[Verse 1]
+start your lyrics here...
+
+Tips and Tricks
+Tip 1: Consistent Intro
+By adding the STRUCTURE attribute, you can ensure Suno AI creates a proper intro when you use the [Intro] tag.
+
+Tip 2: Quality Prompts
+Using terms like “perfect production, studio recording, hi-fidelity” under the PRODUCTION attribute can improve the audio quality.
+
+Tip 3: Simple and Direct Prompts
+While detailed prompts can help, sometimes simpler and more direct prompts work better. Experiment with both approaches.
+
+Example of a Simple Prompt
+[slap bass funk fusion, experimental jazz fusion, hifi, clear production]
+[Percussion Intro]
+[instrumental, slap bass]
+[verse]
+*start lyrics*
+
+Conclusion
+This method allows for more detailed and controlled music generation with Suno AI v3.5. While it may not be perfect, it significantly enhances the output quality and provides more flexibility in creating the desired sound.
+
+Handling Suno Looping Lyrics
+The Update’s Impact
+With the recent update, Suno can now generate longer songs. While this sounds great, the problem is that the AI sometimes just loops lyrics to fill the time instead of creating a cohesive song.
+
+Identifying the Problem
+Problem: Looping Lyrics
+Many users have noticed that Suno tends to loop lyrics unnecessarily, creating longer but repetitive songs. This issue of looping lyrics can make the songs feel less original and more monotonous.
+
+Example:
+
+"I love when I cue it to fade out and it does so but then it changes its mind and gives me another 90 seconds of repeats of verses, chorus, bridges..."
+
+Manual Trimming as a Solution
+Solution: Manual Trimming
+One way to handle the issue of looping lyrics is to manually trim the songs. Download the generated song and use an audio editing tool to cut out the repetitive parts caused by the looping lyrics.
+
+Example:
+
+"...had to download and trim songs and trim them manually at spots that just 'make sense' to get a full sounding something."
+
+Using Parameters and Tags
+Solution: Using [End] and [Outro] Tags
+To control the length of the song and prevent looping lyrics, try using specific tags like [End] or [Outro]. This can signal the AI to stop generating beyond a certain point.
+
+Example:
+
+"[Outro] before the last block of lyrics, followed by [end] will usually get the job done."
+
+Link: https://www.youtube.com/watch?v=ahV7KPxMlko
+
+Customizing the Ending
+Solution: Defining an End Parameter
+It’s helpful to specify where you want the song to end to avoid looping lyrics. Including a time-based end parameter can guide the AI to finish the song at a desired length.
+
+Example:
+
+"Being able to tell Suno that you want the song to end at 2:45 for example..."
+
+Enhancing Suno’s Performance
+Solution: Alternative AI Models
+If Suno continues to have issues with looping lyrics, consider exploring other AI models like Udio. Users have reported better experiences with different models, especially after updates.
+
+Example:
+
+"Have you tried the new Udio 2 min 10s model? ... Udio has really blown me away after the last update."
+
+Link: https://youtu.be/iZUuqw8IvbI
+
+By implementing these strategies, you can minimize the issue of looping lyrics in Suno and create more cohesive and professional-sounding songs.
+
+Common Clichés in Lyrics
+Understanding the Issue
+Many users have noticed that AI-generated lyrics from Suno AI often include common clichés like “echoes,” “whispers,” “neon lights,” “grace,” “embrace,” “soar,” and especially “rise above.” This repetition can make the lyrics sound unoriginal and predictable.
+
+Why Does This Happen?
+Reason 1: Training Data
+AI models are trained on a vast amount of existing data, including songs with common themes and phrases. As a result, the AI tends to produce similar content.
+
+”Songs use these words a lot, AI was trained on songs, so you end up with these words in your AI songs.”
+
+Reason 2: Predictive Text Nature
+AI works by predicting the next word in a sequence based on the context provided. This often leads to the use of familiar and safe choices.
+
+”AI doesn’t use logic or reasoning. It’s not an intentional limitation or conspiracy, it’s how they work. LLMs in particular are basically predictive text, giving you one word after the other of the most likely to follow.”
+
+Examples of Common Clichés
+Neon lights
+Whispering woods
+Rise above
+Concrete jungles
+Story unfolds
+Echoes of…
+Strategies to Avoid Clichés
+Strategy 1: Use Specific Prompts
+Be specific in your prompts to guide the AI away from common clichés. Explicitly mention words or phrases you want to avoid.
+
+”You have to also prompt it to not use said clichés. I usually revise the song by replying ‘Same, but don’t use x’.”
+
+Strategy 2: Refine and Edit
+Generate a rough draft with the AI and then manually refine and edit the lyrics to make them more original.
+
+”First, write a rough draft… then put all that into GPT and ask it to polish it, not rewrite or start from scratch.”
+
+Strategy 3: Combine AI and Human Creativity
+Use AI for inspiration and rough drafts, but rely on human creativity for the final product. This ensures originality and avoids overused phrases.
+
+”AI is ok for directions for imagery or the odd rhyme but you have to DIY at this level of capability.”
+
+Strategy 4: Train the AI
+You can train AI like ChatGPT to remember instructions. For instance, instruct it to avoid specific clichés and use structured formats for song sections.
+
+”One of the nice things about ChatGPT is that it will remember instructions that you give it. For example, I’ve already trained it to remember to put brackets around song sections, ie [Verse], [Chorus], etc. My next step is to train it to avoid a list of overused clichés.”
+
+Additional Tips
+Tip 1: Use Tools for Refinement
+Use rhyme and thesaurus tools to refine your lyrics and avoid repetitive phrases.
+
+Tip 2: Experiment with Different AI Models
+Try different AI models or combine multiple models to generate more diverse and original content.
+
+”Freshbots.org seems to minimize the neon lights and other stuff. Restricted by genre though.”
+
+Tip 3: Stay Updated on AI Improvements
+Keep an eye on updates from Suno AI and other platforms as they improve their models to reduce reliance on clichés.
+
+By following these strategies, you can create more original and engaging lyrics using Suno AI while avoiding common clichés that make your songs sound repetitive.
+
+Suno Subgenre Performance
+Introduction
+Suno AI is a tool that generates music based on prompts. Users have noticed that it excels in some subgenres while struggling with others. Let’s break down these observations and offer solutions.
+
+Suno’s Struggles
+1. Early Post-Punk and Jangly Guitar
+Suno seems to have difficulty replicating the early post-punk sound, especially with jangly guitar elements like in “This Charming Man” by The Smiths.
+
+2. Boyband Music
+Creating early 2000s boyband music poses a challenge. Users reported the AI’s inability to generate accurate intro noises like the private jet arrival.
+
+Still didn't manage to get the private jet arrival noise as an intro for a boyband song
+
+3. Dubstep and EDM
+While Suno can handle basic DnB and Latin pop, it struggles with more complex EDM genres, especially those requiring heavy sound design.
+
+It struggles with DnB in general. As a workaround, specify "Drum and bass, drum and bass, drum and bass" in the style.
+
+https://suno.com/song/d9cba71c-ab71-4904-aeed-c9eaeaae9bbc
+
+4. Mandarin Music
+Suno often struggles with Mandarin songs, likely due to insufficient training data. Korean and Japanese songs seem to fare better.
+
+Mandarin songs are of pretty poor quality right now.
+
+5. Metal Subgenres
+Suno has issues with extreme metal genres like doom and black metal. The AI-generated riffs often miss the mark.
+
+Struggles a lot with extreme metal like doom and black metal. The riffs it makes are so wack.
+
+https://suno.com/song/f4dc326e-4d95-475b-ac7a-9f02c64fbebc
+
+Suno’s Strengths
+1. Trap Music
+Users consistently find Suno excels in creating trap music, often producing high-quality bangers.
+
+2. Lofi Music
+Suno shines in generating various lofi subgenres like soul, RnB, and chill hop.
+
+3. Jazz and Blues
+1920s-1950s jazz and blues, particularly with female vocals, are areas where Suno performs well, though sometimes the vocals sound robotic.
+
+I've had great success with 1920's jazz and 1950's style blues with female vocals.
+
+4. Country and Indie
+Suno is effective in generating country and indie music, providing a believable and authentic sound.
+
+Solutions and Tips
+1. Modify Prompts
+To get better results, especially for difficult genres, modify your prompts. Repeat the genre name multiple times to emphasize it.
+
+Specify "Drum and bass, drum and bass, drum and bass" in the style to improve DnB results.
+
+2. Use Original Content
+Ensure the lyrics and music you input are original to avoid issues with sampling and copyright.
+
+3. Dispute Incorrect Claims
+If you encounter incorrect sampling detections, dispute them. Automated detections can often be overturned with a human review.
+
+I've made original music where a tiny section that sounded similar to some obscure song got flagged. Nothing a quick dispute didn’t fix.
+
+Conclusion
+Suno AI has its strengths and weaknesses across different music genres. By understanding these, you can better tailor your prompts to achieve the desired results. Keep experimenting and adapting to make the most of this powerful tool.
+
+Tips for Making Trap Songs
+Introduction
+Creating Trap songs with Suno AI can be even more fun and creative with some handy tricks. This post discusses how to make the AI incorporate certain words throughout the song by placing them at the top of the lyrics page.
+
+The Trick: Incorporate Words Creatively
+If you place words at the top of your lyrics page without any notation before you start any descriptive tags like [Intro], Suno AI will often use those words repeatedly in amazing ways.
+
+Example 1:
+
+Jack Spratts Trap
+
+Example 1 Link
+
+Example 2:
+
+Red in the Hood
+
+Example 2 Link
+
+How it Works
+Using Keywords
+When you put keywords at the beginning of your lyrics page, Suno AI recognizes these and incorporates them throughout the song. This technique can add a unique and cohesive touch to your tracks.
+
+Try It Yourself
+Experiment with different words and see how Suno AI weaves them into your music. Share your results to see what creative combinations you and the AI can come up with.
+
+Examples and Results
+Creative Integration
+Users have reported impressive results using this trick. The AI’s ability to incorporate these words into the background or as hooks can add depth and creativity to your tracks.
+
+User Example:
+
+Trap/Phonk: Incurable by @lyricist | Suno
+
+Example Link
+
+Feedback and Community
+Many users have found this technique useful and enjoyable. Sharing experiences and tips within the community helps everyone improve their AI-generated music.
+
+Community Comment:
+
+Miss Muffet's Revenge almost took me out lmaoo
+
+Expanding Creativity
+Beyond Trap
+This technique isn’t limited to Trap songs. It works well in other genres too, like trance or techno, by placing words in parentheses or other creative ways.
+
+Improvisation and Hallucinations
+Some users appreciate the AI’s ‘hallucinations’ or unexpected improvisations, which can enhance the overall creative flow of the music.
+
+Example Comment:
+
+I like it more when it improvises and makes it all sound even better.
+
+Conclusion
+Using simple tricks with Suno AI, like placing keywords at the top of your lyrics page, can significantly enhance your Trap songs. Experiment, share your creations, and enjoy the creative process!
+
+Guide Suno with Prompts for Better Music
+Introduction
+Many users have discovered effective ways to get Suno AI to produce music in specific styles by using well-structured prompts. This involves setting the style of instrumentals, vocals, and even musical notation.
+
+Formatting Prompts
+Using Styles and Clean Vocals
+You can prompt Suno to create different sections of a song by specifying the style of instrumentals and vocals. For example:
+
+(Chorus) [Heavy riffs, driving beat, powerful clean vocals with a soaring melody]:
+
+Musical Notation
+Another cool trick is to guide Suno to sing to specific notes per syllable. This helps in creating a more structured musical output.
+
+(Verse 1) [Soft synths, steady beat, clean, gentle vocals]
+(G)Beat (G)of (G)the (G)heart, a (G)stea- (G)dy (G)drum
+(G)Life (G)throws its (G)punch- (G)es, but (G)we (G)o- (G)ver- (G)come
+
+Examples
+Here is an example of a song generated using this method: Suno Example
+
+Issues and Solutions
+Bracket Confusion
+Issue
+Sometimes, using parentheses may cause Suno to interpret the text as background singing.
+
+Solution
+To avoid this, you can use square brackets and ensure the format is correct.
+
+Example:
+
+(Chorus) [heavy riffs, guttural aggressive vocals with a soaring melody, clean vocals]:
+
+Suno’s Prompt Syntax
+Issue
+Suno’s prompt syntax can be unpredictable due to the random seed applied at the end.
+
+Solution
+Be consistent with the format and tweak the prompts to achieve desired results.
+
+Tips for Better Results
+Context Recognition
+Suno often recognizes certain words like “Chorus,” “Verse,” etc., as section names. Even if you format these names differently, Suno might still understand them.
+
+Testing and Patience
+Be patient and test various formats to see what works best. Sometimes, even slight changes in prompt format can yield better results.
+
+Use of AI Tools
+Consider using other AI tools to generate prompts that can guide Suno more effectively. For instance, using Google’s Gemini to create a prompt for a specific music style.
+
+Vocal Instructions
+Explicitly instructing the type of vocals can significantly improve the output.
+
+Example:
+
+Try adding clean vocals to the lyrics box prompt to get a more organic and natural vocal.
+
+Additional Examples
+Here is another song created with similar techniques: Suno Song Example
+
+Conclusion
+By using these structured prompts and understanding Suno’s syntax, you can create more controlled and high-quality musical outputs. Experiment, be patient, and enjoy making music with Suno AI!
+
