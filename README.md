@@ -4929,3 +4929,96 @@ El universo canta... a través de nosotros...
 Namaste... [Final_Whisper]:(Namaste... Namaste...)
 
 [Final_Instrumental]:[963Hz Solfeggio]:[All_Instruments]:[Fade_to_Silence]:[30s]
+
+
+[SFM:(10Hz];[SFX]:[(STADIUM REVERB)+(long decay)+(close mic)+(spatial bow reverb)]:[Phaser:(2 Hz)]
+[FR=(violin G3 thru E7)+(viola C3 thru A6)]
+[NFR=(viola drone C2 thru G3)]
+[Time signature: 4/4]
+[KEY: (Em7/9)]:[(FR)]:[Strings scordatura: Violin (G-D-A-E) | Viola (C-G-D-A)]
+[190bpm]
+[X=(4)] ; [Y=(2)] ;[Z=(4)];[AA=(5)];[BB=(3)];[CC=(7)]
+[CHORDS_1:(|C...|Csus4...|a...|Fsus4.F.||)]:[FR]
+[N_5:(|3-51⁴.51⁴3.1⁷3-5 51353|125 2.2.1.5 512|6⁴13⁸13⁹6¹.-336.113 663|1²3²6⁵.6131.36.131 613|146–-|)]
+[N_1:(|4/3#-4/1—7/5..< 2|1³⁵ ⁷⁵²4⁶¹ ³⁷2b 6⁹⁷⁵b³b¹|)]:[Key:(X)]
+[N_2:(|4/1#-4/1—752|1³⁵ ⁷⁵²4⁶¹ ³⁷2b 6⁹⁷⁵b³b¹|)]:[Key:(Y)]
+[N_3:(|4/5#-4/1—752|1³⁵ ⁷⁵²4⁶¹ ³⁷2b 6⁹⁷b³b¹|)]:[Key:(Z)]
+[CHORDS_2:|F⁶/⁹ |C⁵ |Csus4 |Cm|]C.. |.Csus4 .|C.. |.Csus4 .|Am. |..F | |.F°-|.C.C|Am—Dm9 | |F⁶/⁹ |C⁵ |Csus4 |Cm|]:[(FR)]
+[VIOLA_1:[CHORDS_2]:[bowing:legato expressivo]:[Interval:(X)]:[(N_1)]:[(FR)]:[168.9bpm)]
+[VIOLIN_1:[CHORDS_1]:[bowing:spiccato+ricochet]:[Interval:(Y)]:[(N_2)]:[((NFR)+3)]:[188bpm)]
+[VIOLA_2:[CHORDS_2]:[bowing:sul ponticello tremolo]:[Interval:(Z)]:[(N_3)]:[((NFR)+2)]:[101.4bpm)]
+[VIOLIN_2:[CHORDS_2]:[pizzicato harmonics]:[Interval:(BB)]:[(N_1)]:[((NFR)+2)] 
+[VIOLA_3:[CHORDS_2]:[bowed tremolo+glissando]:[Interval:(CC)]:[(N_2)]:[((NFR)+7)]:[(193bpm)]
+[VIOLIN_3:[CHORDS_2]:[arco col legno battuto]:[Interval:(AA)]:[(N_3)]:[(FR)]:[(176bpm)]
+[Vocal:[(Angelic female)]:[N_1]:[(AA)];[(Y)]:[FR]
+[Vocal_2:(ACAPELLA 6 part counterpoint harmony layers 3rd,4th,5th,7th 9th)]:[N_1]:[(AA)];[(Y)]:[FR]
+[Verse:vocal]
+OH! ..Yeah!.... AAAAAH!! HAHAHAHA!!—
+LOVE YOURSELF! .... 
+[Vocal_2]:(LOVE YOURSELF! .... )
+FREE YOUR MIND! ....
+[Vocal_2]:(FREE YOUR MIND! ....)
+RISE YOUR SOUL! ....
+[Vocal_2]:(RISE YOUR SOUL! ....)
+CURE YOUR BODY! .....
+[Vocal_2]:(CURE YOUR BODY! .....)
+LET GOD TO LEED YOU! ...
+[Vocal_2]:(LET GOD TO LEED YOU! ...)
+"BE HAPPY! "
+(BE HAPPY!)...........—
+THE LIFE IS AN ETERNAL JOURNEY!....
+ENJOY!—
+
+
+
+13:36
+Este prompt para una canción en Suno AI es bastante complejo y detallado, utilizando una variedad de tags y modificadores para especificar diferentes aspectos de la composición musical. Aquí hay un desglose de lo que hace cada parte del prompt:
+
+Efectos y Configuraciones Iniciales
+[SFM:(10Hz]: Especifica un efecto de modulación de frecuencia sonora (SFM) a 10 Hz.
+[SFX]:[(STADIUM REVERB)+(long decay)+(close mic)+(spatial bow reverb)]: Define efectos de sonido que incluyen reverberación de estadio, decaimiento largo, micrófono cercano y reverberación espacial del arco.
+[Phaser:(2 Hz)]: Añade un efecto de phaser a 2 Hz.
+[FR=(violin G3 thru E7)+(viola C3 thru A6)]: Define el rango de frecuencias para el violín y la viola.
+[NFR=(viola drone C2 thru G3)]: Define un rango de frecuencias no resonantes para la viola.
+[Time signature: 4/4]: Establece la firma de tiempo en 4/4.
+[KEY: (Em7/9)]: Define la clave musical como Em7/9.
+[Strings scordatura: Violin (G-D-A-E) | Viola (C-G-D-A)]: Especifica la scordatura (afinación alternativa) para el violín y la viola.
+[190bpm]: Establece el tempo en 190 pulsaciones por minuto.
+Variables y Progresiones de Acordes
+[X=(4)] ; [Y=(2)] ; [Z=(4)]; [AA=(5)]; [BB=(3)]; [CC=(7)]: Define variables numéricas que se utilizarán más adelante en el prompt.
+[CHORDS_1:(|C...|Csus4...|a...|Fsus4.F.||)]: Define una progresión de acordes para la primera sección.
+[N_5:(|3-51⁴.51⁴3.1⁷3-5 51353|125 2.2.1.5 512|6⁴13⁸13⁹6¹.-336.113 663|1²3²6⁵.6131.36.131 613|146–-|)]: Define una secuencia numérica específica para ser utilizada en la composición.
+[N_1:(|4/3#-4/1—7/5..< 2|1³⁵ ⁷⁵²4⁶¹ ³⁷2b 6⁹⁷⁵b³b¹|)]: Define otra secuencia numérica para la composición.
+[N_2:(|4/1#-4/1—752|1³⁵ ⁷⁵²4⁶¹ ³⁷2b 6⁹⁷⁵b³b¹|)]: Define otra secuencia numérica para la composición.
+[N_3:(|4/5#-4/1—752|1³⁵ ⁷⁵²4⁶¹ ³⁷2b 6⁹⁷b³b¹|)]: Define otra secuencia numérica para la composición.
+[CHORDS_2:|F⁶/⁹ |C⁵ |Csus4 |Cm|]C.. |.Csus4 .|C.. |.Csus4 .|Am. |..F | |.F°-|.C.C|Am—Dm9 | |F⁶/⁹ |C⁵ |Csus4 |Cm|]: Define otra progresión de acordes para la segunda sección.
+Configuraciones de Instrumentos
+[VIOLA_1:[CHORDS_2]:[bowing:legato expressivo]:[Interval:(X)]:[(N_1)]:[(FR)]:[168.9bpm)]: Configura la viola 1 con una progresión de acordes, técnica de arco legato expressivo, intervalo X, secuencia N_1, rango de frecuencias FR y tempo de 168.9 bpm.
+[VIOLIN_1:[CHORDS_1]:[bowing:spiccato+ricochet]:[Interval:(Y)]:[(N_2)]:[((NFR)+3)]:[188bpm)]: Configura el violín 1 con una progresión de acordes, técnica de arco spiccato y ricochet, intervalo Y, secuencia N_2, rango de frecuencias NFR+3 y tempo de 188 bpm.
+[VIOLA_2:[CHORDS_2]:[bowing:sul ponticello tremolo]:[Interval:(Z)]:[(N_3)]:[((NFR)+2)]:[101.4bpm)]: Configura la viola 2 con una progresión de acordes, técnica de arco sul ponticello tremolo, intervalo Z, secuencia N_3, rango de frecuencias NFR+2 y tempo de 101.4 bpm.
+[VIOLIN_2:[CHORDS_2]:[pizzicato harmonics]:[Interval:(BB)]:[(N_1)]:[((NFR)+2)]: Configura el violín 2 con una progresión de acordes, técnica de pizzicato harmonics, intervalo BB, secuencia N_1 y rango de frecuencias NFR+2.
+[VIOLA_3:[CHORDS_2]:[bowed tremolo+glissando]:[Interval:(CC)]:[(N_2)]:[((NFR)+7)]:[(193bpm)]: Configura la viola 3 con una progresión de acordes, técnica de arco bowed tremolo y glissando, intervalo CC, secuencia N_2, rango de frecuencias NFR+7 y tempo de 193 bpm.
+[VIOLIN_3:[CHORDS_2]:[arco col legno battuto]:[Interval:(AA)]:[(N_3)]:[(FR)]:[(176bpm)]: Configura el violín 3 con una progresión de acordes, técnica de arco col legno battuto, intervalo AA, secuencia N_3, rango de frecuencias FR y tempo de 176 bpm.
+Vocales
+[Vocal:[(Angelic female)]:[N_1]:[(AA)];[(Y)]:[FR]]: Configura una voz femenina angelical con secuencia N_1, intervalos AA y Y, y rango de frecuencias FR.
+[Vocal_2:(ACAPELLA 6 part counterpoint harmony layers 3rd,4th,5th,7th 9th)]:[N_1]:[(AA)];[(Y)]:[FR]]: Configura una segunda voz acapella con armonías de contrapunto de 6 partes en capas de 3ra, 4ta, 5ta, 7ma y 9na, secuencia N_1, intervalos AA y Y, y rango de frecuencias FR.
+Versos
+[Verse:vocal]: Define el verso con la voz principal.
+Copiar
+OH! ..Yeah!.... AAAAAH!! HAHAHAHA!!—
+LOVE YOURSELF! ....
+[Vocal_2]:(LOVE YOURSELF! .... )
+FREE YOUR MIND! ....
+[Vocal_2]:(FREE YOUR MIND! ....)
+RISE YOUR SOUL! ....
+[Vocal_2]:(RISE YOUR SOUL! ....)
+CURE YOUR BODY! .....
+[Vocal_2]:(CURE YOUR BODY! .....)
+LET GOD TO LEED YOU! ...
+[Vocal_2]:(LET GOD TO LEED YOU! ...)
+"BE HAPPY! "
+(BE HAPPY!)...........—
+THE LIFE IS AN ETERNAL JOURNEY!....
+ENJOY!—
+Resumen
+Este prompt configura una canción compleja con múltiples capas de instrumentos y voces, utilizando una variedad de técnicas de arco y efectos de sonido. Cada sección está meticulosamente detallada para crear una composición rica y texturizada.
