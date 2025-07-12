@@ -206,3 +206,92 @@ Thru- all- of your- terrible lies
 
 Prompt: Audiophile Guitars, complex drum fills double Drum microphoned Neumann U 87 microphone thru tube amplifier include the Neumann U 47, AKG C12, and RCA 44BX, dolby atmos audiophile 3d, microphone symbols;crash;ride;high-hat sustain ring from hard stix tips;tight snare rings; audiophile symbols sizes 22";20";18";10 sustain;crash;splash; rides symbols bell areas hard tips;largecow bell variety
 
+
+Advanced:
+Title: Resonancia Sagrada
+# Prompt Completo para Suno AI - Orquesta con Piano y Coro
+
+## Style of Music:
+```
+Viola, Violin, Cello, Piano, Chorus, Solfeggio frequencies, folk, world music, divine, angelic female voices, dolby atmos audiophile, orchestral chamber music, spiritual
+```
+
+## Lyrics (Notación Técnica Completa):
+```
+[SFM:(10Hz];[SFX]:[(CATHEDRAL REVERB)+(long decay)+(close mic)+(spatial chamber reverb)+(piano hall ambience)]:[Phaser:(1.2 Hz)] [FR=(violin G3 thru E7)+(viola C3 thru A6)+(cello C2 thru A5)+(piano A0 thru C8)] [NFR=(cello drone C1 thru G2)+(piano bass C1 thru F2)] [Time signature: 4/4] [KEY: (Am7/9)]:[(FR)]:[Strings scordatura: Violin (G-D-A-E) | Viola (C-G-D-A) | Cello (C-G-D-A)] [165bpm] [X=(5)] ; [Y=(3)] ;[Z=(4)];[AA=(6)];[BB=(2)];[CC=(7)];[DD=(8)] 
+
+[CHORDS_1:(|Am...|Asus4...|F...|Gsus4.G.||)]:[FR] 
+[CHORDS_2:|F⁶/⁹ |Am⁵ |Asus4 |Am|]Am.. |.Asus4 .|Am.. |.Asus4 .|F. |..G | |.G°-|.Am.Am|F—Dm9 | |F⁶/⁹ |Am⁵ |Asus4 |Am|]:[(FR)] 
+[CHORDS_3:(|C...|G/B...|Am...|F.G.||)]:[FR]
+
+[VIOLA_1:[CHORDS_2]:[bowing:legato expressivo]:[Interval:(X)]:[(N_1)]:[(FR)]:[160bpm)] 
+[VIOLIN_1:[CHORDS_1]:[bowing:spiccato+ricochet]:[Interval:(Y)]:[(N_2)]:[((NFR)+3)]:[168bpm)] 
+[VIOLIN_2:[CHORDS_3]:[bowing:tremolo dolce]:[Interval:(CC)]:[(N_3)]:[((NFR)+4)]:[172bpm)] 
+[CELLO_1:[CHORDS_2]:[bowing:sul ponticello tremolo]:[Interval:(Z)]:[(N_3)]:[((NFR)+1)]:[155bpm)] 
+[CELLO_2:[CHORDS_2]:[pizzicato+arco alternating]:[Interval:(BB)]:[(N_1)]:[((NFR)+0)]:[150bpm)] 
+[PIANO_1:[CHORDS_1]:[technique:arpeggios+sustained chords]:[Interval:(AA)]:[(N_2)]:[((NFR)+2)]:[165bpm)] 
+[PIANO_2:[CHORDS_3]:[technique:gentle melody+bass support]:[Interval:(DD)]:[(N_1)]:[((NFR)+1)]:[163bpm)] 
+
+[Vocal_Lead:[(Angelic female soprano)]:[N_1]:[(AA)];[(Y)]:[FR] 
+[Chorus_Female:(SATB 8 part harmony layers 3rd,5th,7th,9th,11th)]:[N_1]:[(AA)];[(Y)]:[FR] 
+[Chorus_Male:(Bass and Tenor support)]:[N_2]:[(BB)];[(Z)]:[NFR]
+
+[Intro:instrumental]:[Piano_Solo]:[396Hz Solfeggio]:[30s]
+[Strings_Enter]:[Gentle_Crescendo]:[All_Strings]:[10s]
+
+[Verse_1:vocal] 
+En la quietud del alma... respiro luz...
+[Chorus_Female]:(respiro luz... respiro luz...)
+Las cuerdas del universo... cantan en mí...
+[Chorus_Female]:(cantan en mí... siempre en mí...)
+Cada nota es sagrada... cada sonido es amor...
+[Chorus_Female]:(es amor... puro amor...)
+
+[Chorus_1:vocal]
+Sana mi corazón... [Chorus_Female]:(sana, sana...)
+Con frecuencias divinas... [Chorus_Female]:(divinas, sagradas...)
+Eleva mi espíritu... [Chorus_Female]:(eleva, eleva...)
+Hacia la luz infinita... [Chorus_Female]:(infinita luz...)
+
+[Piano_Interlude]:[528Hz Solfeggio]:[solo piano with strings pad]:[20s]
+
+[Verse_2:vocal]
+En el silencio encuentro... mi verdadero ser...
+[Chorus_Female]:(mi ser... mi ser...)
+Las vibraciones cósmicas... me abrazan con su paz...
+[Chorus_Female]:(con paz... eterna paz...)
+Soy uno con la música... soy uno con el Todo...
+[Chorus_Female]:(con el Todo... sagrado Todo...)
+
+[Chorus_2:vocal]
+Libera mi mente... [Chorus_Female]:(libera, libera...)
+De patrones limitantes... [Chorus_Female]:(limitantes, antiguos...)
+Abre mi corazón... [Chorus_Female]:(abre, abre...)
+Al amor incondicional... [Chorus_Female]:(incondicional...)
+
+[Bridge:vocal]
+[Cello_Solo_Section]:[741Hz Solfeggio]:[bowing:intense vibrato]:[Interval:(CC)]:[80bpm]
+Oh... ah... mm... [Wordless_Vocals]:[All_Chorus]
+La sanación fluye... a través de cada célula...
+[Chorus_Male]:(fluye... fluye... fluye...)
+Cada respiración... es una oración...
+[Full_Chorus]:(oración... sagrada oración...)
+
+[Final_Chorus:vocal]
+Soy luz... [Chorus_Female]:(eres luz...)
+Soy amor... [Chorus_Female]:(eres amor...)
+Soy música... [Chorus_Female]:(eres música...)
+Soy vibración... [Full_Chorus]:(eres vibración pura...)
+En armonía perfecta... [Full_Chorus]:(perfecta armonía...)
+Con el cosmos entero... [Full_Chorus]:(cosmos sagrado...)
+
+[Outro:vocal]
+[Piano_and_Strings_Fade]:[All_Instruments]:[diminuendo]:[40s]
+En resonancia sagrada... somos uno...
+[Whispered_Chorus]:(somos uno... somos uno... somos...)
+El universo canta... a través de nosotros...
+[Fading_Voices]:(cantamos... cantamos... cantamos...)
+Namaste... [Final_Whisper]:(Namaste... Namaste...)
+
+[Final_Instrumental]:[963Hz Solfeggio]:[All_Instruments]:[Fade_to_Silence]:[30s]
+
