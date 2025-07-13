@@ -521,6 +521,78 @@ Sonidos de la naturaleza para conexión terrestre
 Espacios de silencio para contemplación
 Duración Total: 8-10 minutos para sesión meditativa completa
 
+[Title: Power Surge]
+[Style: Hard Rock, Arena Rock]
+[SFX:(STADIUM REVERB)+(RAW AMP OVERDRIVE)+(ANALOG TAPE SATURATION)]
+[Time signature: 4/4]
+[KEY: B minor]
+[133bpm]
+[LEAD_RIFF: (Fast, relentless 16th-note legato riff on a single high string, pedal point on B, played on a Gibson SG-style guitar with high-gain Marshall amp tone, creating a tense and building energy)]
+
+[POWER_CHORDS: (Powerful, open-position power chords with a crunchy Gretsch-style guitar tone, heavy blues-rock rhythm, leaving space for vocals and drums to hit hard)]
+
+[BASSLINE: (Solid 8th-note bassline, playing root notes of the chords, clean tone, locked in perfectly with the kick drum)]
+
+[DRUMS_VERSE: (Simple, powerful 4/4 rock beat, heavy kick on 1 and 3, loud snare on 2 and 4. Minimal cymbals, focused on the groove)]
+
+[CHORDS_1: | B5 . . . | B5 . . . | A5 . G5 . | E5 . . . |]
+
+[VOCAL_LEAD: (High-pitched, raspy, powerful male rock voice, shouting with grit and attitude)]
+
+[GANG_VOCALS: (Group of male voices shouting in powerful, percussive unison)]
+
+[Intro]
+[LEAD_RIFF] (continues for 8 bars, building anticipation)
+(pause)
+[GANG_VOCALS]
+PO-WER!
+(drum hit)
+SURGE!
+(drum hit)
+PO-WER!
+(drum hit)
+SURGE!
+
+[Verse 1]
+[DRUMS_VERSE]
+[BASSLINE]
+[POWER_CHORDS] played on [Rhythm Guitar]
+[VOCAL_LEAD]
+Woke up this morning, heard a humming sound
+Felt the static rising up from the ground
+A storm is coming, feel it in the air
+The charge is building, better run for cover, yeah!
+
+[Pre-Chorus]
+[LEAD_RIFF] returns underneath the main riff
+[VOCAL_LEAD]
+The voltage is rising!
+The engines align!
+There's no compromisin'!
+It's feeding time!
+
+[Chorus]
+[FULL_BAND] playing with maximum energy
+[GANG_VOCALS] shouting the keywords
+[VOCAL_LEAD]
+Here comes the POWER SURGE! (POWER SURGE!)
+Electric on the verge! (ON THE VERGE!)
+You feel the ground begin to shake!
+For goodness sake!
+It's the POWER SURGE!
+
+[Guitar Solo]
+[LEAD_RIFF] transitions into a wild, blues-based guitar solo with string bends and vibrato, over the [POWER_CHORDS] progression.
+
+[Outro]
+[GANG_VOCALS]
+PO-WER!
+(guitar stab)
+SURGE!
+(guitar stab)
+(fade out with feedback)
+
+Prompt: Hard rock arena anthem in B minor, 133bpm, 4/4 time. Raw amp overdrive with analog tape saturation, stadium reverb. Gibson SG-style lead guitar playing fast 16th-note legato riff on single high string, pedal point on B, high-gain Marshall tone creating tense building energy. Gretsch-style rhythm guitar delivering powerful open-position power chords with crunchy blues-rock tone. Solid 8th-note bassline locked with kick drum, clean tone hitting chord roots. Simple powerful rock beat: heavy kick on 1 and 3, loud snare on 2 and 4, minimal cymbals focused on groove. High-pitched raspy male rock vocals with grit and attitude. Group male gang vocals shouting percussive unison responses. Structure: lead riff intro building anticipation, gang vocal chants with drum hits, verse with full rhythm section, pre-chorus with rising voltage theme, explosive chorus with maximum energy and call-response vocals, wild blues-based guitar solo with string bends and vibrato, outro with guitar stabs.
 
 
 
