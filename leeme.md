@@ -489,7 +489,8 @@ forever we endure...
 
 ## 🎨 Estilos Musicales
 
-**Límite:** 120 caracteres total, separado por comas.
+**Límite:** 200 caracteres total, separado por comas para Suno Free.
+Para Suno Pro 1000 caracteres.
 
 **Ejemplo exitoso:**
 ```
