@@ -1,6 +1,15 @@
 ```markdown
 # Suno AI Song Syntax
 
+Suno Pro: 
+Prompt  ajustado a 1000 caracteres (en inglés)
+Letras de Canción: Máximo 5.000 caracteres
+
+Suno Free:
+Prompt: Ajustado a 200 caracteres (en inglés)
+Letras de Canción: Máximo 3.000 caracteres
+
+
 Example:
 
 [Intro – Muted Choir Loop + Static Crackle]
