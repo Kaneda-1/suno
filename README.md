@@ -68,7 +68,7 @@ Example:
 [Baby voice]  (“i had a dream but it bit me back”)
 (—click. click. click—) [footsteps in an empty hall]
 
-[Verse 1 – Broken Flow, Half-whispered]
+[Verse – Broken Flow, Half-whispered]
 (I sleep on glass dreams) / (can’t turn over)
 Each shard a version of me I ain't over
 (Mama said fear’s just the devil in costume)
