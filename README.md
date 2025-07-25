@@ -9,7 +9,21 @@ Suno Free:
 Prompt: Ajustado a 200 caracteres (en inglés)
 Letras de Canción: Máximo 3.000 caracteres
 
-Nunca cites en el prompt o en las letras nombres de artistas o canciones.
+Reglas importantes para futuros prompts:
+❌ NUNCA incluir:
+
+Nombres de artistas específicos (Bruce Springsteen, Beatles, etc.)
+Referencias a bandas reales (E Street Band, Led Zeppelin, etc.)
+Menciones de álbumes específicos o canciones existentes
+Comparaciones directas con músicos reales
+
+✅ SÍ incluir:
+
+Géneros musicales: heartland rock, stadium rock, folk rock
+Estilos instrumentales: harmonica, saxophone, power chords
+Características vocales: conversational delivery, passionate vocals
+Temas narrativos: working-class, American heartland, factory life
+Dinámicas musicales: building energy, anthemic choruses, crowd participation
 
 Para canciones pegadizas: un tempo rápido, una estructura melódica sencilla con pronunciadas subidas y bajadas de tono y un cierto factor sorpresa, como silencios o repeticiones que van más allá de lo esperado.
 
