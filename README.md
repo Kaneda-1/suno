@@ -357,41 +357,67 @@ chuka-chuka-chuka-chuka
 This is a pretty minimalist example which worked really well. The system will fill in a lot of gaps, so you can see you really don't need much. Less is often more, particularly if the STYLE is well defined. 
 
 \```
-[Verse]
-Sun beats down hard dry road
-Dust devils dance shadows long
-Heat waves twist in gold
-Mirages fade now gone
+[Intro – Muted Choir Loop + Static Crackle]
+(sample: “it’s falling apart…”) [whispered, looped softly in background]
+[Baby voice]  (“i had a dream but it bit me back”)
+(—click. click. click—) [footsteps in an empty hall]
 
-[Chorus]
-Lost in the wasteland void
-Echoes of time destroy
-Lost in the desert sand
-Seeking the promised land
+[Verse 1 – Broken Flow, Half-whispered]
+(I sleep on glass dreams) / (can’t turn over)
+Each shard a version of me I ain't over
+(Mama said fear’s just the devil in costume)
+But I saw his face / and it wore my perfume
 
-[Verse 2]
-Cactus stands alone silent guard
-Hawks circling overhead far
-Bleached bones in the arid yard
-Searching for a falling star
+My trophies melt when I blink
+My goals stalk me in sync
+(If I fall / I fracture the throne)
+God ain’t pick up, I texted His clone
 
-[Bridge]
-Time drips slow never ends
-Mind’s eye bends and bends
-Vultures fly high in the sky
-Dreams of rain make me cry
+(—it’s falling apart…) [sample grows louder, left channel]
 
-[Chorus]
-Lost in the wasteland void
-Echoes of time destroy
-Lost in the desert sand
-Seeking the promised land
+[Hook – Female Vocal, Echoed + Flattened]
+(Nightmares don’t scream)
+They whisper in rhythm
+(Goals too big?)
+Now you sleep with ‘em
+(Failure ain’t real)
+Till you dream you did it
+(—it’s falling apart…) [loop cuts sharply on beat]
 
-[Verse 3]
-Night falls cool winds rise
-Stars blaze across the skies
-Desert whispers truth and lies
-In the silence spirit flies
+[Verse 2 - aggressive + fragmented delivery]
+Eyes wide in REM, I'm chokin’ on plans
+God said "be still" — I installed more RAM
+I can’t stop. Won’t stop. Broke clocks on my desk
+Sleepwalk to success, but my shadow’s depressed
+
+(What’s the price of a W?) — My spine?
+(What’s the cost of a crown?) — My mind?
+I prayed on the plane / and landed in doubt
+Heaven delayed / dreams got rerouted
+
+(—it’s falling apart…) [repeat, pitch-shifted down 3 semitones]
+
+[Bridge – No Percussion, Just Voice and Sample]
+(“dad, the monster in my closet was you”)
+[abrupt silence]
+It ain’t failure I fear — it’s the version of me that wins without feelin’
+The robot me.
+The one with plaques and no pulse.
+The one that never wakes up.
+
+[Hook – Reprise – Slower, more layered voices]
+(Nightmares don’t scream)
+They build you a bed
+(Made of mirrors)
+(Where you rest your head)
+(Goals too big?)
+Yeah, they bite when fed
+(—it’s falling apart…) [chopped like a broken record, repeated erratically]
+
+[Outro – Fading Loop + Child Voice]
+[Baby voice] “wake up. wake up. wake up.”)
+[fade out with final sample: “it’s falling apart…”]
+[heartbeat slows to silence]
 \```
 
 ## Intermediate Example
