@@ -13,54 +13,6 @@ Nunca cites en el prompt o en las letras nombres de artistas o canciones.
 
 Para canciones pegadizas: un tempo rápido, una estructura melódica sencilla con pronunciadas subidas y bajadas de tono y un cierto factor sorpresa, como silencios o repeticiones que van más allá de lo esperado.
 
-SUNO es, en esencia, una herramienta programable. Entiende las indicaciones de texto de principio a fin.
-
-Daré un ejemplo de cómo indiqué mi última creación, que es el proceso que utilizo para casi todas las pistas que creo.
-
-Primero empiezo introduciendo con qué debe trabajar SUNO.
-
-[Indicación: "Pista hardstyle oscura, contundente, maligna e intensa, con energía bruta, paisajes sonoros cinematográficos distorsionados, atmósfera bélica, energía de bajo implacable, clímax explosivos, crescendos orquestales oscuros, Kicks crudos, Redobles de bombo"]
-
-Esto se coloca en la parte superior de la sección de letras; SUNO lo verá como una indicación de comando.
-
-Consejo adicional: También puedes usar solo esta parte y agregar los estilos en los que quieres centrarte y dejar que SUNO trabaje solo con esto; muchas veces producirá cosas muy divertidas y únicas.
-
-En la siguiente parte, comenzamos a desarrollar cómo se supone que debe fluir la canción.
-
-[Desarrollo, subida de sintetizador distorsionado, voz imponente]
-
-(Nuestro Comandante en Jefe. Exidious. Está en el campo.)
-
-Luego, la primera caída
-
-[Caída 1, Kicks rawstyle agresivos, línea de bajo distorsionada]
-
-Añadimos un descanso
-
-[Descanso, interludio cinematográfico, coro y pads]
-
-Desarrollo
-
-[Desarrollo, crescendo orquestal, voces imponentes]
-
-(Bienvenidos a la noche, Nosotros. Somos. Legión!)
-
-Caída 2
-
-[Caída 2, Kicks rawstyle agresivos, redobles de bombo, línea de bajo distorsionada]
-
-Clímax
-
-[Clímax, caídas en capas, intensidad épica]
-
-Outro
-
-[Outro, tensión desvaneciente, sintetizadores distorsionados]
-
-[Fin]
-
-Y agrega los estilos en los que quieres que SUNO se centre.
-
 Example:
 
 [Intro – Muted Choir Loop + Static Crackle]
