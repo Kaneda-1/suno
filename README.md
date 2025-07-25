@@ -26,6 +26,7 @@ Temas narrativos: working-class, American heartland, factory life
 Dinámicas musicales: building energy, anthemic choruses, crowd participation
 
 Para canciones pegadizas: un tempo rápido, una estructura melódica sencilla con pronunciadas subidas y bajadas de tono y un cierto factor sorpresa, como silencios o repeticiones que van más allá de lo esperado.
+Un hit necesita de cinco componentes para colarse en tu cerebro: sorpresa, predictibilidad, repetición rítmica, potencia melódica y receptividad por parte de quien la escucha. La fórmula exacta es:Receptividad + (predictibilidad - sorpresa) + potencia melódica + (repetición rítmica x 1,5) = temazo pegadizo
 
 Example:
 
