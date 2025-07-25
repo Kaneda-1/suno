@@ -10,6 +10,9 @@ Prompt: Ajustado a 200 caracteres (en inglés)
 Letras de Canción: Máximo 3.000 caracteres
 
 Reglas importantes para futuros prompts:
+
+Genera contenido para Suno Pro usando solo referencias genéricas de género musical (arena rock, stadium rock, etc.) sin nombrar artistas, bandas o canciones comerciales específicas en ninguna parte del contenido.
+
 ❌ NUNCA incluir:
 
 Nombres de artistas específicos (Bruce Springsteen, Beatles, etc.)
@@ -27,6 +30,52 @@ Dinámicas musicales: building energy, anthemic choruses, crowd participation
 
 Para canciones pegadizas: un tempo rápido, una estructura melódica sencilla con pronunciadas subidas y bajadas de tono y un cierto factor sorpresa, como silencios o repeticiones que van más allá de lo esperado.
 Un hit necesita de cinco componentes para colarse en tu cerebro: sorpresa, predictibilidad, repetición rítmica, potencia melódica y receptividad por parte de quien la escucha. La fórmula exacta es:Receptividad + (predictibilidad - sorpresa) + potencia melódica + (repetición rítmica x 1,5) = temazo pegadizo
+
+Tags Vocales para Estilo Arena Rock 80s
+Tags de Rango y Tono:
+
+[Mid-Range Male Vocals]
+[Baritone Rock Vocals]
+[Powerful Male Voice]
+
+Tags de Estilo y Técnica:
+
+[Anthemic Vocals]
+[Stadium Rock Vocals]
+[Raspy Rock Voice]
+[Gritty Male Vocals]
+[Passionate Rock Delivery]
+
+Tags de Energía y Expresión:
+
+[Soaring Vocals]
+[Powerful Belting]
+[Emotional Rock Vocals]
+[Uplifting Male Voice]
+[Confident Rock Singing]
+
+Tags para Secciones Específicas:
+
+[Conversational Verse Vocals]
+[Building Pre-Chorus Vocals]
+[Explosive Chorus Vocals]
+[Intimate Bridge Vocals]
+[Climactic Final Vocals]
+
+Tags con Efectos:
+
+[Layered Rock Vocals]
+[Gang Vocal Harmonies]
+[Call and Response Vocals]
+[Echo-Drenched Vocals]
+[Arena Reverb Vocals]
+
+Combinaciones Efectivas:
+
+[Powerful Anthemic Male Vocals]
+[Mid-Range Stadium Rock Voice]
+[Passionate Arena Rock Delivery]
+[Soaring Rock Vocals with Gang Harmonies]
 
 Example:
 
