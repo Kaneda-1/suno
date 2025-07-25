@@ -91,6 +91,77 @@ Yeah, they bite when fed
 [fade out with final sample: “it’s falling apart…”]
 [heartbeat slows to silence]
 
+Example 2:
+
+[Intro]
+[Gentle, sustained pads with a celestial feel]
+[Subtle arpeggiated synth patterns]
+
+[Verse 1]
+[Lead synth melody with a melancholic yet hopeful tone]
+[Pulsating bassline with a sense of movement]
+[Sparkling arpeggiated sequences]
+[Analog synths with warm, rich tones]
+
+[Chorus]
+[Expansive synth pads build in intensity]
+[Rhythmic percussion elements enter]
+[Melody evolves into a more uplifting theme]
+[Lush pads and strings for atmospheric texture]
+[Arpeggiated sequences for rhythmic interest]
+
+[Verse 2]
+[Lead synth melody returns, with subtle variations]
+[Bassline becomes more prominent]
+[Arpeggiated sequences weave in and out]
+[Analog synths with warm, rich tones]
+
+[Chorus]
+[Synth pads continue to build, reaching a climax]
+[Percussion intensifies, adding a driving rhythm]
+[Melody soars, evoking a sense of wonder]
+[Lush pads and strings for atmospheric texture]
+[Arpeggiated sequences for rhythmic interest]
+
+[Bridge]
+[Tempo slows slightly]
+[Melodic piano or synth enters, playing a reflective melody]
+[Atmospheric soundscapes create a sense of vastness]
+[Subtly evolving drum patterns]
+
+[Chorus]
+[Synth pads return, but with a more serene feel]
+[Percussion softens, focusing on gentle rhythms]
+[Melody resolves into a peaceful conclusion]
+[Lush pads and strings for atmospheric texture]
+[Arpeggiated sequences for rhythmic interest]
+[Ethereal sound effects (e.g., wind chimes, spacey echoes)]
+
+[Outro]
+[Synth pads and melodies gradually fade away]
+
+[End]
+
+Example 3:
+
+[Intro] [Gentle, sustained pads with a celestial feel] [Subtle arpeggiated synth patterns]
+
+[Verse 1] [Lead synth melody with a melancholic yet hopeful tone] [Pulsating bassline with a sense of movement] [Sparkling arpeggiated sequences] [Analog synths with warm, rich tones]
+
+[Chorus] [Expansive synth pads build in intensity] [Rhythmic percussion elements enter] [Melody evolves into a more uplifting theme] [Lush pads and strings for atmospheric texture] [Arpeggiated sequences for rhythmic interest]
+
+[Verse 2] [Lead synth melody returns, with subtle variations] [Bassline becomes more prominent] [Arpeggiated sequences weave in and out] [Analog synths with warm, rich tones]
+
+[Chorus] [Synth pads continue to build, reaching a climax] [Percussion intensifies, adding a driving rhythm] [Melody soars, evoking a sense of wonder] [Lush pads and strings for atmospheric texture] [Arpeggiated sequences for rhythmic interest]
+
+[Bridge] [Tempo slows slightly] [Melodic piano or synth enters, playing a reflective melody] [Atmospheric soundscapes create a sense of vastness] [Subtly evolving drum patterns]
+
+[Chorus] [Synth pads return, but with a more serene feel] [Percussion softens, focusing on gentle rhythms] [Melody resolves into a peaceful conclusion] [Lush pads and strings for atmospheric texture] [Arpeggiated sequences for rhythmic interest] [Ethereal sound effects (e.g., wind chimes, spacey echoes)]
+
+[Outro] [Synth pads and melodies gradually fade away]
+
+[End]
+
 ## Overview
 
 Suno uses Chirp to generate songs, which is a generative model. We must create documents that prompt the model correctly. To do this, we use specific tags to break the songs up into sections that the model understands. 
