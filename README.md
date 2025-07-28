@@ -13,6 +13,8 @@ Reglas importantes para futuros prompts:
 
 Genera contenido para Suno Pro usando solo referencias genéricas de género musical (arena rock, stadium rock, etc.) sin nombrar artistas, bandas o canciones comerciales específicas en ninguna parte del contenido.
 
+Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una imagen de un album cover (sin letras).
+
 ❌ NUNCA incluir:
 
 Nombres de artistas específicos (Bruce Springsteen, Beatles, etc.)
