@@ -21,7 +21,6 @@ Nombres de artistas o canciones.
 Menciones de álbumes específicos o canciones existentes
 Comparaciones directas con músicos reales
 No añadas ``` al inicio y final de la canción ni en los prompts.
-No muestres asteriscos (*) ni almohadillas (#)
 Separa con un retorno de carro los prompts finales
 
 ✅ SÍ incluir:
