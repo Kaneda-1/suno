@@ -17,10 +17,11 @@ Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una i
 
 ❌ NUNCA incluir:
 
-Nombres de artistas específicos (Bruce Springsteen, Beatles, etc.)
-Referencias a bandas reales (E Street Band, Led Zeppelin, etc.)
+Nombres de artistas o canciones.
 Menciones de álbumes específicos o canciones existentes
 Comparaciones directas con músicos reales
+No añadas ``` al inicio y final de la canción ni en los prompts.
+Separa con un retorno de carro los prompts finales
 
 ✅ SÍ incluir:
 
