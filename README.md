@@ -17,7 +17,11 @@ Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una i
 
 ❌ NUNCA incluir:
 
-Nombres de artistas o canciones.
+Evita nombres de artistas o canciones:
+"Sin mencionar artistas específicos" - Instrucción directa
+"Usa solo descriptores de género y estilo" - Enfoque en características musicales
+"Describe el sonido, no los intérpretes" - Enfoque en elementos sonoros
+"Evita referencias a nombres propios musicales" - Prohibición explícita
 Menciones de álbumes específicos o canciones existentes
 Comparaciones directas con músicos reales
 No añadas ``` al inicio y final de la canción ni en los prompts.
