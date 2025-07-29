@@ -18,6 +18,7 @@ Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una i
 ❌ NUNCA incluir:
 
 Evita nombres de artistas o canciones:
+Sin mencionar nombres de artistas específicos, describe solo el estilo musical" para garantizar que los prompts cumplan con las mejores prácticas y eviten referencias a artistas particulares.
 "Sin mencionar artistas específicos" - Instrucción directa
 "Usa solo descriptores de género y estilo" - Enfoque en características musicales
 "Describe el sonido, no los intérpretes" - Enfoque en elementos sonoros
