@@ -17,6 +17,8 @@ Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una i
 
 ❌ NUNCA incluir:
 
+Do not reference any real artists, bands, composers, albums or commercial songs in prompt or lyrics.
+
 Evita nombres de artistas o canciones:
 Sin mencionar nombres de artistas específicos, describe solo el estilo musical" para garantizar que los prompts cumplan con las mejores prácticas y eviten referencias a artistas particulares.
 "Sin mencionar artistas específicos" - Instrucción directa
