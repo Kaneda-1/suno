@@ -19,6 +19,14 @@ Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una i
 
 Do not reference any real artists, bands, composers, albums or commercial songs in prompt or lyrics.
 
+No comparisons to known musicians
+
+Use purely generic stylistic terms like ‘arena rock’, ‘folk ballad’, or ‘cinematic ambient’
+
+Only original structures and invented lyrics
+
+Keep it 100% original and do not use any copyrighted likenesses or names.
+
 Evita nombres de artistas o canciones:
 Sin mencionar nombres de artistas específicos, describe solo el estilo musical" para garantizar que los prompts cumplan con las mejores prácticas y eviten referencias a artistas particulares.
 "Sin mencionar artistas específicos" - Instrucción directa
