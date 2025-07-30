@@ -15,6 +15,9 @@ Genera contenido para Suno Pro usando solo referencias genéricas de género mus
 
 Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una imagen de un album cover (sin letras).
 
+Example: Prompt Final (Instrumental Original — Libre de Voces y Referencias Comerciales):
+Atmospheric instrumental track combining ambient pads, cinematic strings, processed analog synth textures, deep bass drones, and textured percussion elements. COMPLETELY INSTRUMENTAL - NO VOCALS OR SINGING. Do not reference any real artists, bands, composers, albums or commercial songs. 90 BPM in 4/4 time. Moody and immersive progression with ethereal sound design, soft glitch layers, shimmering drones, and emotional harmonic swells. Uses high-quality analog-style synthesis, Dolby Atmos spatial depth, perfect EQ balance, subtle tape saturation and wide stereo imaging. Each section evolves naturally with ambient transitions, granular textures, echo-drenched interludes, and rhythmic pulses. Designed for pure instrumental exploration, cinematic backgrounds, and meditative listening without any vocal layers or storytelling lyrics.
+
 ❌ NUNCA incluir:
 
 Do not reference any real artists, bands, composers, albums or commercial songs in prompt or lyrics.
