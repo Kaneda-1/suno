@@ -240,6 +240,8 @@ Example 3:
 
 Example 4 Advanced:
 
+Florecer Contigo
+
 [Title: Florecer Contigo]
 [Style: Spanish Emotional Pop Ballad Duet]
 [SFX: (Warm Cathedral Reverb) + (Soft Piano Ambience) + (Subtle Brush Percussion)]
@@ -252,52 +254,68 @@ Example 4 Advanced:
 [Piano: Soft Chords]
 [Vocal Hum: Subtle, Melancholic]
 Mmm... ah-ah...
-Cuando el invierno apretó...
+Invierno frío...
 
-[Verse 1]
+[Verse 1 - Male]
 [Vocal: Male, Warm, Deep, Natural, Slight Raspiness]
 [Acoustic Guitar: Fingerpicking]
 [Piano: Subtle Chords]
 [Percussion: Light Brushes]
-Te prometo que mis noches fueron grises,
-El cielo pintaba solo despedidas.
-La tierra se secaba, se morían mis raíces,
-Y cada paso dolía, abriendo viejas heridas.
-No había un faro en la orilla del mar,
-Solo el eco del viento queriendo arrastrar.
+Noches grises, sin tu calor,
+El frío en mi piel, sin tu amor.
+La tierra seca, sin tu voz,
+Cada paso, sin tu luz, duele más.
 
-[Chorus]
+[Verse 1 - Female]
+[Vocal: Female, Warm, Deep, Natural, Slight Raspiness]
+[Acoustic Guitar: Fingerpicking]
+[Piano: Subtle Chords]
+[Percussion: Light Brushes]
+El viento grita, sin tu canción,
+El mar se lleva mi corazón.
+Sin tu mirada, sin tu calor,
+El mundo es gris, sin tu amor.
+
+[Chorus - Duet]
 [Vocal: Duet, Powerful, Passionate, Harmonizing]
 [Acoustic Guitar: Full Strumming]
 [Piano: Full Chords]
 [Bass: Subtle Foundation]
 [Percussion: Full Arrangement]
-Pero llegaste como lluvia de verano,
+Llegaste como lluvia de verano,
 Despertando la vida en mi desierto lejano.
 Ahora tan cerca, la luz en tu mano,
 Cada mañana es un nuevo milagro.
 Enséñame a creer, enséñame a volar,
 Junto a ti, quiero volver a soñar.
 
-[Verse 2]
+[Verse 2 - Male]
+[Vocal: Male, Strong, Passionate, Soulful]
+[Acoustic Guitar: Lead]
+[Piano: Counter-Melody]
+[Bass: Steady Foundation]
+Sin tu aliento, no hay floración,
+Sin tu risa, no hay canción.
+El sol se esconde, sin tu pasión,
+La noche es larga, sin tu corazón.
+
+[Verse 2 - Female]
 [Vocal: Female, Strong, Passionate, Soulful]
 [Acoustic Guitar: Lead]
 [Piano: Counter-Melody]
 [Bass: Steady Foundation]
-Te prometo que mi fe se había marchitado,
-Creí que el sol no volvería a brillar.
-Pero tu risa fue el primer brote amado,
-La fuerza que empuja mi tallo a avanzar.
-Si la tormenta llega, sé que no me hundo,
-Contigo la calma, en cualquier segundo.
+Pero tu risa, brote de luz,
+Tu voz, mi refugio, mi cruz.
+En tus brazos, encuentro paz,
+Tu amor, mi faro, mi verdad.
 
-[Chorus]
+[Chorus - Duet]
 [Vocal: Duet, Climactic, Heartfelt Passion]
 [Acoustic Guitar: Full Strumming]
 [Piano: Full Chords]
 [Bass: Subtle Foundation]
 [Percussion: Full Arrangement]
-Pero llegaste como lluvia de verano,
+Llegaste como lluvia de verano,
 Despertando la vida en mi desierto lejano.
 Ahora tan cerca, la luz en tu mano,
 Cada mañana es un nuevo milagro.
@@ -311,23 +329,23 @@ Junto a ti, quiero volver a soñar.
 [Percussion: Subtle Brushes]
 Mmm... ah-ah...
 
-[Bridge]
+[Bridge - Duet]
 [Vocal: Duet, Intimate, Whispered, Swelling Emotion]
 [Acoustic Guitar: Gentle Strumming]
 [Piano: Subtle Chords]
 [Synth Strings: Swelling Harmonies]
 Y así, de las cenizas, renace una flor,
-Tu aliento transforma cualquier dolor.
-No hay invierno que dure si estamos los dos,
-Nuestro presente es nuestro mejor clamor.
+Tu aliento, mi vida, mi amor.
+No hay invierno que dure, si estamos los dos,
+Nuestro amor, eterno, radiante, furioso.
 
-[Final Chorus]
+[Final Chorus - Duet]
 [Vocal: Duet, Climactic, Heartfelt Passion]
 [Acoustic Guitar: Full Strumming]
 [Piano: Full Chords]
 [Bass: Subtle Foundation]
 [Percussion: Full Arrangement]
-Porque llegaste como lluvia de verano,
+Llegaste como lluvia de verano,
 Despertando la vida en mi desierto lejano.
 Ahora tan cerca, la luz en tu mano,
 Cada mañana es un nuevo milagro.
@@ -343,6 +361,9 @@ Contigo quiero...
 Florecer...
 Mmm... ah-ah...
 [End]
+
+Prompt:
+Intimate passionate Spanish emotional pop ballad duet, warm deep natural male and female vocals with slight raspiness, harmonizing and alternating lines with profound emotional depth, acoustic guitar fingerpicking, soft piano, subtle bass, light percussion, intimate minimal arrangement emphasizing vocal interaction, themes of love and new beginnings, tender heartfelt sincerely emotional mood, building from introspective verses to powerful soaring choruses, clean warm production, natural acoustic textures, raw vocal emotion, memorable touching melody, deeply personal listening experience, warm cathedral reverb, soft piano ambience, subtle brush percussion, full band arrangement, rich warm emphasis on vocals, 80 BPM, 4/4 time signature.
 
 
 ## Overview
