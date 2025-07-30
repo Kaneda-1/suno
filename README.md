@@ -237,6 +237,114 @@ Example 3:
 
 [End]
 
+
+Example 4 Advanced:
+
+[Title: Florecer Contigo]
+[Style: Spanish Emotional Pop Ballad Duet]
+[SFX: (Warm Cathedral Reverb) + (Soft Piano Ambience) + (Subtle Brush Percussion)]
+[Time signature: 4/4]
+[Key: G Major]
+[BPM: 80]
+
+[Intro]
+[Acoustic Guitar: Fingerpicking Pattern]
+[Piano: Soft Chords]
+[Vocal Hum: Subtle, Melancholic]
+Mmm... ah-ah...
+Cuando el invierno apretó...
+
+[Verse 1]
+[Vocal: Male, Warm, Deep, Natural, Slight Raspiness]
+[Acoustic Guitar: Fingerpicking]
+[Piano: Subtle Chords]
+[Percussion: Light Brushes]
+Te prometo que mis noches fueron grises,
+El cielo pintaba solo despedidas.
+La tierra se secaba, se morían mis raíces,
+Y cada paso dolía, abriendo viejas heridas.
+No había un faro en la orilla del mar,
+Solo el eco del viento queriendo arrastrar.
+
+[Chorus]
+[Vocal: Duet, Powerful, Passionate, Harmonizing]
+[Acoustic Guitar: Full Strumming]
+[Piano: Full Chords]
+[Bass: Subtle Foundation]
+[Percussion: Full Arrangement]
+Pero llegaste como lluvia de verano,
+Despertando la vida en mi desierto lejano.
+Ahora tan cerca, la luz en tu mano,
+Cada mañana es un nuevo milagro.
+Enséñame a creer, enséñame a volar,
+Junto a ti, quiero volver a soñar.
+
+[Verse 2]
+[Vocal: Female, Strong, Passionate, Soulful]
+[Acoustic Guitar: Lead]
+[Piano: Counter-Melody]
+[Bass: Steady Foundation]
+Te prometo que mi fe se había marchitado,
+Creí que el sol no volvería a brillar.
+Pero tu risa fue el primer brote amado,
+La fuerza que empuja mi tallo a avanzar.
+Si la tormenta llega, sé que no me hundo,
+Contigo la calma, en cualquier segundo.
+
+[Chorus]
+[Vocal: Duet, Climactic, Heartfelt Passion]
+[Acoustic Guitar: Full Strumming]
+[Piano: Full Chords]
+[Bass: Subtle Foundation]
+[Percussion: Full Arrangement]
+Pero llegaste como lluvia de verano,
+Despertando la vida en mi desierto lejano.
+Ahora tan cerca, la luz en tu mano,
+Cada mañana es un nuevo milagro.
+Enséñame a creer, enséñame a volar,
+Junto a ti, quiero volver a soñar.
+
+[Instrumental Break]
+[Acoustic Guitar: Lead Melody]
+[Piano: Emotional Melody]
+[Bass: Gentle Rhythm]
+[Percussion: Subtle Brushes]
+Mmm... ah-ah...
+
+[Bridge]
+[Vocal: Duet, Intimate, Whispered, Swelling Emotion]
+[Acoustic Guitar: Gentle Strumming]
+[Piano: Subtle Chords]
+[Synth Strings: Swelling Harmonies]
+Y así, de las cenizas, renace una flor,
+Tu aliento transforma cualquier dolor.
+No hay invierno que dure si estamos los dos,
+Nuestro presente es nuestro mejor clamor.
+
+[Final Chorus]
+[Vocal: Duet, Climactic, Heartfelt Passion]
+[Acoustic Guitar: Full Strumming]
+[Piano: Full Chords]
+[Bass: Subtle Foundation]
+[Percussion: Full Arrangement]
+Porque llegaste como lluvia de verano,
+Despertando la vida en mi desierto lejano.
+Ahora tan cerca, la luz en tu mano,
+Cada mañana es un nuevo milagro.
+Enséñame a creer, enséñame a volar,
+Junto a ti, quiero volver a soñar.
+
+[Outro]
+[Acoustic Guitar: Gentle Melody]
+[Piano: Soft Chords]
+[Bass: Subtle Rhythm]
+[Percussion: Soft Brushes]
+Contigo quiero...
+Florecer...
+Mmm... ah-ah...
+[End]
+
+
 ## Overview
 
 Suno uses Chirp to generate songs, which is a generative model. We must create documents that prompt the model correctly. To do this, we use specific tags to break the songs up into sections that the model understands. 
