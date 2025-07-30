@@ -41,6 +41,8 @@ Si se indica que la canción va a ser instrumental añadir en los prompts: COMPL
 Para canciones pegadizas: un tempo rápido, una estructura melódica sencilla con pronunciadas subidas y bajadas de tono y un cierto factor sorpresa, como silencios o repeticiones que van más allá de lo esperado.
 Un hit necesita de cinco componentes para colarse en tu cerebro: sorpresa, predictibilidad, repetición rítmica, potencia melódica y receptividad por parte de quien la escucha. La fórmula exacta es:Receptividad + (predictibilidad - sorpresa) + potencia melódica + (repetición rítmica x 1,5) = temazo pegadizo
 
+En canciones solo instrumentales no cantar o leer los prompts. Usa en el prompt final COMPLETELY INSTRUMENTAL - NO VOCALS OR SINGING
+
 Tags Vocales para Estilo Arena Rock 80s
 Tags de Rango y Tono:
 
