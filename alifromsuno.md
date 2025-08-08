@@ -1,4 +1,169 @@
-Ejemplo de canciones Suno
+Ejemplo de canciones Suno:
+
+[soft ambient intro]
+
+breathe in
+breathe out
+
+[rising percussion, steady groove]
+
+follow the wind
+follow the sound
+
+[energy lifts, melodic textures swirl]
+
+nowhere to go
+nowhere to stay
+
+[first soft drop]
+
+open the sky
+carry the day
+
+[instrumental, fragments of “breathe in” and “open the sky” echo lightly]
+
+[outro fades gently]
+
+-----------------------------
+
+[High-pitch Vocal Sample: Looped Throughout]
+Ba dum, Ba dum, Ba dum dum dum dum dum
+Ba dum, Ba dum, Ba dum dum dum dum dum
+
+
+[Verse 1]
+I was man on a mission,
+I was man on commission,
+I was saint in the kitchen,
+Cookin' truth with the tension,
+
+Holy war in my veins,
+Talk to God through the pain,
+Mama said I was chosen,
+Labels said I was vain,
+
+I was lost in the loops,
+I was stuck in the booth,
+I made beats outta panic,
+Turned my trauma to proof,
+
+They want fame, they want chains,
+I want flames, I want change,
+I want minds rearranged,
+I want death in exchange—
+
+[High-pitch Vocal Sample: Looped Throughout]
+Ba dum, Ba dum, Ba dum dum dum dum dum
+Ba dum, Ba dum, Ba dum dum dum dum dum
+
+[Verse 2]
+I was walkin' through the doubt like I knew the map,
+Enemies close with a Judas laugh,
+Every prayer was a pistol blast,
+Every truth that I told made the system crack,
+
+Ripped through the veil like a Sunday suit,
+Preach through the 808s, not the flutes,
+I don't follow no trends, I rebuke,
+All these fake messiahs in shiny boots,
+
+Look—
+I been baptized in Pro Tools sessions,
+Mixed my flaws with the choir confessions,
+Ain’t no flexin’, this God-made lessons,
+Gold chain heavy but my soul still questionin’—
+
+[High-pitch Vocal Sample: Looped Throughout]
+Ba dum, Ba dum, Ba dum dum dum dum dum
+Ba dum, Ba dum, Ba dum dum dum dum dum
+
+[Bridge – Choir Breakdown]
+I ain't never had peace, just purpose
+Every beat I make break curses
+Every line I write, that’s church service
+Tell the Devil: close the curtains—
+
+[High-pitch Vocal Sample: Looped Throughout]
+Ba dum, Ba dum, Ba dum dum dum dum dum
+Ba dum, Ba dum, Ba dum dum dum dum dum
+
+
+-----------------------------
+
+[High Pitch Vocal Sample]
+"Oh, love... is it love?" 
+"Oh, love... is it love?" 
+"Oh, love... is it love?" 
+
+
+...
+[Verse 1]
+Used to fall asleep to her voice notes,
+Now I play 'em like a voicemail roulette
+"Hey it’s me" (click)—next one
+"Where you at?"—I ain’t answer yet
+
+Told her once, “I’m sorry for real,”
+Told her twice, forgot what was real
+Third time? She said, “That’s cute.”
+Then changed her number to something I feel
+
+Still think ‘bout that Lyft ride—
+Arguin’ hard in the back like it’s mine
+Driver played gospel, tried to ignore us
+She cried, I joked—I do that sometimes
+
+I said, “You ain’t here.”
+She said, “That’s the point.”
+I smiled like it meant less—
+She right though that's the point
+
+[Hook]
+
+[BEAT SWITCH]
+
+[Verse 2]
+Text unsent with a period hangin’
+Screenshot thread with a date still bangin’
+Her mama called me “baby,” now she ghost me
+Blocked me once, then unblocked—coasting
+
+Spoke too slick like I’m built for riddles
+She said, “You love crowds, not me in the middle.”
+I was in Nobu, she was in flats
+Told me “Call me later,” I ain’t call back
+
+Now it’s been—
+Three missed birthdays, five missed flights
+Seven typed drafts, one long night
+Tried new love—got close, then dipped
+Whole new girl lookin’ just like grief
+
+Told my friends, “I'm chillin’, I'm fine.”
+Told the mic, “I'm dyin' in time.”
+Told her, “Pull up.” She said, “For what?”
+Click. Cold air. I ain’t moved from the spot.
+
+[Hook]
+(“Oh, love… is it love?”)
+(“Oh, love… is it love?”)
+(“Oh, love… is it love?”)
+
+[Bridge]
+She wanted stillness, I brought storms.
+She wanted mornings, I brought forms.
+She said, “Be real,” I brought poems.
+She said, “No more,” and I heard horns.
+
+[Hook]
+(“Oh, love… is it love?”)
+(“Oh, love… is it love?”)
+(“Oh, love… is it love?”)
+
+[Outro – humming, soul]
+
+
+-------------------------
 
 [Chipmunk Vocal Sample – Hook]
 And it's hot like hell and humid like heaven
@@ -739,4 +904,182 @@ The weight of “wait”
 [Outro – Faint Static, Loop Degrades]
 [loop continues once more, pitched up and degraded]
 (whispers: “i know.”)
+
+
+---------------------------
+
+*[Intro – Soft Analog Guitar Pluck | Slap-back Delay | Shaker Rhythm in Background]
+(Instrumental – no vocals yet)
+[Low bassline enters, smooth and syncopated]
+[Electric guitar riffs twirl slowly, drenched in reverb]
+[Drums are tight and minimal – just hi-hat and kick, locked to the bass]
+
+[Verse 1 – Whispered, Intimate Vocals | Bass-led Groove | Space Between Phrases]
+i heard a song in the sand dunes
+waves moved just like her hands do
+bare feet on a vinyl rug
+moonlight burning through jasmine dust
+
+[Electric guitar accents echo after each line, panned left to right]
+[Let the percussion gently build with soft congas or rim hits]
+
+[Pre-Chorus – Melodic Bass Ascension | Delay-laced Vocals | Slight Tempo Stretch]
+colors fold into the sky
+time slows down when you lie nearby
+
+[Background guitar does call-and-response with the vocals]
+[Add faint ambient textures, like synth pads or pedal swells]
+
+[Chorus – Instrumental-First, Vocals Slide In | Dreamy, Repetitive Hook]
+(far from the noise)
+(far from the rush)
+(we move like smoke)
+(in velvet hush)
+
+[Layer falsetto harmonies subtly, buried in the mix]
+[Guitar riffs get more expressive—wah pedals or slide guitar]
+[Bass locks in with syncopated drums, groove becomes more hypnotic]
+
+[Verse 2 – Even More Laid-Back | Less Words, More Vibe]
+your name’s a wind i can’t spell
+your eyes—two chords in a carousel
+
+[Melody gets woozier, let the instruments take the lead]
+[Add light organ or Rhodes piano flourishes, soft and lo-fi]
+
+[Bridge – Extended Instrumental Jam | Psychedelic Improv Moment]
+[Let guitar go off in a twangy, reverb-drenched solo]
+[Introduce background vocal hums – soft and distant]
+[Rhythm section tightens, tempo holds steady]
+[Add faint sound of waves or birds for texture, very subtle]
+
+[Final Chorus – Same as Before, But Sung with Slight Harmony Layer]
+(far from the noise)
+(far from the rush)
+(we move like smoke)
+(in velvet hush)
+
+[Outro – Strip Back to Just Bass, Guitar, and Percussion | Fade Slowly]
+[No vocals – just groove and space]
+[Reverb trails off into silence]
+
+-----------------------------
+
+
+[Chipmunk Vocal Sample – Hook]
+And it's hot like hell and humid like heaven
+Got the windows down
+Radio station
+Spitting out songs I don't wanna listen to
+All I wanna hear is you
+
+
+[loop begins... chipmunk vocal sample warped, low-pass filtered]
+[pad: thick, humid analog wash, slight crackle]
+[FX: car passing by and distant thunder]
+
+And it's hot like hell and humid like heaven
+Got the windows down
+Radio station
+Spitting out songs I don't wanna listen to
+All I wanna hear is you
+
+[loop dips, hold atmosphere, increase reverb tail]
+
+[Verse 1 – Tight flow, minimal drums, industrial synths pulse like a slow heartbeat]
+[beat: no drums yet – just pulsing sub synth, like a heartbeat underwater]
+We were pushin’ 80 with the roof half broke,
+Laughin’ at clouds like they inside jokes.
+She lit a Parliament, sparked it with spite,
+Said, “You always pick wrong, but you argue like you right.”
+
+[drums enter: distorted 808, hi-hats staggered, synthetic clap every 2 bars]
+Dash full of crumbs, past full of ghosts,
+She said, “Pick a station that don’t lie the most.”
+But the DJ played pain in a four-bar dose—
+Every hook too clean, every verse too close.
+
+[FX: reverse reverb swell on “close” → duck loop]
+Fought at a diner on Exit 9,
+She threw fries like fate, said “You never got time.”
+I said, “Baby, I’m tryin’—” she said, “Try harder.”
+Then kissed me like war, then smiled like water.
+
+[choral pad enters]
+Back in the ride, sweat dripped off her lip,
+We made peace in silence, our fingers slipped.
+And when the loop came on, she hummed that tune,
+And the sun hit her cheek like a silver spoon.
+
+[Hook – loop full volume, drums lift, euphoric synths]
+[beat: soul loop + gospel chords + layered synths (Arp + Juno)]
+[snare cracks like lightning, tempo steady]
+
+And it's hot like hell and humid like heaven
+Got the windows down
+Radio station
+Spitting out songs I don't wanna listen to
+All I wanna hear is you
+
+[Verse 2 – BEAT SWITCH: punchier, glitched synths enter, tempo up, flow swings harder]
+[beat switch: glitched BULLY-style synth stabs, jagged 808s, wide stereo spread]
+[loop now chopped into rhythmic vocal hits – syncopated with beat]
+We hit the state line, gaslight flashin’
+She said, “You trust fate?” I said, “I trust passion.”
+Pulled to the shoulder, heartbeats clappin’
+Kissed through a storm like nothin’ could happen.
+
+[add background vocal loop: “mmm” / “yeah” (baby voice)]
+Played truth or dare till we ran outta lies,
+Her eyes said run, her hands said drive.
+Said “Love ain’t safe,” I said “Neither are we,”
+Then she laughed like fire, real low, off-key.
+
+[synths swirl in reverse, field-recording of rain]
+She sang to the static between two towns,
+Danced in the lot when the rain came down.
+I watched her twirl in a soaked white tee,
+Like a scene too good for a memory.
+
+[FX: tape stop on “memory” → sudden silence, then kick returns]
+Next day, silence like a vinyl skip—
+I said too much, then she dipped.
+Left me with her ring and a stick-on note:
+"Love is loud, but the echoes float."
+
+[Hook – Loop re-enters, but now warped and stereo-panned]
+[beat: gospel chords + analog synth shimmer + heavy sidechain]
+[FX: stereo delay on vocal loop, chorus stacked]
+
+And it's hot like hell and humid like heaven
+Got the windows down
+Radio station
+Spitting out songs I don't wanna listen to
+All I wanna hear is you
+
+[Bridge – Pull all drums, use ambient pad + AI voice harmonizer on hook]
+[beat: removed]
+[pad: ambient shimmer, low rumble like thunder in the back seat]
+[loop becomes distant, detuned]
+
+Now I just ride to hear her name in static,
+Search the dial like it’s cinematic.
+They play what's hot, I play what's true—
+Every song sounds wrong if it ain’t you.
+
+[Final Hook – Loop layered, distorted, euphoric + falling apart]
+[loop layered x2 – one pitched +2 semitones, one normal, both stereo-panned hard L/R]
+[synths: soaring euphoria, gospel organ rising in background]
+[drums: breakbeat stutter + clap rolls, mimicking emotional climax]
+
+And it's hot like hell and humid like heaven
+Got the windows down
+Radio station
+Spitting out songs I don't wanna listen to
+All I wanna hear is you
+
+[Outro: loop repeats 4x, slowly drowned in noise, then tape collapse]
+
+
+--------------------------------
 
