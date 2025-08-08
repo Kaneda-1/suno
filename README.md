@@ -1,7 +1,33 @@
 ```markdown
 # Suno AI Song Syntax
 
-Ejemplo de petición:
+Plantilla para pedirme canciones con tags en inglés y prompt final (1K chars)
+
+1️⃣ Descripción general de la canción
+Quiero una canción en [idioma] sobre [tema principal], con un estilo [género principal] influenciado por [referencias de estilo, sin nombrar artistas concretos].
+Debe ser un tema [adjetivos: oscuro, épico, energético, melancólico…], pensado para sonar en directo con mucha interacción con el público.
+
+2️⃣ Instrucciones de estructura y detalles técnicos
+
+La canción debe contener tags en inglés dentro de la estructura, indicando:
+
+Tipo de instrumento, marca y modelo.
+
+Efectos de sonido (FX) y cómo se usan.
+
+Tempo, compás y técnica de interpretación.
+
+Dinámica (crescendo, staccato, sustain, etc.).
+
+Elementos de concierto (aplausos, gritos, cánticos, feedback).
+
+El formato debe estar narrado como si fuera un guion musical detallado.
+
+La letra debe adaptarse al estilo y transmitir la emoción buscada.
+
+3️⃣ Prompt final
+Al final, genera un prompt en inglés de máximo 1000 caracteres para Sora, describiendo la portada del álbum sin letras, capturando el estilo y atmósfera de la canción.
+
 
 Quiero una canción en español, estilo rock oscuro y épico de concierto, con influencias de rock español de los 80-90 y toques de hard rock internacional, con riffs hipnóticos, bajo grave y batería profunda.
 Incluye en la estructura de la canción tags en inglés detallando instrumentos, equipo (guitarras, bajos, amplis, efectos), tempo, compás, dinámica y todos los FX de sonido en directo (aplausos, gritos, cánticos del público, feedback, etc.).
