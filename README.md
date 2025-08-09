@@ -50,6 +50,42 @@ Al finalizar la canción y el prompt de Suno, crea otro para que Sora cree una i
 Example: Prompt Final (Instrumental Original — Libre de Voces y Referencias Comerciales):
 Atmospheric instrumental track combining ambient pads, cinematic strings, processed analog synth textures, deep bass drones, and textured percussion elements. COMPLETELY INSTRUMENTAL - NO VOCALS OR SINGING. Do not reference any real artists, bands, composers, albums or commercial songs. 90 BPM in 4/4 time. Moody and immersive progression with ethereal sound design, soft glitch layers, shimmering drones, and emotional harmonic swells. Uses high-quality analog-style synthesis, Dolby Atmos spatial depth, perfect EQ balance, subtle tape saturation and wide stereo imaging. Each section evolves naturally with ambient transitions, granular textures, echo-drenched interludes, and rhythmic pulses. Designed for pure instrumental exploration, cinematic backgrounds, and meditative listening without any vocal layers or storytelling lyrics.
 
+COROS:
+Tendrías que pedírmelo desde el principio de la solicitud con algo así:
+
+“Haz una canción en [estilo X], pero asegúrate de que los coros no aumenten de volumen ni de intensidad respecto a las estrofas, manteniendo la misma dinámica en todo el tema salvo que se indique lo contrario.”
+
+O también de forma abreviada:
+
+“Canción en [estilo X], coros con dinámica igual que el resto.”
+
+Con eso, yo en la letra y en el prompt para Suno:
+
+Añadiría notas como "restrained dynamics" o "same arrangement and volume as verses" para todos los coros.
+
+Evitaría frases como “full arrangement” o “emotional climax” salvo que realmente quieras que suba.
+
+Haría que el Final Chorus no sea un “clímax” sino una repetición igual o incluso más suave que el primero.
+
+Reforzaría en el prompt que no se añadan más capas ni suba la voz.
+
+Si quieres, puedo dejarte un formato fijo para pedirlo y que así siempre te salga con coros controlados.
+
+Formato de solicitud Con coros controlados
+
+Título: [Título provisional]
+Estilo / Influencias: [Artistas o estilos, sin citar canciones]
+Idioma: [Español / Inglés / otro]
+Tono: [Romántico, nostálgico, alegre, etc.]
+BPM y compás: [Ej. 78 bpm, 4/4]
+FX: [Sonidos especiales que quieres: lluvia, crowd, vinilo, etc.]
+Instrumentos principales: [Guitarras, piano, batería, etc.]
+Dinámica de coros: Mantener misma intensidad y volumen que versos, sin clímax ni capas extra
+Notas adicionales: [Detalles extra de letra, voz, atmósfera]
+Letra: [Aquí la desarrollará ChatGPT]
+Prompt para Suno: Incluir siempre "restrained chorus dynamics", "same arrangement and volume as verses", "avoid dramatic build" para controlar la intensidad
+
+
 ❌ NUNCA incluir:
 
 Do not reference any real artists, bands, composers, albums or commercial songs in prompt or lyrics.
