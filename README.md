@@ -134,6 +134,26 @@ Combinaciones Efectivas:
 [Passionate Arena Rock Delivery]
 [Soaring Rock Vocals with Gang Harmonies]
 
+Evita Coros altos:
+
+Suno probablemente elevará mucho la voz en los coros porque:
+
+El “orchestral climax” y el “lush harmonies” le indican que debe crecer en intensidad.
+
+La combinación de full orchestral strings + wide guitars + backing choir en el “Final Chorus” refuerza la subida de energía.
+
+“Cinematic” y “uplifting” suelen empujar a Suno a un crescendo bastante grande.
+
+Si buscas que en el estilo Rozalén o Pablo Alborán no pegue un subidón tan fuerte y se mantenga más contenido emocionalmente, podríamos:
+
+Cambiar “orchestral climax” por algo como “orchestral swell with controlled dynamics” o “gentle orchestral lift”.
+
+Sustituir “lush harmonies” por “soft layered harmonies”.
+
+Indicar “maintaining vocal intimacy throughout” en el prompt.
+
+Ajustar “full orchestral strings” por “soft legato strings with moderate volume”.
+
 Examples:
 
 
