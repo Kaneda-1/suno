@@ -37,10 +37,6 @@ Suno Pro:
 Prompt  ajustado a 1000 caracteres (en inglés)
 Letras de Canción: Máximo 5.000 caracteres
 
-Suno Free:
-Prompt: Ajustado a 200 caracteres (en inglés)
-Letras de Canción: Máximo 3.000 caracteres
-
 Reglas importantes para futuros prompts:
 
 Genera contenido para Suno Pro usando solo referencias genéricas de género musical (arena rock, stadium rock, etc.) sin nombrar artistas, bandas o canciones comerciales específicas en ninguna parte del contenido.
