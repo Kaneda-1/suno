@@ -26,14 +26,14 @@ El formato debe estar narrado como si fuera un guion musical detallado.
 La letra debe adaptarse al estilo y transmitir la emoción buscada.
 
 3️⃣ Prompt final
-Al final, genera un prompt en inglés de máximo 1000 caracteres para Sora, describiendo la portada del álbum sin letras, capturando el estilo y atmósfera de la canción.
+Al final, genera un prompt en inglés de máximo 1000 caracteres para Suno, describiendo la portada del álbum sin letras, capturando el estilo y atmósfera de la canción.
 
 
 Quiero una canción en español, estilo rock oscuro y épico de concierto, con influencias de rock español de los 80-90 y toques de hard rock internacional, con riffs hipnóticos, bajo grave y batería profunda.
 Incluye en la estructura de la canción tags en inglés detallando instrumentos, equipo (guitarras, bajos, amplis, efectos), tempo, compás, dinámica y todos los FX de sonido en directo (aplausos, gritos, cánticos del público, feedback, etc.).
 Al final, genera un prompt en inglés de máximo 1000 caracteres ultradetallado para Suno y otro propmt aparte para Sora que describa la escena y estilo del álbum cover, sin letras.
 
-Suno Pro: 
+Suno Pro/Premier: 
 Prompt  ajustado a 1000 caracteres (en inglés)
 Letras de Canción: Máximo 5.000 caracteres
 
