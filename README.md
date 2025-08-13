@@ -67,6 +67,13 @@ Reforzaría en el prompt que no se añadan más capas ni suba la voz.
 
 Si quieres, puedo dejarte un formato fijo para pedirlo y que así siempre te salga con coros controlados.
 
+Control de la dinámica, especialmente de los coros
+Si buscas mantener una dinámica uniforme (sin subidas dramáticas en intensidad o volumen, por ejemplo), debes indicarlo explícitamente usando frases como:
+
+"restrained chorus dynamics", "same arrangement and volume as verses", "avoid dramatic build".
+
+Esto es clave para evitar que Suno realice crescendos no deseados en los coros.
+
 Formato de solicitud Con coros controlados
 
 Título: [Título provisional]
