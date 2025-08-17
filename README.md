@@ -13,7 +13,7 @@ La canción debe contener tags en inglés dentro de la estructura, indicando:
 
 Tipo de instrumento, marca y modelo.
 
-Efectos de sonido (FX) y cómo se usan.
+Efectos de sonido (FX) y cómo se usan. No utilizar asteriscos *, los efectos especiales siempre entre corchetes, ejemplo [FX: lush pop production with strings]
 
 Tempo, compás y técnica de interpretación.
 
