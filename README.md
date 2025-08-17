@@ -13,7 +13,7 @@ La canción debe contener tags en inglés dentro de la estructura, indicando:
 
 Tipo de instrumento, marca y modelo.
 
-Efectos de sonido (FX) y cómo se usan. No utilizar asteriscos *, los efectos especiales siempre entre corchetes, ejemplo [FX: lush pop production with strings]
+Efectos de sonido (FX): No utilizar asteriscos *, los efectos especiales siempre entre corchetes, ejemplo [FX: lush pop production with strings]
 
 Tempo, compás y técnica de interpretación.
 
@@ -296,168 +296,6 @@ Ultra-realistic 8K macro composition showcasing four instruments in perfect harm
 
 Ejemplo de canciones Suno:
 
-[soft ambient intro]
-
-breathe in
-breathe out
-
-[rising percussion, steady groove]
-
-follow the wind
-follow the sound
-
-[energy lifts, melodic textures swirl]
-
-nowhere to go
-nowhere to stay
-
-[first soft drop]
-
-open the sky
-carry the day
-
-[instrumental, fragments of “breathe in” and “open the sky” echo lightly]
-
-[outro fades gently]
-
------------------------------
-
-[High-pitch Vocal Sample: Looped Throughout]
-Ba dum, Ba dum, Ba dum dum dum dum dum
-Ba dum, Ba dum, Ba dum dum dum dum dum
-
-
-[Verse 1]
-I was man on a mission,
-I was man on commission,
-I was saint in the kitchen,
-Cookin' truth with the tension,
-
-Holy war in my veins,
-Talk to God through the pain,
-Mama said I was chosen,
-Labels said I was vain,
-
-I was lost in the loops,
-I was stuck in the booth,
-I made beats outta panic,
-Turned my trauma to proof,
-
-They want fame, they want chains,
-I want flames, I want change,
-I want minds rearranged,
-I want death in exchange—
-
-[High-pitch Vocal Sample: Looped Throughout]
-Ba dum, Ba dum, Ba dum dum dum dum dum
-Ba dum, Ba dum, Ba dum dum dum dum dum
-
-[Verse 2]
-I was walkin' through the doubt like I knew the map,
-Enemies close with a Judas laugh,
-Every prayer was a pistol blast,
-Every truth that I told made the system crack,
-
-Ripped through the veil like a Sunday suit,
-Preach through the 808s, not the flutes,
-I don't follow no trends, I rebuke,
-All these fake messiahs in shiny boots,
-
-Look—
-I been baptized in Pro Tools sessions,
-Mixed my flaws with the choir confessions,
-Ain’t no flexin’, this God-made lessons,
-Gold chain heavy but my soul still questionin’—
-
-[High-pitch Vocal Sample: Looped Throughout]
-Ba dum, Ba dum, Ba dum dum dum dum dum
-Ba dum, Ba dum, Ba dum dum dum dum dum
-
-[Bridge – Choir Breakdown]
-I ain't never had peace, just purpose
-Every beat I make break curses
-Every line I write, that’s church service
-Tell the Devil: close the curtains—
-
-[High-pitch Vocal Sample: Looped Throughout]
-Ba dum, Ba dum, Ba dum dum dum dum dum
-Ba dum, Ba dum, Ba dum dum dum dum dum
-
-
------------------------------
-
-[High Pitch Vocal Sample]
-"Oh, love... is it love?" 
-"Oh, love... is it love?" 
-"Oh, love... is it love?" 
-
-
-...
-[Verse 1]
-Used to fall asleep to her voice notes,
-Now I play 'em like a voicemail roulette
-"Hey it’s me" (click)—next one
-"Where you at?"—I ain’t answer yet
-
-Told her once, “I’m sorry for real,”
-Told her twice, forgot what was real
-Third time? She said, “That’s cute.”
-Then changed her number to something I feel
-
-Still think ‘bout that Lyft ride—
-Arguin’ hard in the back like it’s mine
-Driver played gospel, tried to ignore us
-She cried, I joked—I do that sometimes
-
-I said, “You ain’t here.”
-She said, “That’s the point.”
-I smiled like it meant less—
-She right though that's the point
-
-[Hook]
-
-[BEAT SWITCH]
-
-[Verse 2]
-Text unsent with a period hangin’
-Screenshot thread with a date still bangin’
-Her mama called me “baby,” now she ghost me
-Blocked me once, then unblocked—coasting
-
-Spoke too slick like I’m built for riddles
-She said, “You love crowds, not me in the middle.”
-I was in Nobu, she was in flats
-Told me “Call me later,” I ain’t call back
-
-Now it’s been—
-Three missed birthdays, five missed flights
-Seven typed drafts, one long night
-Tried new love—got close, then dipped
-Whole new girl lookin’ just like grief
-
-Told my friends, “I'm chillin’, I'm fine.”
-Told the mic, “I'm dyin' in time.”
-Told her, “Pull up.” She said, “For what?”
-Click. Cold air. I ain’t moved from the spot.
-
-[Hook]
-(“Oh, love… is it love?”)
-(“Oh, love… is it love?”)
-(“Oh, love… is it love?”)
-
-[Bridge]
-She wanted stillness, I brought storms.
-She wanted mornings, I brought forms.
-She said, “Be real,” I brought poems.
-She said, “No more,” and I heard horns.
-
-[Hook]
-(“Oh, love… is it love?”)
-(“Oh, love… is it love?”)
-(“Oh, love… is it love?”)
-
-[Outro – humming, soul]
-
 
 -------------------------
 
@@ -689,7 +527,7 @@ Talked ‘bout her, but not what it touched yet
 Date nights feel like job interviews
 Smile rehearsed, got fallback cues
 "Yeah that’s crazy!" / "Same here too!"
-Told a girl *“I’m honest”— that was not true
+Told a girl “I’m honest”— that was not true
 
 Scroll too much just to feel engaged
 Friends on mute, but I act amazed
