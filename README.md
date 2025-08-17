@@ -195,6 +195,104 @@ Ajustar “full orchestral strings” por “soft legato strings with moderate v
 
 Examples:
 
+Song: "Whispers of Time"
+[Contemplative Piano Opening]
+[FX: soft sustain pedal, warm acoustic resonance]
+. . . ! . .
+. ! . . . .
+[delicate piano introduction]
+[gentle major key harmony]
+
+[Violin Entry - Ethereal and Graceful]
+[FX: Stradivarius warmth, pristine bow work]
+[violin entrance with silky tone]
+[melodic conversation with piano]
+[classical vibrato technique]
+
+[Cello Foundation - Rich and Grounding]
+[FX: deep wooden resonance, warm lower register]
+[cello providing harmonic foundation]
+[rich bowing techniques]
+[supporting the ensemble harmony]
+
+[Harmonica Introduction - Subtle and Breathy]
+[FX: Hohner Special 20 breath control, gentle dynamics]
+[soft harmonica entrance]
+[folk-inspired melodic phrases]
+[adding unique texture to classical arrangement]
+
+[Chamber Ensemble Conversation]
+[FX: four instruments in perfect balance]
+! . ! . ! .
+[piano arpeggios supporting]
+[violin soaring melody]
+[cello rhythmic foundation]
+[harmonica weaving through]
+
+[Violin Solo - Expressive and Soaring]
+[FX: Stradivarius singing quality, emotional vibrato]
+[passionate violin solo]
+[classical technique with modern phrasing]
+[building emotional intensity]
+
+[Gentle Piano Response]
+[FX: acoustic piano clarity, delicate touch]
+[answering the violin's call]
+[flowing arpeggios and chords]
+[sophisticated harmonic progression]
+
+[Harmonica Interlude - Folk Meets Classical]
+[FX: breath control, bending notes naturally]
+! . . ! . .
+[harmonica solo with classical backing]
+[folk sensibilities in neoclassical context]
+[unique tonal colors]
+
+[Cello Melodic Feature]
+[FX: rich woody tone, expressive bowing]
+[cello taking the melodic lead]
+[deep resonant phrases]
+[emotional depth and warmth]
+
+[Building Ensemble Crescendo]
+[FX: all four instruments rising together]
+! . ! ! . !
+[piano building intensity]
+[violin ascending lines]
+[cello harmonic support]
+[harmonica adding texture]
+
+[Contemplative Bridge]
+[FX: intimate chamber music atmosphere]
+[piano and violin duet]
+[cello providing gentle foundation]
+[harmonica subtle accompaniment]
+
+[Final Ensemble Unity]
+[FX: perfect four-part harmony]
+[all instruments in conversation]
+[building to emotional climax]
+[unified musical statement]
+
+[Peaceful Resolution]
+[FX: gentle fade with natural acoustics]
+. . . . . .
+[piano final chord]
+[violin ethereal harmonics]
+[cello sustained low note]
+[harmonica gentle breath fade]
+
+[Fade to End]
+Style: Contemporary Classical, Neoclassical, Chamber Music, Instrumental, Acoustic, Peaceful, Contemplative, Folk-Classical Fusion
+Final Prompt: Purely instrumental contemporary classical chamber ensemble, no vocals, no singing, only instruments. Contemplative acoustic piano with delicate touch, ethereal Stradivarius violin with pristine classical tone and expressive vibrato, rich wooden cello providing harmonic foundation with warm bowing techniques, gentle Hohner Special 20 harmonica adding unique folk texture to classical arrangement. Moderate tempo 68 BPM in major key with expressive rubato phrasing. Neoclassical themes of reflection and time through four-instrument conversation. Dynamic structure from intimate piano opening to full ensemble climax. Professional acoustic recording with natural chamber music ambience, pristine instrumental clarity showcasing each instrument's unique timbre. Emotional arc from peaceful contemplation to passionate dialogue, featuring classical-folk fusion with sophisticated harmonic progressions. Completely instrumental composition blending traditional chamber music with contemporary sensibilities and harmonica's unique voice.
+
+Prompts para Album Cover - Sora (8K Ultrarrealista)
+Prompt 1:
+8K ultrarealistic intimate chamber music setting, elegant acoustic grand piano with pristine Stradivarius violin resting on music stand, rich wooden cello leaning against vintage chair, classic Hohner Special 20 harmonica placed delicately on piano bench, warm golden library lighting, antique Persian rug, leather-bound music books, soft shadows creating depth, shallow focus with cinematic bokeh, no text, photorealistic wood textures and instrument details, atmospheric warmth
+Prompt 2:
+Ultra-realistic 8K macro composition showcasing four instruments in perfect harmony, extreme close-up of piano keys with violin scroll and tuning pegs visible, cello bridge and f-holes in sharp detail, harmonica reeds catching warm light, professional studio lighting creating dramatic shadows and highlights, rich wood grains and metal textures, shallow depth of field, no text overlay, cinematic color grading, museum-quality instrument photography
+
+
 
 Ejemplo de canciones Suno:
 
@@ -1106,7 +1204,7 @@ The weight of “wait”
 
 ---------------------------
 
-*[Intro – Soft Analog Guitar Pluck | Slap-back Delay | Shaker Rhythm in Background]
+[Intro – Soft Analog Guitar Pluck | Slap-back Delay | Shaker Rhythm in Background]
 (Instrumental – no vocals yet)
 [Low bassline enters, smooth and syncopated]
 [Electric guitar riffs twirl slowly, drenched in reverb]
