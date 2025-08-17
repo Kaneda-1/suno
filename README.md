@@ -2949,7 +2949,7 @@ forever we endure...
 
 ## Styles
 
-Styles are limited to 120 characters total and should not be included in the song, this is crafted separately
+Styles are limited to 1000 characters total and should not be included in the song, this is crafted separately
 
 The system accepts a separate STYLE tag that is a simple comma separate list of genres and modifiers. Interestingly, commas are not necessary and you can get some really interesting hybrid styles without them. Here's one of my most successful examples:
 
@@ -3155,7 +3155,7 @@ A partir de ahora, cuando analices cualquier canción, incluirás siempre:
 - **Época/movimiento**: Contexto histórico musical
 
 ### 5. **Prompt Final Optimizado**
-- **Estilo (120 caracteres)**: Géneros, instrumentos, mood
+- **Estilo (1000 caracteres)**: Géneros, instrumentos, mood
 - **Prompt completo (1000 caracteres)**: Todos los elementos técnicos
 - **Justificación**: Por qué estos elementos específicos
 
@@ -3202,7 +3202,7 @@ A partir de ahora, cuando analices cualquier canción, incluirás siempre:
 
 ### Do's ✅
 - Usar modificadores concretos: `Whispered`, `Angry`, `Slow`
-- Mantener el estilo bajo 120 caracteres
+- Mantener el estilo ajustado a 1000 caracteres
 - Usar puntos y exclamaciones para ritmos instrumentales
 - Especificar instrumentos en solos: `[Lead Guitar Solo]`
 - Usar paréntesis para efectos vocales: `(echoed)`
@@ -3332,9 +3332,10 @@ Main vocal line
 ## 9. **Sección de Limitaciones y Workarounds**
 
 ### Limitaciones Conocidas:
-- Máximo 120 caracteres para estilo
+- Prompt final ajustado a 1000 caracteres
 - Algunos géneros nicho no son reconocidos
 - Modificadores muy específicos pueden ser ignorados
+
 
 ### Workarounds:
 - Usar sinónimos más comunes para géneros obscuros
@@ -3344,7 +3345,7 @@ Main vocal line
 ## 10. **Checklist de Calidad Final**
 
 ### Antes de Generar:
-- [ ] Estilo bajo 120 caracteres
+- [ ] Estilo ajustado a 1000 caracteres
 - [ ] Tags con modificadores apropiados
 - [ ] Estructura lógica y fluida
 - [ ] Efectos sonoros específicos
@@ -6254,7 +6255,7 @@ y vocalizaciones (ahhhh)
 *transición específica*
 ! . ! . ! ! (para instrumentales)
 
-6. ESTILO FINAL (120 CARACTERES MÁXIMO)
+6. ESTILO FINAL (1000 CARACTERES MÁXIMO)
 Formato: género, subgénero, instrumentos, emociones, características vocales
 7. PROMPT FINAL (950-1000 CARACTERES)
 Debe incluir:
@@ -6270,13 +6271,13 @@ Incluir análisis técnico de optimizaciones
 Especificar el género resultante
 Mostrar contador de caracteres exacto
 EJEMPLO DE APLICACIÓN
-INPUT: Canción básica con [Verse] y [Chorus] OUTPUT: Canción optimizada con [Melancholy Verse], efectos, (vocalizaciones), patrones rítmicos, estilo bajo 120 caracteres, prompt final de 1000 caracteres exactos.
+INPUT: Canción básica con [Verse] y [Chorus] OUTPUT: Canción optimizada con [Melancholy Verse], efectos, (vocalizaciones), patrones rítmicos, estilo bajo 1000 caracteres, prompt final de 1000 caracteres exactos.
 CHECKLIST DE CALIDAD
 [ ] Documentación README.md revisada
 [ ] Tags específicos con modificadores
 [ ] Prompts embebidos en toda la canción
 [ ] Sin referencias a artistas reales
-[ ] Estilo ≤ 120 caracteres
+[ ] Estilo ≤ 1000 caracteres
 [ ] Prompt final 1000 caracteres
 [ ] Formato código para fácil copia
 [ ] Análisis técnico incluido
