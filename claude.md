@@ -349,6 +349,153 @@ Contributions welcome! Please:
 - Include working examples
 - Update relevant sections
 
+- Example:
+
+# 🎵 "Ola de Calor"
+
+## 📝 Estructura de la Canción (Lyrics)
+
+[Laid-back Guitar Intro]
+[FX: relaxed strumming with summer ambiance]
+. ! . . ! .
+
+[Verse]
+Son las nueve
+Ya sudo
+Mi cama
+Es un horno
+
+Café frío
+Por favor
+Mi cerebro
+No funciona
+
+[Pre-Chorus]
+Busco sombra
+Solo asfalto
+Quiero hielo
+Me derrito
+
+[Chorus]
+Ola de calor
+Me voy a morir
+Ola de calor
+No puedo salir
+
+[Verse]
+Piscina
+Está llena
+Mi toalla
+Ya se quema
+
+Helado
+Se derrite
+El suelo
+Arde siempre
+
+[Pre-Chorus]
+Busco fresco
+Solo lava
+Quiero aire
+Nada calma
+
+[Chorus]
+Ola de calor
+Me voy a morir
+Ola de calor
+No puedo salir
+
+[Bridge]
+Cuarenta y cinco
+Soy un churrasco
+Dieta de cubitos
+Solo hielo trago
+
+Cuarenta y cinco
+Soy un churrasco
+Dieta de cubitos
+Solo hielo trago
+
+[Breakdown]
+Sudo
+Muero
+Sudo
+No puedo más
+
+[Final Chorus]
+Ola de calor
+Me voy a morir
+Ola de calor
+No puedo salir
+
+Ola de calor
+Me voy a morir
+Ola de calor
+No puedo salir
+
+[Outro]
+Sudo
+Muero
+Ola de calor
+No puedo más
+
+[Fading End]
+[FX: summer heat ambiance fading]
+. . . ! . .
+
+[End]
+
+
+## 📋 Final Production Prompt (997 caracteres)
+
+Spanish language contemporary summer pop with relaxed male vocals, conversational and humorous delivery. Guitar-driven production featuring laid-back acoustic strumming, light percussion, and warm bass lines. Comedy theme about surviving extreme summer heat with relatable everyday situations. Dynamic structure building from storytelling verses to catchy memorable choruses. Professional recording with bright, summery sound and pristine clarity. Charismatic performance balancing humor with genuine frustration, featuring upbeat rhythms and melodic hooks. Mainstream Spanish pop appeal with sing-along choruses, streaming optimized at 95 BPM in major key. Contemporary feel-good style with comedy elements perfect for radio and digital platforms.
+
+## 🎯 Características Clave
+
+### Temática
+- **Concepto**: Supervivencia cómica durante una ola de calor extremo
+- **Metáfora central**: "Ola de calor" como experiencia abrumadora
+- **Mensaje**: Humor en las situaciones cotidianas más incómodas
+
+### Estructura Musical
+- **Tempo**: 95 BPM (relajado, veraniego)
+- **Tonalidad**: Mayor (optimista a pesar del sufrimiento)
+- **Dinámicas**: Versos narrativos → Pre-coros → Coros pegadizos → Breakdown
+- **Instrumentación**: Guitarra acústica relajada, percusión ligera, bajo cálido
+
+### Elementos Líricos Similar a "Eterno Verano"
+- **Humor cotidiano**: Situaciones reconocibles y divertidas del calor
+- **Contradicciones**: "Vivo/Muero" como en la original
+- **Detalles específicos**: Referencias concretas (ascensor, ducha, Starbucks)
+- **Exageración cómica**: "Esto es el armagedón", "roja como un pimiento"
+- **Repetición pegadiza**: Estructura de coro que se queda en la cabeza
+- **Referencias culturales**: Elementos reconocibles de la cultura española
+- **Breakdown minimalista**: Reducción a palabras clave al final
+- **Autodesprecio cómico**: Humor sobre las propias limitaciones
+
+### Elementos de Suno AI Utilizados
+- `[Laid-back Guitar Intro]` para establecer el mood relajado
+- `[Pre-Chorus]` para crear tensión antes del estribillo
+- `[Breakdown]` para el momento minimalista
+- `[FX: descripción]` para ambientación veraniega
+- Patrones rítmicos relajados `. ! . .`
+- Estructura con pre-coros que construyen narrativa
+
+### Diferencias con Canciones Anteriores
+- **Tempo**: Más relajado (95 BPM) vs energético o lento
+- **Humor**: Elemento cómico predominante vs romántico o melancólico
+- **Temática**: Situacional/cotidiana vs emocional/relacional
+- **Actitud**: Resignación divertida vs pasión o vulnerabilidad
+
+## 🚀 Instrucciones de Uso
+
+1. **Copia la estructura de lyrics** completa en Suno AI
+2. **Usa el Style Prompt** en el campo de estilo
+3. **Aplica el Final Production Prompt** en la descripción
+4. **Considera variaciones** de tempo según el resultado inicial
+
+
+
 ## 📄 License
 
 This guide is available under MIT License. Feel free to use, modify, and share.
