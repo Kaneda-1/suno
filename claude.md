@@ -9,6 +9,8 @@
 
 **Cuando trabajemos con Suno AI, siempre especifica:**
 
+You can never quote singers or songs in the prompt.
+
 > **"Formatea los efectos como [FX: descripción] y las modificaciones vocales como (descripción), siguiendo el formato estándar oficial de Suno AI"**
 
 ## 📊 **Tabla de Formatos Correctos**
