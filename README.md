@@ -1,6 +1,10 @@
 ```markdown
 # Suno AI Song Syntax
 
+Es importante indicar la duración en el prompt, ejemplo 
+Duration ≈ 3 min 45 s
+en el prompt final.
+
 Plantilla para pedirme canciones con tags en inglés y prompt final (1K chars)
 
 1️⃣ Descripción general de la canción
