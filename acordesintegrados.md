@@ -69,6 +69,92 @@ un puente col[F]gante que no [E]toca nin[Am]gún mar.
 [Outro - Instrumentation fades slowly, leaving only guitar arpeggio]
 [Am]Llegué con dos maletas... [G]
 Y me quedé con [C]dos pa[F]trias.
+
+Insertar tiempo en prompt
+
+Midnight Alibi
+
+Chord progression integrated in lyrics: [Gm], [Cm], [D7], [Eb], [Bb], [F], [Am]
+
+Prompt: 
+
+Sultry noir blues ballad, seductive female vocals with knowing edge and guilty pleasure, voice dripping with secrets and dangerous games, smoky delivery, Moody guitar Gm-Cm-D7 progression with jazz-influenced chords, walking upright bass with attitude, Intimate late-night production, brush drums with swing, Hammond organ with sultry swells, muted trumpet accents adding film noir atmosphere, Steady 80 BPM with slight swing feel, 4/4 time, Themes of infidelity, lies, forbidden affairs and the thrill of deception through narrative storytelling lyrics, Dynamic from whispered confessions to bold declarations with strategic pauses, Warm analog recording with close vocal intimacy capturing breaths and sighs, natural room ambience suggesting dimly lit bars, vintage tube saturation, Narrative of woman caught in web of her own making, featuring vocal performance that's simultaneously remorseful and exhilarated capturing the dangerous allure of forbidden love in classic blues tradition, approximately 4 minutes total length
+
+[Intro - Muted trumpet over walking bass, smoky and seductive - 0:00-0:15]  
+[Gm] [Cm] [D7] [Gm]  
+[Gm] [Cm] [D7] [Gm]
+
+[Verse 1 - Voice low and confessional, guilty pleasure - 0:15-0:45]
+
+[Gm]I got two phones buzzing on my [Cm]nightstand table,  
+one says "baby" and the [D7]other says "my [Gm]love."  
+I'm spinning stories faster than I'm [Cm]willing or I'm able,  
+playing cards I know I [Eb]shouldn't [D7]be thinking [Gm]of.
+
+[Verse 2 - Bass walks deliberately, voice gains confidence - 0:45-1:15]
+
+[Gm]Tell one I'm working late, tell the [Cm]other I'm at home,  
+delete the evidence be[D7]fore the sun comes [Gm]up.  
+I've memorized the lies, got my [Cm]alibis in stone,  
+living double lives and [Eb]drinking [D7]from both [Gm]cups.
+
+[Chorus - Organ swells, voice opens with dark admission - 1:15-1:45]
+
+[Eb]I got a midnight [Bb]alibi,  
+perfume on my [F]collar that I'll ex[Gm]plain away,  
+[Eb]I got these practiced [Bb]lullabies,  
+sing 'em sweet enough, they [D7]both be[Gm]lieve I'll stay.  
+[Cm]But somewhere deep be[Gm]neath these lies,  
+[Eb]there's a woman losing [D7]sleep and losing [Gm]faith.
+
+[Verse 3 - Trumpet accent, voice shows cracks in facade - 1:45-2:15]
+
+[Gm]Kiss one goodbye at dawn, kiss the [Cm]other after dark,  
+my calendar's a minefield of [D7]careful coordi[Gm]nation.  
+I've become a master at not [Cm]leaving any marks,  
+expert in the art of [Eb]loving [D7]compli[Gm]cation.
+
+[Verse 4 - Intensity building, drums hit harder - 2:15-2:45]
+
+[Am]Sometimes I forget which story [Gm]goes with which man's face,  
+[Cm]catch myself mid-sentence, have to [F]pivot on the [Bb]fly.  
+[Am]This tangled web I'm weaving takes [Gm]more than just grace,  
+it takes a [Eb]cold heart and a [D7]silver-tongued [Gm]lie.
+
+[Chorus - Full band, voice raw with confession - 2:45-3:15]
+
+[Eb]I got a midnight [Bb]alibi,  
+lipstick stains I [F]wash away before I [Gm]walk inside,  
+[Eb]I got these practiced [Bb]lullabies,  
+but the melody gets [D7]harder to re[Gm]cite.  
+[Cm]'Cause guilt's a heavy [Gm]lullaby,  
+[Eb]and every lie I [D7]tell weighs more to[Gm]night.
+
+[Bridge - Stripped down, just voice and guitar, moment of truth - 3:15-3:35]
+
+[Eb]I don't know when the [Bb]thrill became the burden,  
+[Cm]when the game stopped [D7]being fun,  
+[Eb]now I'm just a woman [Bb]drowning in deception,  
+[Eb]and I can't re[D7]member who I [Gm]was before this begun.
+
+[Final Chorus - Resignation and dark acceptance - 3:35-4:00]
+
+[Eb]I got a midnight [Bb]alibi,  
+practiced in the [F]mirror 'til it [Gm]sounds like truth,  
+[Eb]I got these careful [Bb]lullabies,  
+but they can't bring [D7]back my inno[Gm]cence or youth.  
+[Cm]Now I'm just the [Gm]woman,  
+[Eb]who traded love [D7]for lies and empty [Gm]rooms.
+
+[Outro - Trumpet and bass fade, voice becomes whisper - 4:00-4:15]  
+[Gm]Two phones buzzing... [Cm]  
+Two different [D7]names... [Gm]  
+[Gm]Same woman... [Cm]  
+Playing [D7]dangerous [Gm]games...
+
+[final trumpet note fades]  
+(The alibi holds...)
+(For now...)
 [Am]Una en el recuerdo... [E]
 Otra en mi gar[Am]ganta.
 
