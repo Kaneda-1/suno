@@ -159,3 +159,9 @@ Playing [D7]dangerous [Gm]games...
 Otra en mi gar[Am]ganta.
 
 [guitar fading, contemplative]
+
+Instrumentos a tener en cuenta:
+Charango: Textura luminosa y color andino
+Quena: Pinceladas de flauta (brushstrokes)
+Zampoña: Acentos suaves de zampoña
+Anara y rondador: Toques delicados
