@@ -730,6 +730,70 @@ The pipe symbol `|` separates instructions cleanly. Without it, long tags blur t
 
 ### The Problem
 
+TRICK #12: Vocal Adlibs with Brackets
+Asking Suno to Throw In Ad-Libs Instead of Writing Them
+Reliability: Medium.
+
+What This Trick Actually Does
+A tag like [ad-libs] is an instruction, not a lyric. Suno reads it, never sings the word "ad-libs" and, when it cooperates, scatters improvised interjections through the section: the shouts, the "yeah", the "uh", the call-outs a hype vocalist throws between lines.
+
+This is the mirror image of parentheses. Trick #10 puts words inside ( ) and Suno sings them as a backing layer, so (yeah!) is a backing vocal you wrote yourself. Brackets do the opposite. They hand the model a job, not a script:
+
+Parentheses (Trick #10): you write the exact backing words, Suno sings them.
+
+Brackets (this trick): you request ad-libs, Suno improvises the words.
+
+Reach for brackets when you want the texture of ad-libs but don't care about the exact phrases. Reach for parentheses when a specific word has to land.
+
+Why It Works, and Where It's Shaky
+Suno treats bracketed text as production direction, the same channel as [Chorus], [Whisper], or [Guitar Solo]. The tag [ad-libs] rides that channel. It pushes the model toward a performance habit rather than feeding it words. The push is real but soft: the model improvises out of whatever the genre and the style box imply. A trap track answers with "skrrt" and "yeah". A folk ballad often answers with silence, because the style carries no ad-lib vocabulary to draw from.
+
+Syntax Example
+Place the tag as a direction, never as the content you want sung. Three forms, in rising strength.
+
+A modifier line under the section header:
+
+[Chorus]
+[ad-libs, heavy]
+Top of the city, can't bring me down
+Lights on the skyline, this is my town
+Folded into a PIPE stack:
+
+[Chorus | anthemic | ad-libs heavy | wide stereo]
+With a density hint, so the model knows how hard to push:
+
+[ad-libs, sparse]      quiet, occasional
+[ad-libs, heavy]       frequent, aggressive
+[gang vocal ad-libs]   group shouts, crowd energy
+One Real Prompt (Copy / Paste)
+Lyrics:
+
+[Verse]
+[ad-libs, light]
+Late shift money, grinding every day
+Stacking up the wins, won't let it slip away
+
+[Chorus]
+[ad-libs, heavy]
+Top of the city, can't bring me down
+Lights on the skyline, this is my town
+Style:
+
+Trap, confident male rapper, aggressive delivery, heavy 808 bass, crisp hi-hats, ad-libs throughout, hard drums, 135-145 BPM, dark and energetic, Atlanta influence, modern production
+When This Fails
+The genre has no ad-lib tradition. Classical, ambient, and most folk give the model nothing to improvise, so the tag does nothing.
+
+The seed ignores it. This is non-determinism, not a syntax error. Regenerate two or three times before changing anything.
+
+You tagged every section. Ad-libs read as emphasis, and constant emphasis stops registering as emphasis at all.
+
+Iteration Advice
+Match the intensity to the genre. [ad-libs, heavy] on a trap hook lands; the same tag on an acoustic verse gets shrugged off.
+
+Combine the two systems when it helps. Let Suno improvise the filler with brackets, and reserve parentheses for the one or two call-outs you actually care about.
+
+Treat the tag as a dial you test, not a switch you flip. Two or three runs tell you whether the style will play along.
+
 **WRONG** (9 adjectives, confused AI — too many = AI doesn't know which to prioritize):
 
 ```
