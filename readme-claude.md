@@ -31,8 +31,7 @@
 ```
 
 ### Límites Técnicos
-- **Estilo**: 120 caracteres máximo
-- **Prompt Final**: 1000 caracteres
+- - **Prompt Final**: 1000 caracteres
 - **Letra**: 5000 caracteres
 - **Duración**: 2-4 minutos óptimo
 
@@ -390,7 +389,7 @@ Till the healing can start
 4. Revisa flow y rimas
 
 ### Paso 4: Prompts Técnicos
-1. Crea estilo de 120 caracteres
+1. Crea estilo de 1K caracteres
 2. Desarrolla prompt final 1000 caracteres
 3. Genera artwork prompts
 4. Revisa compatibilidad Suno
@@ -433,7 +432,7 @@ Till the healing can start
 - [ ] Estructura con tags válidos
 - [ ] Modificadores específicos y concretos
 - [ ] Efectos embebidos correctamente formateados
-- [ ] Estilo bajo 120 caracteres
+- [ ] Estilo bajo 1K caracteres
 - [ ] Prompt final 1000 caracteres
 - [ ] Letra con vocalizaciones explícitas
 - [ ] Transiciones claras entre secciones
